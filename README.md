@@ -15,9 +15,7 @@ Transaction & Payment Trends: Implemented a waterfall chart to break down spendi
 
 Filters & Interactivity: Incorporated slicers for Income Level, Acquisition Channel, and Customer Segment. Allowed stakeholders to drill down into customer behavior across demographics, acquisition channels, and spending levels.
 
-Dataset Overview:- 
-
-The dataset includes customer-level details such as:
+Dataset Overview:- The dataset includes customer-level details such as:
 
 Demographics: Gender, Income Level, Location
 
