@@ -1,0 +1,1001 @@
+Customer_ID,Signup_Date,Age,Gender,Location,Income_Level,Customer_Segment,Acquisition_Channel,First_Purchase_Date,Total_Purchases,Total_Spend,Average_Order_Value,Churn_Status,Cohort_Month,Customer_Lifetime_Value,Tenure_Days,Last_Login_Date,Engagement_Score,Preferred_Category,Discount_Usage_Rate,Referral_Count,Payment_Method,Return_Rate,Satisfaction_Score,Email_Open_Rate,Mobile_App_User,Subscription_Type,Average_Session_Duration,Customer_Tier
+1,14-04-2025,59,Female,Buckborough,Medium,High Spender,Ads,5/6/2025,29,1440.65,49.68,Active,25-Apr,3403.92,145,5/5/2025,8,Travel,0.31,10,UPI,0.16,2,0.33,No,Premium,17.33,Silver
+2,5/6/2024,42,Male,Ellismouth,Low,Occasional,Referral,27-05-2024,43,731.28,17.01,Active,24-May,1044.19,488,7/8/2025,9,Grocery,0.42,1,Wallet,0.14,4,0.11,No,Premium,57.13,Silver
+3,12/6/2023,53,Male,Gordonton,Low,High Spender,Ads,30-01-2024,12,732.29,61.02,Inactive,23-Dec,1360.42,640,13-10-2024,33,Grocery,0.58,0,Debit Card,0.18,1,0.64,No,Premium,53.32,Bronze
+4,31-03-2025,23,Female,West Janice,Low,Occasional,Referral,30-04-2025,17,2717.21,159.84,Inactive,25-Mar,4041.29,159,30-07-2025,63,Fashion,0.37,0,Debit Card,0.24,4,0.63,No,Free,37.45,Platinum
+5,14-10-2024,28,Male,Tammyville,Low,Bargain Hunter,Referral,18-11-2024,27,2582.36,95.64,Active,24-Oct,4780.32,327,14-11-2024,61,Books,0.88,1,Debit Card,0.09,3,0.67,Yes,Premium,33.24,Platinum
+6,13-09-2024,61,Female,South James,High,One-time,Social Media,25-10-2024,36,751.98,20.89,Active,24-Sep,1120.53,358,24-06-2025,68,Travel,0.92,3,Credit Card,0.12,2,0.64,Yes,Free,51.86,Platinum
+7,21-09-2024,35,Male,South James,High,One-time,Referral,16-11-2024,27,1550.07,57.41,Active,24-Sep,2771.04,350,5/5/2025,68,Fashion,0.71,2,Net Banking,0.21,4,0.78,Yes,Premium,59.87,Gold
+8,2/11/2025,23,Other,New Kenneth,Medium,One-time,Referral,14-02-2025,20,2817.61,140.88,Inactive,25-Feb,6608.34,207,20-08-2025,94,Electronics,0.18,10,UPI,0.14,3,0.13,Yes,Free,56.51,Silver
+9,27-01-2024,31,Female,New Hailey,Medium,Bargain Hunter,Direct,24-02-2024,50,3974.94,79.5,Inactive,24-Jan,8050.75,588,23-07-2025,94,Grocery,0.55,2,UPI,0.09,2,0.4,Yes,Premium,36.36,Gold
+10,1/11/2024,54,Female,Washingtonstad,Low,Bargain Hunter,Direct,3/6/2024,30,4225.53,140.85,Inactive,24-Jan,9968.14,604,4/3/2024,96,Grocery,0.34,4,UPI,0.25,4,0.18,Yes,Free,41.73,Gold
+11,26-04-2024,48,Other,Josephfurt,High,Loyal,Referral,5/5/2024,44,4106.23,93.32,Active,24-Apr,5462.52,498,24-07-2024,59,Grocery,0.9,5,Debit Card,0.28,1,0.18,Yes,Free,6.4,Gold
+12,11/8/2023,20,Other,Port Williammouth,High,One-time,Referral,11/9/2023,20,2162.35,108.12,Inactive,23-Nov,4488.26,668,21-06-2024,95,Travel,0.03,3,Net Banking,0.19,4,0.81,Yes,Premium,9.46,Bronze
+13,1/7/2025,54,Female,North Nancymouth,Medium,Bargain Hunter,Social Media,27-02-2025,3,1508.37,502.79,Active,25-Jan,3686.61,242,3/11/2025,39,Grocery,0.4,10,UPI,0.07,1,0.72,Yes,Gold,2.34,Platinum
+14,24-09-2023,26,Male,Moorefort,High,Bargain Hunter,Social Media,11/10/2023,25,1617.58,64.7,Inactive,23-Sep,3576.85,713,21-12-2023,29,Travel,0.15,8,Debit Card,0.11,1,0.8,No,Gold,55.07,Gold
+15,15-08-2024,62,Female,Lewismouth,Low,Occasional,Email,19-08-2024,3,3519.89,1173.3,Inactive,24-Aug,7093.33,387,16-08-2024,6,Fashion,0.03,9,UPI,0.15,3,0.27,No,Premium,49.54,Bronze
+16,23-08-2024,53,Female,East Tony,High,One-time,Social Media,9/4/2024,49,4250.63,86.75,Active,24-Aug,6544.58,379,26-03-2025,55,Healthcare,0.28,4,Wallet,0.05,1,0.76,Yes,Premium,53.13,Platinum
+17,6/6/2024,27,Male,South Brandy,High,High Spender,Social Media,8/5/2024,14,4296.36,306.88,Active,24-Jun,6832.34,457,28-04-2025,2,Fashion,0.13,0,Net Banking,0.15,3,0.37,Yes,Premium,51.49,Gold
+18,27-07-2024,19,Male,Joyport,Medium,High Spender,Referral,9/12/2024,31,3778.05,121.87,Inactive,24-Jul,6756.94,406,7/11/2025,40,Electronics,0.37,4,Wallet,0.19,2,0.73,No,Gold,3.97,Bronze
+19,4/2/2024,62,Female,Weeksbury,High,High Spender,Ads,26-05-2024,15,193.15,12.88,Inactive,24-Apr,439,522,23-09-2024,62,Fashion,0.88,10,UPI,0.12,2,0.45,No,Premium,10.71,Platinum
+20,17-05-2025,33,Female,Lake Patrick,High,Loyal,Email,6/4/2025,6,2771.89,461.98,Active,25-May,6272.51,112,31-08-2025,19,Travel,0.57,4,Net Banking,0.07,4,0.54,Yes,Premium,43.28,Gold
+21,10/9/2023,24,Other,Jessicaton,Low,Bargain Hunter,Email,30-10-2023,11,2861.41,260.13,Inactive,23-Oct,5080.71,698,11/9/2024,70,Grocery,0.13,4,UPI,0,1,0.34,Yes,Gold,3.94,Bronze
+22,2/8/2025,55,Male,West Tracy,High,Occasional,Email,4/9/2025,16,981.23,61.33,Inactive,25-Feb,1465.44,210,9/4/2025,81,Healthcare,0.27,2,Wallet,0.12,2,0.33,Yes,Free,44.43,Platinum
+23,22-03-2025,60,Male,Williamstad,Low,One-time,Social Media,18-05-2025,15,2496.07,166.4,Inactive,25-Mar,4411.81,168,16-06-2025,79,Electronics,0.66,2,Net Banking,0.12,4,0.51,No,Free,49.47,Platinum
+24,25-06-2024,36,Female,Brittanyton,Medium,High Spender,Referral,8/7/2024,18,3232.57,179.59,Inactive,24-Jun,6302.6,438,17-09-2024,37,Books,0.01,4,Wallet,0.06,1,0.52,No,Free,20.24,Silver
+25,8/6/2024,52,Female,Tamaraland,Medium,Bargain Hunter,Direct,16-09-2024,35,4629.96,132.28,Inactive,24-Aug,10348.87,396,21-08-2025,74,Grocery,0.16,5,Debit Card,0.04,1,0.89,Yes,Free,35.25,Bronze
+26,20-06-2025,53,Female,Riveramouth,Medium,One-time,Ads,25-07-2025,32,3801.93,118.81,Active,25-Jun,8177.42,78,21-07-2025,26,Electronics,0.76,6,Net Banking,0.17,3,0.26,No,Gold,21.97,Platinum
+27,26-10-2024,52,Male,Lake Janet,Medium,High Spender,Email,20-12-2024,10,3237.97,323.8,Inactive,24-Oct,5382.94,315,29-12-2024,85,Electronics,0.03,0,Credit Card,0.06,1,0.63,No,Free,50.64,Gold
+28,18-03-2025,45,Female,Davidhaven,High,Loyal,Ads,5/9/2025,5,1710.77,342.15,Active,25-Mar,3114.6,172,4/6/2025,59,Healthcare,0.93,6,UPI,0.02,1,0.31,Yes,Gold,4.76,Bronze
+29,29-03-2024,25,Other,Port Omarport,Low,High Spender,Referral,15-05-2024,15,3161.84,210.79,Inactive,24-Mar,6738.23,526,18-10-2024,6,Healthcare,0.17,7,Net Banking,0.21,2,0.83,No,Premium,47.97,Platinum
+30,9/6/2023,50,Other,North John,High,High Spender,Referral,14-10-2023,27,777.53,28.8,Active,23-Sep,1932.59,731,8/8/2024,12,Books,0.9,1,Wallet,0.15,1,0.38,No,Premium,48.27,Gold
+31,13-02-2024,44,Male,Wilsonside,Low,One-time,Ads,24-02-2024,23,2530.37,110.02,Inactive,24-Feb,4215.67,571,7/3/2024,15,Books,0.43,5,UPI,0.07,3,0.14,Yes,Free,59.45,Silver
+32,13-01-2024,59,Other,Barajasfurt,Medium,One-time,Email,3/1/2024,27,337.38,12.5,Inactive,24-Jan,537.49,602,5/6/2025,44,Books,0.21,2,Wallet,0.1,1,0.18,Yes,Premium,13.66,Gold
+33,27-04-2025,26,Other,Port Katelynhaven,Low,Bargain Hunter,Social Media,6/6/2025,25,1532.51,61.3,Inactive,25-Apr,2041.24,132,8/1/2025,85,Grocery,0.38,0,Credit Card,0.1,1,0.51,No,Premium,50.92,Platinum
+34,2/7/2024,37,Other,Lake Sarahview,Medium,Loyal,Ads,20-02-2024,30,2659.11,88.64,Active,24-Feb,5483.9,577,16-04-2024,75,Healthcare,0.63,8,Net Banking,0.24,2,0.82,Yes,Gold,15.98,Platinum
+35,28-10-2024,20,Male,Claireview,High,One-time,Ads,21-11-2024,35,701.13,20.03,Active,24-Oct,1544.44,313,12/5/2024,92,Fashion,0.95,9,UPI,0,2,0.76,No,Free,32.97,Silver
+36,26-01-2025,24,Male,West Ruben,Medium,Occasional,Direct,14-03-2025,49,4541.32,92.68,Inactive,25-Jan,7202.02,223,16-06-2025,54,Healthcare,0.27,2,Debit Card,0.22,1,0.87,No,Premium,29.76,Silver
+37,23-05-2024,28,Male,Port Richardview,Low,Occasional,Ads,13-06-2024,48,1294.15,26.96,Inactive,24-May,2616.54,471,27-08-2025,61,Travel,0.67,8,Debit Card,0.16,2,0.28,Yes,Free,52.3,Bronze
+38,31-01-2025,32,Other,New Aprilborough,Medium,High Spender,Direct,25-03-2025,50,2898,57.96,Active,25-Jan,4107.91,218,28-03-2025,34,Grocery,0.9,10,Debit Card,0.2,1,0.55,No,Premium,54.31,Bronze
+39,2/2/2025,40,Other,Lake Jeffreyville,Low,Bargain Hunter,Social Media,,0,0,0,Active,25-Feb,0,216,13-07-2025,23,Books,0.11,3,Credit Card,0.06,2,0.24,Yes,Free,8.1,Bronze
+40,11/4/2023,52,Male,West Tracy,High,Occasional,Ads,21-11-2023,40,3921.74,98.04,Active,23-Nov,4981.68,672,7/2/2025,78,Electronics,0.62,7,Credit Card,0.23,2,0.8,No,Premium,45.26,Gold
+41,3/6/2025,52,Female,Robertfort,Low,High Spender,Ads,24-03-2025,37,2652.8,71.7,Inactive,25-Mar,4019.36,184,5/8/2025,62,Healthcare,0.96,1,UPI,0.13,2,0.28,Yes,Premium,48.93,Gold
+42,4/8/2025,21,Other,West Rachelfurt,High,Loyal,Email,16-04-2025,50,4728.33,94.57,Inactive,25-Apr,6778.19,151,27-08-2025,20,Grocery,0.61,1,Net Banking,0.25,3,0.64,Yes,Gold,19.22,Gold
+43,19-11-2024,42,Other,Amymouth,Low,High Spender,Direct,12/3/2024,20,4597.04,229.85,Inactive,24-Nov,6528.49,291,1/10/2025,45,Fashion,0.33,2,Wallet,0.18,4,0.2,No,Free,5.05,Bronze
+44,6/10/2024,35,Female,Christopherville,Low,One-time,Email,,0,0,0,Active,24-Jun,0,453,3/5/2025,76,Fashion,0.86,3,UPI,0.27,2,0.12,No,Free,35.64,Platinum
+45,30-12-2024,29,Female,Rileyburgh,High,Bargain Hunter,Social Media,13-02-2025,35,118.54,3.39,Inactive,24-Dec,274.26,250,5/7/2025,57,Fashion,0.46,0,UPI,0.25,2,0.15,No,Gold,11.29,Bronze
+46,23-01-2024,27,Male,Jordanton,High,Occasional,Social Media,19-02-2024,17,3475.94,204.47,Inactive,24-Jan,6623.78,592,20-05-2024,2,Healthcare,0.27,9,UPI,0.27,5,0.68,No,Premium,52.63,Bronze
+47,19-07-2024,27,Male,North Alyssa,High,Occasional,Ads,30-08-2024,12,2009.29,167.44,Active,24-Jul,4724.22,414,23-03-2025,44,Electronics,0.97,0,Debit Card,0.13,1,0.11,No,Gold,8.4,Silver
+48,25-06-2024,18,Male,Port Lindsey,Low,Occasional,Direct,19-07-2024,14,4767.69,340.55,Active,24-Jun,10511,438,10/5/2024,73,Electronics,0.16,1,Wallet,0.26,3,0.59,Yes,Gold,26.27,Silver
+49,24-08-2024,64,Female,East Charles,High,One-time,Ads,20-09-2024,39,3452.01,88.51,Inactive,24-Aug,8313.56,378,18-01-2025,53,Books,0.54,0,Net Banking,0.09,3,0.5,Yes,Premium,23.81,Platinum
+50,24-01-2024,26,Female,Barbarashire,High,Occasional,Email,13-02-2024,34,1601.06,47.09,Inactive,24-Jan,2461.11,591,1/8/2025,44,Electronics,0.02,2,Wallet,0.13,2,0.52,Yes,Free,34.83,Gold
+51,16-05-2024,30,Female,East Douglas,Low,One-time,Email,7/3/2024,9,4317.66,479.74,Active,24-May,8993.91,478,26-10-2024,67,Healthcare,0.14,3,Net Banking,0.08,2,0.57,No,Premium,19.87,Silver
+52,9/11/2024,53,Other,West Thomasville,High,Occasional,Email,10/1/2024,5,225.56,45.11,Inactive,24-Sep,409.43,360,19-05-2025,23,Electronics,0.11,7,Debit Card,0.24,2,0.74,Yes,Gold,41.88,Gold
+53,14-07-2025,34,Male,Kristenport,Low,One-time,Direct,13-08-2025,18,143.43,7.97,Inactive,25-Jul,177.15,54,22-07-2025,16,Travel,0.25,6,UPI,0.13,5,0.88,No,Free,38.5,Gold
+54,17-11-2024,23,Other,Mariaborough,Medium,High Spender,Ads,30-12-2024,23,4546.18,197.66,Inactive,24-Nov,10300.45,293,6/8/2025,35,Grocery,0.05,4,Debit Card,0.12,3,0.11,No,Gold,40.95,Silver
+55,19-06-2024,41,Male,New Brandon,Medium,Loyal,Ads,24-06-2024,16,4412.96,275.81,Active,24-Jun,9225.98,444,8/1/2024,64,Grocery,0.99,2,UPI,0.08,1,0.59,Yes,Premium,25.55,Bronze
+56,4/4/2024,49,Female,Port Nicholasside,Low,One-time,Email,5/1/2024,41,1175.97,28.68,Inactive,24-Apr,2701.25,520,18-02-2025,62,Books,0.6,10,Net Banking,0.25,5,0.58,Yes,Premium,28.19,Gold
+57,16-07-2024,64,Female,New Angelicaport,Medium,One-time,Email,19-08-2024,15,4146.01,276.4,Inactive,24-Jul,5546.61,417,1/3/2025,72,Healthcare,0.02,5,Credit Card,0.14,3,0.26,No,Free,5.75,Silver
+58,30-10-2023,22,Female,Blackburgh,High,Bargain Hunter,Email,29-11-2023,16,2007.2,125.45,Inactive,23-Oct,4420.35,677,9/3/2024,79,Electronics,0.23,2,Wallet,0.18,1,0.32,No,Free,22.45,Platinum
+59,20-10-2024,26,Female,New Natalie,Low,One-time,Social Media,12/12/2024,11,1243.24,113.02,Inactive,24-Oct,2873.33,321,7/5/2025,17,Electronics,0.29,7,Wallet,0.13,2,0.17,Yes,Gold,14.79,Platinum
+60,1/1/2025,22,Female,Tateburgh,High,High Spender,Email,24-01-2025,44,1950.37,44.33,Active,25-Jan,4130.22,248,16-07-2025,21,Grocery,0.62,5,Wallet,0.21,2,0.39,Yes,Gold,31.43,Gold
+61,27-08-2024,19,Other,North Aaron,Medium,One-time,Direct,9/5/2024,3,1291.08,430.36,Inactive,24-Aug,2187.58,375,20-02-2025,80,Grocery,0.07,7,UPI,0.11,2,0.47,Yes,Premium,32.77,Bronze
+62,1/6/2025,44,Other,Morganbury,High,One-time,Direct,1/10/2025,26,4776.6,183.72,Inactive,25-Jan,10878.97,243,14-08-2025,25,Electronics,0.21,6,Credit Card,0.17,1,0.67,Yes,Premium,20.62,Silver
+63,1/12/2025,22,Other,Timothyview,Medium,High Spender,Referral,2/11/2025,10,1616.86,161.69,Inactive,25-Jan,3998.48,237,27-05-2025,13,Books,0.7,2,Net Banking,0.11,4,0.33,No,Premium,5.62,Platinum
+64,5/9/2024,31,Female,Lake Shannon,Medium,High Spender,Email,19-06-2024,21,4512.06,214.86,Active,24-May,6218.96,485,29-08-2024,11,Fashion,0.56,5,UPI,0.1,5,0.75,Yes,Premium,15.84,Platinum
+65,1/5/2024,49,Other,Port Rodneytown,High,High Spender,Email,2/10/2024,50,2196.56,43.93,Active,24-Jan,5006.15,610,5/4/2024,70,Fashion,0.43,7,Wallet,0.16,2,0.56,Yes,Premium,17.74,Gold
+66,8/2/2025,31,Male,New Thomas,Low,Loyal,Referral,25-09-2025,2,3860.12,1930.06,Active,25-Aug,8329.71,35,8/5/2025,100,Fashion,0.54,6,Net Banking,0.01,1,0.74,No,Premium,32.23,Bronze
+67,9/6/2024,52,Male,West Scott,High,High Spender,Referral,13-09-2024,20,1339.04,66.95,Active,24-Sep,2454.4,365,12/12/2024,13,Fashion,0.14,6,Credit Card,0.19,5,0.78,Yes,Gold,33.37,Bronze
+68,8/8/2024,23,Female,East Alexandra,Low,High Spender,Referral,8/11/2024,18,3739.01,207.72,Inactive,24-Aug,5853.82,394,10/1/2024,47,Travel,0.14,3,Debit Card,0.13,2,0.21,Yes,Free,34.44,Gold
+69,17-11-2023,21,Female,Scottbury,Medium,Loyal,Referral,12/10/2023,37,818.51,22.12,Inactive,23-Nov,1576.93,659,30-05-2025,7,Electronics,0.62,1,Credit Card,0.19,4,0.23,Yes,Free,17.1,Gold
+70,9/1/2024,58,Other,Rodriguezshire,Low,Bargain Hunter,Ads,27-10-2024,13,1275.15,98.09,Inactive,24-Sep,1805.52,370,29-12-2024,31,Grocery,0.1,6,Credit Card,0.26,1,0.28,Yes,Premium,41.13,Bronze
+71,13-06-2025,41,Female,New Paigeshire,Low,Bargain Hunter,Direct,14-06-2025,1,4753.16,4753.16,Inactive,25-Jun,8344.36,85,9/1/2025,6,Electronics,0.46,0,UPI,0.17,3,0.1,Yes,Free,48.21,Silver
+72,27-01-2025,61,Male,Loganborough,Low,High Spender,Social Media,22-03-2025,2,1878.07,939.03,Inactive,25-Jan,4009.81,222,3/10/2025,63,Grocery,0.33,10,Debit Card,0.15,1,0.16,No,Gold,47.88,Bronze
+73,6/3/2024,30,Male,Christopherport,Low,Occasional,Social Media,6/10/2024,39,1860.41,47.7,Active,24-Jun,3791.4,460,15-04-2025,20,Travel,0.95,9,UPI,0.07,5,0.32,Yes,Free,50.21,Silver
+74,11/12/2024,61,Male,North Tiffany,High,Occasional,Social Media,26-12-2024,12,2873.69,239.47,Active,24-Nov,3933.26,298,22-05-2025,56,Grocery,0.53,9,Wallet,0.2,2,0.75,Yes,Free,59,Gold
+75,7/3/2025,30,Male,Scottstad,Medium,Loyal,Direct,8/9/2025,10,1562.56,156.26,Inactive,25-Jul,3163.45,65,13-07-2025,6,Books,0.33,1,Debit Card,0.3,5,0.7,Yes,Gold,44.55,Silver
+76,6/11/2025,31,Male,Webbport,Medium,Loyal,Referral,7/3/2025,16,3215.85,200.99,Inactive,25-Jun,4043.44,87,29-08-2025,53,Healthcare,0.04,1,Debit Card,0.27,3,0.44,Yes,Gold,45.59,Bronze
+77,10/11/2023,29,Other,Thomashaven,High,Occasional,Referral,11/7/2023,19,4120.04,216.84,Active,23-Oct,9564.47,696,1/10/2024,92,Travel,0.2,9,Wallet,0.2,4,0.87,Yes,Free,3.65,Bronze
+78,28-11-2024,34,Female,Lake Davidberg,High,High Spender,Social Media,1/11/2025,18,1498.03,83.22,Inactive,24-Nov,2955.71,282,13-07-2025,92,Electronics,0.63,10,Debit Card,0.24,3,0.89,Yes,Premium,51.43,Bronze
+79,15-09-2024,33,Female,North Pamelaport,Low,High Spender,Email,,0,0,0,Active,24-Sep,0,356,15-10-2024,25,Fashion,0.56,10,Debit Card,0.27,2,0.37,No,Gold,31.26,Platinum
+80,14-07-2024,51,Other,North Bethanyshire,Low,Loyal,Email,20-07-2024,47,1048.73,22.31,Active,24-Jul,2579.92,419,11/10/2024,67,Healthcare,0.17,8,Credit Card,0.16,2,0.68,No,Premium,22.67,Gold
+81,29-03-2025,29,Male,Phamhaven,Medium,One-time,Ads,5/2/2025,42,1067.37,25.41,Inactive,25-Mar,2088.19,161,31-08-2025,29,Books,0.22,10,Debit Card,0.02,5,0.78,Yes,Free,7.82,Bronze
+82,24-05-2025,47,Female,New Edward,Medium,Occasional,Direct,21-07-2025,17,1819.54,107.03,Inactive,25-May,4256.29,105,31-08-2025,48,Books,0.5,9,Credit Card,0.3,2,0.35,Yes,Free,35.06,Gold
+83,14-09-2023,51,Male,West Jameshaven,Low,One-time,Ads,18-10-2023,30,3111.86,103.73,Active,23-Sep,5755.54,723,23-11-2023,57,Books,0.08,6,Wallet,0.26,3,0.56,No,Gold,39.22,Platinum
+84,26-11-2024,64,Male,Stricklandfort,Low,Loyal,Direct,1/10/2025,23,964.67,41.94,Inactive,24-Nov,2030.24,284,8/7/2025,92,Fashion,0.55,7,Wallet,0.28,5,0.57,Yes,Gold,32.67,Silver
+85,4/2/2024,61,Male,Angelamouth,High,Bargain Hunter,Referral,27-05-2024,10,1808.13,180.81,Inactive,24-Apr,3319.36,522,11/4/2024,93,Electronics,0.73,10,Credit Card,0.3,3,0.4,No,Free,20.85,Gold
+86,28-09-2024,39,Female,New Robertside,Low,High Spender,Referral,11/2/2024,1,1595.53,1595.53,Inactive,24-Sep,3017.8,343,1/4/2025,69,Electronics,0.1,5,Credit Card,0.15,5,0.35,Yes,Gold,31.99,Platinum
+87,1/9/2025,45,Male,Weeksfort,High,Bargain Hunter,Direct,28-02-2025,5,4634.29,926.86,Active,25-Jan,8902.99,240,27-02-2025,60,Books,0.27,7,UPI,0.11,5,0.24,Yes,Premium,57.26,Platinum
+88,21-06-2024,38,Male,North Samuelville,High,One-time,Ads,8/4/2024,48,789.47,16.45,Active,24-Jun,1624.49,442,6/2/2025,97,Electronics,0.95,1,UPI,0.04,3,0.28,Yes,Premium,34.35,Bronze
+89,6/4/2025,60,Male,New Donald,Medium,Loyal,Email,7/12/2025,13,4067.47,312.88,Inactive,25-Jun,8943.78,94,20-07-2025,73,Fashion,0.53,7,Net Banking,0.01,1,0.56,No,Premium,56.69,Bronze
+90,14-01-2024,42,Female,Angelaborough,Medium,Loyal,Social Media,2/10/2024,21,3163.35,150.64,Inactive,24-Jan,4519.87,601,14-07-2025,40,Fashion,0.27,2,Debit Card,0.14,4,0.14,No,Free,18.36,Gold
+91,31-10-2023,61,Female,Melissahaven,High,Occasional,Email,21-11-2023,13,3597.92,276.76,Active,23-Oct,8933.34,676,17-11-2023,11,Electronics,0.86,2,Wallet,0.08,5,0.63,No,Free,42.7,Platinum
+92,28-07-2024,47,Male,Mendozafurt,Low,Bargain Hunter,Direct,31-08-2024,49,1521.88,31.06,Inactive,24-Jul,3715.2,405,24-01-2025,21,Grocery,0.66,7,Wallet,0.12,1,0.5,Yes,Gold,1.17,Silver
+93,7/2/2024,43,Other,New Johnburgh,High,High Spender,Direct,24-07-2024,29,2898.59,99.95,Active,24-Jul,3753.58,431,16-01-2025,8,Grocery,0.42,3,Credit Card,0.2,3,0.27,No,Free,42.29,Bronze
+94,19-08-2025,51,Other,East Erinmouth,Low,Loyal,Social Media,28-09-2025,2,4520.23,2260.11,Inactive,25-Aug,9215.77,18,23-08-2025,36,Grocery,0.46,7,UPI,0.11,2,0.23,No,Free,11.26,Gold
+95,27-09-2024,35,Other,West Lisa,Medium,One-time,Social Media,10/12/2024,1,2500.71,2500.71,Active,24-Sep,5446.66,344,11/6/2024,36,Healthcare,0.06,7,Net Banking,0,5,0.54,Yes,Free,19.55,Gold
+96,8/2/2024,58,Other,Monroechester,Low,Loyal,Email,19-08-2024,36,4491.1,124.75,Active,24-Aug,8112.31,400,22-03-2025,8,Travel,0.27,7,Credit Card,0.11,3,0.49,No,Gold,28.94,Gold
+97,26-01-2025,30,Female,West Rebeccafurt,High,High Spender,Direct,3/12/2025,31,745.03,24.03,Active,25-Jan,1826.42,223,4/1/2025,42,Healthcare,0.23,10,UPI,0.28,1,0.86,No,Free,20.61,Platinum
+98,19-06-2025,61,Other,North Catherinechester,Low,High Spender,Social Media,7/6/2025,25,341.1,13.64,Active,25-Jun,444.42,79,25-07-2025,21,Travel,0.8,6,Net Banking,0.23,3,0.47,No,Free,50.73,Bronze
+99,4/1/2025,38,Male,South Angelamouth,Low,Occasional,Referral,15-04-2025,27,4650.09,172.23,Active,25-Apr,8930.9,158,27-05-2025,65,Healthcare,0.56,1,Debit Card,0.22,1,0.44,No,Gold,50.59,Gold
+100,28-03-2024,30,Male,East Jessica,High,Occasional,Email,5/1/2024,38,4247.07,111.76,Inactive,24-Mar,8903.19,527,30-11-2024,59,Travel,0.47,9,UPI,0.07,4,0.44,Yes,Gold,49.67,Gold
+101,22-07-2024,36,Male,Cookberg,High,High Spender,Direct,17-09-2024,33,1274.84,38.63,Active,24-Jul,1928.35,411,20-05-2025,40,Grocery,0.76,2,Credit Card,0.16,4,0.86,Yes,Premium,18.33,Silver
+102,29-12-2024,30,Female,Campbellfort,Low,High Spender,Social Media,1/8/2025,49,4820.18,98.37,Inactive,24-Dec,8052.84,251,8/3/2025,97,Electronics,0.21,0,Wallet,0,5,0.37,Yes,Premium,45.1,Silver
+103,1/5/2025,62,Male,Kington,High,Loyal,Social Media,1/12/2025,27,2946.79,109.14,Active,25-Jan,4393.57,244,22-06-2025,91,Fashion,0.28,10,UPI,0.06,1,0.73,No,Free,59.86,Platinum
+104,10/11/2024,37,Other,Walkerton,Low,Bargain Hunter,Ads,17-11-2024,15,834.91,55.66,Active,24-Oct,1076.34,330,4/11/2025,34,Books,0.96,7,Credit Card,0.06,5,0.65,Yes,Gold,40.36,Bronze
+105,8/12/2025,41,Other,Thomasmouth,Low,One-time,Referral,9/12/2025,7,368.05,52.58,Inactive,25-Aug,624.9,25,8/12/2025,78,Electronics,0.31,0,Wallet,0.19,1,0.12,No,Premium,19.6,Platinum
+106,18-06-2025,22,Female,South Katiemouth,Low,Bargain Hunter,Social Media,30-06-2025,39,3634.25,93.19,Active,25-Jun,7489.5,80,17-08-2025,64,Healthcare,0.72,4,Credit Card,0.29,1,0.24,Yes,Gold,37.76,Platinum
+107,15-11-2024,35,Male,Timothyville,Low,Loyal,Direct,13-12-2024,26,1178.26,45.32,Active,24-Nov,1923.43,295,8/9/2025,32,Healthcare,0.28,9,Wallet,0.16,2,0.39,No,Free,58.06,Silver
+108,31-03-2025,32,Other,Ericshire,Medium,Loyal,Direct,28-04-2025,8,702.62,87.83,Active,25-Mar,1578.13,159,29-08-2025,11,Fashion,0.37,2,Net Banking,0.07,2,0.3,Yes,Free,53.5,Bronze
+109,24-05-2025,24,Male,East Kylehaven,Medium,High Spender,Social Media,23-07-2025,20,2254.29,112.71,Active,25-May,4438.73,105,7/11/2025,35,Travel,0.37,8,Credit Card,0.16,2,0.83,Yes,Free,7.97,Silver
+110,20-08-2025,53,Other,West Meganport,High,High Spender,Referral,31-08-2025,16,2938.61,183.66,Inactive,25-Aug,5142.98,17,24-08-2025,65,Books,0.35,3,Credit Card,0,4,0.57,Yes,Premium,48.5,Platinum
+111,1/8/2024,19,Female,North Lisa,Medium,High Spender,Direct,14-02-2024,45,781.14,17.36,Inactive,24-Jan,1797.02,607,20-11-2024,86,Grocery,0.53,0,Credit Card,0.09,1,0.82,Yes,Gold,37.37,Bronze
+112,26-05-2025,33,Male,Younghaven,Low,High Spender,Referral,6/10/2025,2,2328.06,1164.03,Active,25-May,4778.51,103,8/2/2025,77,Fashion,0.77,3,Net Banking,0.18,5,0.24,No,Free,41.18,Gold
+113,27-06-2025,18,Male,New Christine,Medium,Bargain Hunter,Ads,8/7/2025,26,972.81,37.42,Inactive,25-Jun,2390.74,71,30-07-2025,100,Electronics,0.39,3,Wallet,0.04,5,0.28,No,Gold,27.72,Bronze
+114,15-06-2025,43,Male,Port Douglashaven,Low,Loyal,Direct,7/9/2025,49,4905.69,100.12,Active,25-Jun,9393.15,83,8/1/2025,85,Books,0.5,8,Debit Card,0.19,3,0.46,Yes,Free,11.44,Bronze
+115,7/8/2025,63,Other,West Lorimouth,High,Bargain Hunter,Ads,19-08-2025,4,1758.27,439.57,Active,25-Jul,2867.74,60,8/10/2025,26,Grocery,0.23,4,Debit Card,0.06,4,0.82,Yes,Free,13.81,Platinum
+116,7/8/2024,54,Male,East Brandi,Medium,Bargain Hunter,Email,31-07-2024,34,2177.5,64.04,Active,24-Jul,3051.49,425,15-03-2025,42,Travel,0.06,4,Net Banking,0.29,4,0.77,No,Free,58.5,Gold
+117,19-10-2024,49,Male,Smithmouth,Low,Loyal,Email,11/6/2024,16,3941.71,246.36,Inactive,24-Oct,5602.89,322,29-04-2025,82,Grocery,0.24,2,Credit Card,0.13,3,0.19,No,Gold,26.11,Silver
+118,20-01-2025,54,Other,New Donaldport,Medium,Occasional,Referral,27-02-2025,49,4056.77,82.79,Active,25-Jan,8640.16,229,4/6/2025,36,Fashion,0.42,6,UPI,0.04,3,0.65,No,Gold,8.69,Platinum
+119,7/5/2024,44,Female,Marymouth,High,Occasional,Referral,27-08-2024,4,4211.32,1052.83,Inactive,24-Jul,9084.93,428,21-12-2024,93,Travel,0.49,4,Net Banking,0.1,3,0.57,No,Free,23.53,Gold
+120,17-09-2023,47,Female,Timothyhaven,Medium,Bargain Hunter,Email,17-10-2023,41,2610.99,63.68,Active,23-Sep,3580.97,720,27-05-2024,30,Fashion,0.61,2,Wallet,0.3,2,0.11,Yes,Gold,59.48,Gold
+121,10/4/2023,58,Male,New Rachelmouth,Low,One-time,Referral,11/9/2023,44,2767.02,62.89,Inactive,23-Oct,6438.96,703,3/1/2024,31,Healthcare,0.36,2,Net Banking,0.24,5,0.22,No,Premium,30.89,Platinum
+122,23-04-2025,58,Male,South Meghantown,High,High Spender,Social Media,5/4/2025,7,575.27,82.18,Active,25-Apr,1313.77,136,6/2/2025,26,Grocery,0.75,3,Wallet,0.02,3,0.7,No,Free,1.54,Silver
+123,23-09-2023,50,Male,Lake Carolynside,High,One-time,Ads,10/7/2023,7,1277.15,182.45,Active,23-Sep,2016.47,714,28-09-2024,61,Travel,0.59,1,Wallet,0.07,1,0.77,No,Free,8.39,Platinum
+124,16-08-2025,39,Other,Bakershire,High,Bargain Hunter,Email,24-09-2025,30,640.56,21.35,Active,25-Aug,1346,21,31-08-2025,75,Books,0.74,4,Net Banking,0.18,3,0.61,No,Free,31.7,Silver
+125,4/5/2025,61,Other,North Meganview,Low,Bargain Hunter,Ads,24-05-2025,8,1302.14,162.77,Active,25-Apr,3155.22,154,6/2/2025,65,Grocery,0.91,9,Credit Card,0.14,3,0.64,Yes,Premium,2.27,Gold
+126,22-02-2025,38,Male,Leslieville,Medium,Occasional,Social Media,3/8/2025,28,1213.35,43.33,Inactive,25-Feb,2030.53,196,3/3/2025,46,Healthcare,0.13,8,Debit Card,0.23,5,0.64,No,Gold,55.7,Silver
+127,4/5/2024,42,Female,Pooleburgh,Low,Occasional,Email,27-04-2024,27,730.5,27.06,Inactive,24-Apr,1659.46,519,4/2/2025,88,Grocery,0.21,8,Credit Card,0.04,1,0.45,No,Gold,5.16,Gold
+128,28-05-2024,65,Female,Steelefurt,Low,One-time,Social Media,15-07-2024,43,1500.25,34.89,Inactive,24-May,3163.61,466,4/2/2025,18,Fashion,0.4,2,UPI,0.23,3,0.48,Yes,Free,22.66,Bronze
+129,4/5/2025,36,Other,Adamburgh,Medium,High Spender,Direct,5/5/2025,2,4404.02,2202.01,Active,25-Apr,5345.22,154,24-05-2025,45,Electronics,0.86,10,Debit Card,0.27,1,0.44,Yes,Gold,21.68,Silver
+130,14-10-2023,63,Female,East Kendra,Medium,Occasional,Referral,11/3/2023,37,2824.08,76.33,Inactive,23-Oct,6251.59,693,8/9/2025,91,Electronics,0,5,UPI,0.15,1,0.72,No,Free,11.96,Gold
+131,22-03-2024,57,Female,New Bradley,Low,One-time,Direct,5/7/2024,22,3601.11,163.69,Active,24-Mar,7150.85,533,4/11/2024,7,Travel,0.04,6,UPI,0.27,4,0.37,Yes,Premium,19.54,Silver
+132,15-11-2023,18,Other,Stephenhaven,Medium,High Spender,Social Media,25-12-2023,40,4939.46,123.49,Active,23-Nov,11918.85,661,6/2/2024,86,Healthcare,0.94,1,Debit Card,0.1,4,0.88,Yes,Gold,41,Silver
+133,28-12-2023,30,Other,Murrayberg,Low,One-time,Email,25-02-2024,23,3359.96,146.09,Active,23-Dec,6807.94,618,7/9/2025,100,Grocery,0.7,0,Credit Card,0.24,3,0.41,Yes,Premium,27.15,Platinum
+134,3/8/2024,40,Female,Medinamouth,Low,Occasional,Referral,4/8/2024,39,4924.13,126.26,Inactive,24-Mar,10706.97,547,9/1/2025,93,Grocery,0.42,9,Net Banking,0.14,4,0.34,Yes,Gold,37.99,Platinum
+135,1/3/2024,59,Female,North Williamton,High,High Spender,Email,28-02-2024,15,309.77,20.65,Active,24-Jan,600.3,612,28-03-2025,5,Electronics,0.02,1,UPI,0.28,2,0.68,Yes,Free,11.34,Bronze
+136,6/6/2024,60,Female,North Daniel,Low,Occasional,Direct,7/6/2024,2,3400.6,1700.3,Inactive,24-Jun,5231.46,457,5/2/2025,11,Travel,0.61,3,Net Banking,0.14,3,0.13,No,Premium,16.87,Platinum
+137,26-02-2024,42,Other,South Williammouth,Medium,Loyal,Direct,26-03-2024,25,2655.66,106.23,Active,24-Feb,5782.37,558,17-07-2024,26,Grocery,0.27,5,Credit Card,0.25,5,0.41,No,Free,49.7,Silver
+138,6/6/2024,54,Other,Bradshawville,High,Loyal,Referral,7/12/2024,17,2011.22,118.31,Active,24-Jun,3383.56,457,15-07-2024,77,Books,0.24,0,UPI,0.03,5,0.84,Yes,Gold,7.83,Gold
+139,18-11-2024,36,Other,Josephton,Medium,One-time,Direct,27-12-2024,19,4563.86,240.2,Active,24-Nov,11372.19,292,19-06-2025,56,Grocery,0.82,1,Debit Card,0.02,5,0.61,Yes,Free,59.71,Silver
+140,6/11/2024,19,Other,Thomasberg,Medium,Bargain Hunter,Email,8/6/2024,6,4894.82,815.8,Active,24-Jun,11973.38,452,23-08-2025,11,Fashion,0.1,2,Debit Card,0.19,2,0.18,Yes,Free,6.91,Gold
+141,26-04-2025,49,Other,Lake Elizabethborough,High,One-time,Referral,6/6/2025,36,4252.89,118.14,Active,25-Apr,10571.71,133,13-08-2025,40,Travel,0.46,10,Credit Card,0.29,3,0.6,Yes,Free,20.46,Bronze
+142,26-05-2024,31,Female,Jenniferhaven,High,Bargain Hunter,Direct,7/6/2024,47,2653.96,56.47,Inactive,24-May,4109.33,468,7/10/2024,75,Electronics,0.89,10,Credit Card,0.2,5,0.9,No,Gold,58,Gold
+143,18-06-2025,27,Other,Port Connie,Low,Loyal,Referral,19-06-2025,40,3180.04,79.5,Inactive,25-Jun,5632.94,80,23-07-2025,73,Healthcare,0.15,3,Net Banking,0.29,2,0.41,No,Free,45.64,Gold
+144,16-12-2024,62,Other,Donnafort,Medium,One-time,Ads,26-01-2025,37,1900.25,51.36,Inactive,24-Dec,4718.47,264,18-12-2024,75,Fashion,0.21,3,Debit Card,0.01,2,0.87,Yes,Gold,35.63,Silver
+145,25-08-2025,40,Male,Robertstown,Medium,High Spender,Email,27-09-2025,27,2913.11,107.89,Active,25-Aug,6181.94,12,31-08-2025,11,Books,0.95,3,Credit Card,0.26,1,0.67,No,Free,14.77,Silver
+146,16-08-2024,43,Other,Jamesview,High,High Spender,Email,15-09-2024,47,2624.91,55.85,Active,24-Aug,5708.65,386,18-03-2025,73,Electronics,0,3,UPI,0.16,4,0.45,Yes,Premium,38.48,Gold
+147,17-02-2025,18,Male,Lake Hunter,Medium,One-time,Referral,4/9/2025,36,1052.33,29.23,Inactive,25-Feb,1347.1,201,8/9/2025,5,Grocery,0.65,5,UPI,0.24,1,0.64,No,Free,53.37,Bronze
+148,24-02-2024,22,Female,Carlosfort,Medium,High Spender,Ads,4/7/2024,10,2336.07,233.61,Active,24-Feb,4077.7,560,13-07-2025,58,Grocery,0.21,8,UPI,0.3,4,0.4,Yes,Premium,39.86,Platinum
+149,26-07-2024,41,Other,Mccarthyville,Medium,Loyal,Ads,20-08-2024,4,385.54,96.39,Active,24-Jul,961.53,407,26-02-2025,40,Travel,0.5,7,Credit Card,0.28,3,0.86,No,Premium,49.18,Silver
+150,24-08-2024,51,Male,South Michael,High,Bargain Hunter,Social Media,9/9/2024,28,1284.8,45.89,Inactive,24-Aug,2631.86,378,18-03-2025,71,Books,0.1,6,Debit Card,0.06,3,0.75,No,Premium,12.91,Bronze
+151,29-05-2024,64,Male,East Christina,Low,Occasional,Email,21-06-2024,49,2451.95,50.04,Inactive,24-May,5987.89,465,26-06-2024,26,Fashion,0.57,10,UPI,0.25,4,0.28,No,Premium,18.93,Platinum
+152,29-06-2025,25,Female,West Taylormouth,Low,Bargain Hunter,Email,8/4/2025,8,2282.99,285.37,Active,25-Jun,3815.46,69,24-07-2025,24,Fashion,0.58,8,Debit Card,0.19,1,0.27,Yes,Free,22.54,Platinum
+153,21-07-2024,54,Male,East Ryan,High,Occasional,Email,16-08-2024,20,1583.9,79.2,Inactive,24-Jul,3823.07,412,6/6/2025,14,Grocery,0.27,3,Wallet,0.01,2,0.31,Yes,Gold,15.32,Gold
+154,16-06-2024,40,Other,East James,High,One-time,Direct,31-07-2024,4,4356.54,1089.13,Active,24-Jun,10092.59,447,16-07-2025,18,Electronics,0.92,2,Credit Card,0.07,1,0.84,Yes,Premium,20.12,Platinum
+155,26-11-2023,42,Other,Caseyville,Low,One-time,Email,25-12-2023,31,2230.65,71.96,Inactive,23-Nov,2864.69,650,5/5/2025,96,Healthcare,0.87,9,Net Banking,0.1,2,0.86,No,Premium,1.64,Bronze
+156,13-07-2025,60,Male,South Marilynview,High,One-time,Direct,24-08-2025,39,1519.13,38.95,Active,25-Jul,3450.34,55,14-08-2025,58,Grocery,0.66,6,UPI,0.15,1,0.75,No,Gold,47.36,Platinum
+157,31-10-2023,59,Male,Melissaberg,Low,Occasional,Referral,12/9/2023,33,2102.99,63.73,Active,23-Oct,3016.65,676,9/11/2024,41,Books,0.95,1,Net Banking,0.09,4,0.41,No,Gold,47.27,Silver
+158,30-05-2025,42,Male,Parksburgh,Low,Bargain Hunter,Email,7/9/2025,26,2897.25,111.43,Active,25-May,6455.18,99,6/12/2025,51,Electronics,0.3,2,Debit Card,0.08,4,0.22,Yes,Gold,28.64,Platinum
+159,18-09-2024,47,Other,Kaiserfort,High,Bargain Hunter,Referral,29-10-2024,13,1102.05,84.77,Active,24-Sep,1475.28,353,19-05-2025,80,Travel,0.84,6,Debit Card,0.2,3,0.16,Yes,Gold,21.76,Platinum
+160,27-11-2023,33,Male,Jordanfort,High,High Spender,Social Media,1/6/2024,46,1365.48,29.68,Inactive,23-Nov,2051.15,649,10/4/2024,22,Healthcare,0.93,10,Debit Card,0.22,1,0.12,No,Premium,5.99,Silver
+161,8/11/2025,22,Other,West Eric,High,One-time,Referral,10/7/2025,30,929.5,30.98,Active,25-Aug,1311.98,26,23-08-2025,17,Healthcare,0.07,2,Credit Card,0.24,3,0.18,No,Gold,43.56,Bronze
+162,30-03-2024,51,Other,East Ericachester,Low,Bargain Hunter,Email,26-05-2024,14,1377.96,98.43,Inactive,24-Mar,1666.05,525,30-04-2025,4,Travel,0.73,8,Credit Card,0.21,1,0.24,Yes,Premium,30.07,Gold
+163,21-09-2024,43,Other,North Paul,Medium,Loyal,Email,22-10-2024,5,2977.95,595.59,Inactive,24-Sep,4490.07,350,13-06-2025,28,Travel,0.81,4,Debit Card,0.12,2,0.28,No,Premium,31.34,Gold
+164,27-10-2024,56,Female,South Kurt,Medium,High Spender,Social Media,12/7/2024,8,3237.05,404.63,Active,24-Oct,4031.71,314,29-07-2025,19,Grocery,0.92,9,Net Banking,0.04,2,0.72,No,Premium,53.79,Gold
+165,8/1/2025,61,Male,Danielmouth,Medium,One-time,Social Media,8/12/2025,7,2279.75,325.68,Inactive,25-Aug,4827.89,36,27-08-2025,85,Books,0.4,8,UPI,0.22,5,0.21,No,Premium,47.08,Silver
+166,13-02-2025,26,Female,Myerschester,Medium,Occasional,Email,18-02-2025,38,239.55,6.3,Active,25-Feb,408.64,205,8/8/2025,30,Fashion,0.23,4,Wallet,0.14,3,0.46,Yes,Premium,56.1,Bronze
+167,2/3/2025,35,Other,Davidville,Low,Loyal,Ads,3/5/2025,48,3301.15,68.77,Inactive,25-Feb,4458.18,215,30-05-2025,26,Grocery,1,7,Debit Card,0.2,1,0.32,No,Free,13.04,Gold
+168,29-08-2024,30,Other,West Lisa,High,High Spender,Ads,22-10-2024,16,3516.86,219.8,Active,24-Aug,7436.42,373,17-03-2025,54,Grocery,0.94,3,Debit Card,0.03,4,0.6,No,Premium,15.14,Silver
+169,11/3/2023,23,Male,Ashleymouth,Low,Occasional,Direct,1/1/2024,49,1094.83,22.34,Active,23-Nov,2302.65,673,8/10/2025,25,Electronics,0.77,5,Wallet,0.17,3,0.62,Yes,Gold,52.82,Gold
+170,25-08-2025,58,Male,Kennedyport,High,High Spender,Direct,26-09-2025,38,1637.63,43.1,Inactive,25-Aug,3020.29,12,9/5/2025,16,Electronics,0.01,4,Wallet,0.23,2,0.11,Yes,Gold,37.61,Bronze
+171,3/1/2025,63,Other,North David,High,Loyal,Direct,26-03-2025,4,3935.73,983.93,Active,25-Mar,5127.04,189,27-07-2025,30,Grocery,0.13,7,Net Banking,0.12,4,0.88,Yes,Free,53.28,Bronze
+172,25-04-2025,31,Male,West Victor,High,Bargain Hunter,Email,15-05-2025,7,1427.2,203.89,Inactive,25-Apr,1727.1,134,30-08-2025,22,Books,0.4,1,Debit Card,0.12,1,0.35,Yes,Free,35.18,Bronze
+173,26-08-2025,38,Female,Jeffreymouth,High,Bargain Hunter,Direct,10/2/2025,19,1513.35,79.65,Inactive,25-Aug,3480.05,11,9/2/2025,44,Electronics,0.96,5,UPI,0.05,3,0.37,No,Gold,25.85,Bronze
+174,14-12-2024,54,Male,Aguilarview,High,High Spender,Referral,1/5/2025,18,3538.44,196.58,Inactive,24-Dec,5179.33,266,23-01-2025,46,Electronics,0.45,5,Net Banking,0.26,4,0.45,Yes,Gold,41.65,Bronze
+175,8/1/2024,52,Other,Jonland,High,Loyal,Ads,26-08-2024,43,4115.39,95.71,Active,24-Aug,9937.26,401,17-06-2025,39,Travel,0.72,8,Credit Card,0.04,5,0.72,Yes,Free,38.16,Bronze
+176,30-10-2024,54,Male,Lake Brandonburgh,High,Loyal,Direct,20-12-2024,14,2738.27,195.59,Inactive,24-Oct,4518.5,311,20-02-2025,17,Fashion,0.51,9,Wallet,0.18,5,0.57,Yes,Premium,22.12,Gold
+177,3/5/2024,49,Other,Anthonyland,High,High Spender,Social Media,4/3/2024,37,2527.64,68.31,Active,24-Mar,3424.65,550,26-12-2024,52,Books,0.51,6,UPI,0.04,1,0.45,No,Free,30.5,Silver
+178,22-10-2023,37,Other,Port Jeremyside,High,Occasional,Email,11/3/2023,2,4491.18,2245.59,Inactive,23-Oct,10795.15,685,22-06-2025,99,Books,0.62,4,Debit Card,0.25,1,0.68,Yes,Premium,21.13,Silver
+179,4/3/2024,48,Male,Coffeystad,High,Occasional,Referral,16-04-2024,29,204.73,7.06,Active,24-Apr,359.56,521,20-07-2024,82,Travel,0.52,2,Credit Card,0.26,5,0.77,Yes,Free,14.04,Platinum
+180,21-06-2025,28,Other,Hayneschester,Low,High Spender,Social Media,31-07-2025,28,4321.9,154.35,Inactive,25-Jun,7999.68,77,8/5/2025,27,Grocery,0.79,4,Wallet,0.23,1,0.54,Yes,Free,40.92,Bronze
+181,10/8/2024,57,Other,Lake Arthurfurt,High,Occasional,Ads,12/5/2024,23,4758.43,206.89,Inactive,24-Oct,9990.02,333,3/1/2025,100,Grocery,0.32,2,UPI,0.26,4,0.18,Yes,Free,16.68,Platinum
+182,24-04-2025,51,Other,Brittanystad,Medium,High Spender,Direct,30-05-2025,1,1535.75,1535.75,Inactive,25-Apr,2313.54,135,5/11/2025,19,Fashion,0.82,7,Net Banking,0.2,5,0.51,No,Gold,33.12,Platinum
+183,22-11-2023,61,Male,Rodriguezmouth,High,One-time,Email,25-11-2023,10,4626.15,462.61,Active,23-Nov,10682.61,654,2/4/2025,94,Grocery,0.24,6,Debit Card,0.24,4,0.82,Yes,Free,10.77,Platinum
+184,6/5/2024,35,Other,Markberg,Medium,One-time,Direct,6/12/2024,41,4846.17,118.2,Active,24-Jun,11045.15,458,13-03-2025,64,Grocery,0.87,0,UPI,0.16,5,0.64,Yes,Gold,11.29,Silver
+185,27-01-2024,18,Other,North Tracy,Low,Occasional,Ads,3/10/2024,38,63.63,1.67,Active,24-Jan,136.72,588,21-08-2024,75,Electronics,0.16,1,Net Banking,0.06,3,0.43,Yes,Free,52.42,Gold
+186,27-12-2024,23,Male,Sylviaberg,High,Occasional,Referral,15-01-2025,2,2611.42,1305.71,Active,24-Dec,4997.07,253,20-01-2025,6,Electronics,0.82,3,UPI,0.01,3,0.11,No,Free,31.04,Bronze
+187,6/10/2024,28,Other,South Tabitha,Medium,Occasional,Ads,7/2/2024,43,711.49,16.55,Active,24-Jun,1741.82,453,8/12/2024,46,Healthcare,0.6,0,Debit Card,0.19,2,0.76,Yes,Gold,10.52,Platinum
+188,27-03-2025,41,Female,Laneborough,High,High Spender,Referral,19-05-2025,41,1374.39,33.52,Inactive,25-Mar,3429.62,163,7/11/2025,41,Fashion,0.91,7,Debit Card,0.09,5,0.51,No,Gold,50.22,Gold
+189,5/3/2025,36,Female,Melissabury,Low,Loyal,Referral,5/5/2025,50,4641.67,92.83,Inactive,25-May,5690.04,126,16-07-2025,47,Travel,0.07,7,Credit Card,0.08,5,0.3,Yes,Premium,12.09,Platinum
+190,16-06-2025,30,Male,Port Debbieburgh,Low,Loyal,Direct,8/6/2025,38,2697.43,70.98,Inactive,25-Jun,4632.59,82,7/10/2025,4,Fashion,0.86,6,UPI,0.14,4,0.55,Yes,Premium,46.5,Silver
+191,11/9/2023,24,Female,Cliffordport,High,Loyal,Ads,19-12-2023,30,3650.5,121.68,Active,23-Nov,9051.39,667,17-04-2025,38,Fashion,0.79,8,UPI,0.19,3,0.12,Yes,Gold,19.55,Platinum
+192,29-07-2024,31,Male,New Susanstad,High,Occasional,Direct,23-08-2024,45,3849.44,85.54,Inactive,24-Jul,4843.83,404,31-03-2025,46,Books,0.75,7,UPI,0.04,5,0.39,No,Free,19.38,Gold
+193,12/4/2023,63,Other,Phillipsburgh,High,High Spender,Ads,1/10/2024,41,4276.46,104.3,Active,23-Dec,7275.82,642,11/3/2024,69,Books,0.28,1,Debit Card,0.17,4,0.14,No,Gold,49.73,Platinum
+194,19-01-2025,25,Other,Rodgersborough,Medium,Bargain Hunter,Referral,3/7/2025,12,3744.44,312.04,Inactive,25-Jan,5177.59,230,8/5/2025,26,Healthcare,0.47,6,Net Banking,0.17,4,0.41,No,Gold,28.5,Gold
+195,13-08-2024,27,Male,Mollybury,Low,One-time,Email,16-09-2024,20,2706.24,135.31,Active,24-Aug,5547.3,389,23-01-2025,58,Fashion,0.38,5,Wallet,0.3,3,0.48,No,Free,3.69,Silver
+196,3/9/2025,48,Female,Riveraview,High,Occasional,Referral,21-04-2025,27,3714.32,137.57,Inactive,25-Mar,7222.61,181,26-03-2025,93,Fashion,0.11,3,UPI,0.05,3,0.9,No,Free,32.55,Gold
+197,20-12-2024,44,Other,West Daniel,High,Bargain Hunter,Social Media,13-01-2025,26,118.87,4.57,Inactive,24-Dec,220.3,260,4/1/2025,38,Grocery,0.47,7,Credit Card,0.12,4,0.34,Yes,Free,25.59,Platinum
+198,19-07-2025,55,Male,New Ryanton,Low,Loyal,Direct,22-08-2025,14,1841.26,131.52,Inactive,25-Jul,4500.73,49,29-08-2025,86,Books,0.64,1,Wallet,0.02,1,0.86,Yes,Free,7.03,Platinum
+199,11/10/2024,62,Male,Lake Steven,High,Loyal,Ads,12/5/2024,44,547.56,12.44,Inactive,24-Nov,1175.17,300,15-02-2025,82,Grocery,0.55,0,Debit Card,0.03,1,0.27,Yes,Free,31.5,Platinum
+200,15-03-2025,19,Other,Michaelburgh,Medium,Occasional,Ads,30-04-2025,16,1448.41,90.53,Inactive,25-Mar,2201.28,175,30-03-2025,28,Books,0.19,3,Net Banking,0.02,4,0.33,No,Gold,39.21,Gold
+201,28-01-2024,43,Other,Lake Martinmouth,Medium,Bargain Hunter,Email,27-03-2024,39,407.12,10.44,Active,24-Jan,901.4,587,7/6/2025,64,Healthcare,0.58,4,Wallet,0.11,1,0.79,No,Premium,34.93,Platinum
+202,18-06-2025,59,Female,North Melissa,Low,One-time,Email,7/12/2025,28,4578.07,163.5,Active,25-Jun,5702.35,80,17-07-2025,39,Fashion,0.35,9,Net Banking,0.16,4,0.46,Yes,Free,25.96,Bronze
+203,31-05-2025,38,Female,Port Nathanfort,Medium,Loyal,Email,17-06-2025,4,3176.64,794.16,Active,25-May,4803.42,98,6/3/2025,43,Travel,0.05,2,Credit Card,0.04,4,0.33,No,Premium,45.54,Platinum
+204,19-11-2023,65,Male,Amybury,High,High Spender,Email,14-12-2023,16,1445.96,90.37,Inactive,23-Nov,2019.9,657,15-06-2025,21,Healthcare,0.61,10,Wallet,0.1,3,0.18,Yes,Free,16.38,Gold
+205,16-02-2024,20,Other,New Ashleyville,High,High Spender,Referral,4/9/2024,28,2768.93,98.89,Inactive,24-Feb,6231.83,568,5/1/2024,18,Healthcare,0.46,5,Net Banking,0.14,2,0.25,No,Free,29.04,Gold
+206,16-12-2024,63,Male,Debratown,Low,Occasional,Social Media,1/7/2025,48,2382.77,49.64,Active,24-Dec,2926.76,264,3/4/2025,10,Travel,0.45,8,Debit Card,0.07,5,0.41,No,Gold,32.81,Silver
+207,31-05-2025,32,Male,Youngfort,Low,One-time,Referral,6/12/2025,19,1162.71,61.2,Active,25-May,2346.49,98,16-06-2025,80,Grocery,0.22,4,Net Banking,0.07,1,0.31,Yes,Premium,5.26,Bronze
+208,15-03-2025,50,Other,East Maria,High,High Spender,Social Media,4/3/2025,2,4576.04,2288.02,Active,25-Mar,8360.04,175,4/9/2025,2,Grocery,0.38,3,Wallet,0.25,5,0.66,No,Premium,6.34,Gold
+209,21-04-2024,22,Male,Kennedyview,Medium,One-time,Email,5/8/2024,1,953.37,953.37,Inactive,24-Apr,1696.63,503,18-10-2024,66,Books,0.78,2,Wallet,0.04,1,0.53,Yes,Free,44.41,Silver
+210,19-10-2024,22,Male,Robbinsborough,Medium,Occasional,Referral,24-10-2024,15,3664.64,244.31,Active,24-Oct,5571.05,322,28-02-2025,46,Grocery,0.66,1,Credit Card,0.12,3,0.27,Yes,Gold,3.32,Platinum
+211,5/7/2025,26,Male,New Katherine,Low,High Spender,Referral,16-06-2025,42,2243.1,53.41,Inactive,25-May,2981.75,122,8/9/2025,79,Books,0.65,2,Debit Card,0.26,3,0.75,No,Gold,14.91,Bronze
+212,3/8/2024,30,Other,Mitchellborough,High,One-time,Social Media,21-04-2024,1,3693.44,3693.44,Active,24-Mar,8150.27,547,3/7/2025,75,Grocery,0.33,6,Debit Card,0.08,4,0.46,Yes,Gold,6.82,Platinum
+213,6/5/2024,45,Other,East Brandonborough,Medium,Loyal,Email,7/8/2024,5,1705.81,341.16,Inactive,24-Jun,3846.32,458,8/5/2025,34,Healthcare,0.67,8,Wallet,0.14,4,0.3,Yes,Premium,12.99,Silver
+214,15-03-2025,30,Other,Velezstad,Medium,Occasional,Ads,30-04-2025,6,3895.03,649.17,Inactive,25-Mar,5945.94,175,16-06-2025,32,Grocery,0.12,9,Credit Card,0.14,4,0.79,Yes,Free,36.61,Silver
+215,2/4/2025,20,Male,Robertport,Low,Occasional,Email,3/9/2025,4,966.17,241.54,Active,25-Feb,2269.76,214,2/6/2025,58,Travel,0.74,2,Debit Card,0.1,4,0.65,No,Premium,10.8,Silver
+216,16-10-2024,52,Male,West Paige,Low,Occasional,Email,13-11-2024,3,2641.5,880.5,Inactive,24-Oct,6585.46,325,15-03-2025,64,Books,0.06,0,Wallet,0.14,3,0.22,Yes,Gold,53.2,Bronze
+217,1/3/2025,24,Female,West Patrick,Medium,Bargain Hunter,Ads,16-02-2025,25,4980.01,199.2,Active,25-Jan,9260.87,246,24-07-2025,48,Books,0.15,9,UPI,0.12,1,0.73,Yes,Free,46.44,Platinum
+218,9/5/2024,35,Female,East Marco,Medium,Bargain Hunter,Social Media,,0,0,0,Active,24-Sep,0,366,22-08-2025,38,Healthcare,0.57,5,Debit Card,0.17,4,0.52,Yes,Premium,32.78,Bronze
+219,4/11/2024,53,Female,Port Johnville,Low,High Spender,Social Media,6/10/2024,26,1951.06,75.04,Active,24-Apr,2442.29,513,5/2/2024,36,Books,0.28,5,Debit Card,0.07,3,0.39,Yes,Premium,21.98,Bronze
+220,25-06-2025,38,Other,Port Amyville,Medium,Bargain Hunter,Referral,30-07-2025,49,2083.85,42.53,Inactive,25-Jun,3201.71,73,21-07-2025,80,Travel,0.5,10,UPI,0.07,3,0.12,Yes,Free,49.79,Platinum
+221,1/8/2024,34,Other,Davisberg,Medium,One-time,Social Media,21-01-2024,3,2648.63,882.88,Active,24-Jan,4278.94,607,3/3/2025,23,Grocery,0.91,4,Debit Card,0.04,1,0.28,No,Premium,7.43,Gold
+222,12/9/2023,60,Female,West Rebeccashire,Low,Bargain Hunter,Referral,15-01-2024,47,1107.13,23.56,Inactive,23-Dec,2258.81,637,7/11/2025,33,Healthcare,0.11,10,UPI,0.14,1,0.27,No,Gold,13.78,Bronze
+223,22-06-2025,63,Male,East Natasha,Low,Loyal,Social Media,30-06-2025,28,2008.59,71.74,Inactive,25-Jun,2479.63,76,29-06-2025,97,Travel,0.01,4,UPI,0.09,1,0.81,Yes,Premium,43.33,Silver
+224,8/6/2025,58,Male,West Johnburgh,Low,High Spender,Email,28-09-2025,3,3676.46,1225.49,Active,25-Aug,8310.16,31,20-08-2025,52,Books,0.55,5,Debit Card,0.07,5,0.64,No,Gold,3.77,Gold
+225,2/7/2024,53,Male,Port Philipton,Low,Bargain Hunter,Social Media,23-03-2024,41,1007.46,24.57,Active,24-Feb,2001.85,577,18-03-2024,98,Electronics,0.93,4,UPI,0.26,2,0.63,Yes,Premium,5.24,Bronze
+226,29-01-2024,38,Female,South April,Medium,One-time,Ads,21-02-2024,13,2775.03,213.46,Inactive,24-Jan,4741.94,586,20-01-2025,20,Fashion,0.65,4,Debit Card,0.16,1,0.85,Yes,Premium,13.92,Bronze
+227,4/10/2024,36,Male,Garrettmouth,Low,Occasional,Direct,20-04-2024,42,155.79,3.71,Active,24-Apr,204.88,514,5/7/2024,7,Grocery,0.05,9,Wallet,0.07,4,0.74,Yes,Free,41.77,Gold
+228,25-07-2025,49,Other,Robertstad,Medium,One-time,Referral,18-08-2025,8,2130.18,266.27,Inactive,25-Jul,2877.11,43,9/4/2025,84,Travel,0.06,0,Credit Card,0.08,1,0.12,Yes,Free,52.91,Platinum
+229,27-10-2023,63,Male,Stuartside,Medium,Bargain Hunter,Email,21-12-2023,40,2813.41,70.34,Active,23-Oct,4893.3,680,19-07-2024,71,Healthcare,0.7,7,Net Banking,0.16,3,0.4,Yes,Gold,52.56,Silver
+230,16-11-2024,57,Female,North John,High,High Spender,Email,29-12-2024,3,912.09,304.03,Inactive,24-Nov,1264.67,294,30-12-2024,99,Electronics,0.05,9,Net Banking,0.3,2,0.35,No,Free,38.68,Bronze
+231,16-02-2025,50,Female,South Daniel,Medium,Occasional,Referral,13-03-2025,1,4291.66,4291.66,Inactive,25-Feb,7689.67,202,8/2/2025,73,Travel,0.45,6,UPI,0.07,2,0.58,No,Free,19.78,Bronze
+232,26-09-2024,57,Other,Johnside,Low,High Spender,Social Media,10/3/2024,38,4637.71,122.05,Inactive,24-Sep,7073.68,345,12/2/2024,21,Books,0.41,10,UPI,0.1,1,0.49,Yes,Gold,59.28,Gold
+233,23-12-2024,56,Other,West Amy,High,Loyal,Referral,17-02-2025,30,567.43,18.91,Active,24-Dec,1203.7,257,30-03-2025,77,Electronics,0.19,3,Debit Card,0.18,1,0.6,Yes,Free,48.34,Platinum
+234,9/11/2024,28,Female,East Robert,High,Bargain Hunter,Social Media,19-09-2024,4,1436,359,Active,24-Sep,2526.16,360,2/10/2025,80,Travel,0.57,1,Wallet,0.12,5,0.36,Yes,Premium,8.85,Silver
+235,30-03-2025,35,Other,Dyerport,High,High Spender,Referral,17-05-2025,14,512.65,36.62,Active,25-Mar,1127.03,160,19-07-2025,27,Fashion,0.15,0,Wallet,0.05,1,0.1,No,Free,27.13,Gold
+236,1/5/2024,50,Other,Williamsbury,Medium,High Spender,Referral,25-01-2024,25,274.84,10.99,Active,24-Jan,331.33,610,2/9/2025,43,Grocery,0.59,5,Net Banking,0.04,4,0.85,Yes,Free,32.03,Bronze
+237,25-08-2024,63,Other,Dicksonville,Medium,Loyal,Direct,30-09-2024,11,3599.64,327.24,Active,24-Aug,5274.03,377,3/10/2025,5,Books,0.03,3,UPI,0.09,3,0.27,No,Gold,51.11,Bronze
+238,29-01-2024,32,Female,Bradshawton,Medium,High Spender,Direct,22-02-2024,31,2153.54,69.47,Active,24-Jan,3665.68,586,18-10-2024,7,Grocery,0.57,0,Net Banking,0.02,4,0.79,Yes,Gold,32.22,Bronze
+239,2/4/2025,19,Other,Port Darrylhaven,Medium,One-time,Social Media,26-02-2025,34,739.59,21.75,Active,25-Feb,1735.07,214,8/2/2025,55,Electronics,0.83,4,Credit Card,0.17,2,0.87,Yes,Free,52.53,Gold
+240,27-07-2025,26,Female,Port Elaine,High,Loyal,Email,18-09-2025,20,1176.96,58.85,Inactive,25-Jul,1588.89,41,8/6/2025,8,Travel,0.79,7,Wallet,0.09,4,0.67,Yes,Free,11.97,Gold
+241,9/10/2024,63,Male,New Denisetown,High,Bargain Hunter,Direct,27-10-2024,43,3494.06,81.26,Active,24-Sep,8508.18,361,20-09-2024,85,Electronics,0.73,2,UPI,0,1,0.45,No,Free,6.56,Platinum
+242,11/7/2024,32,Other,Port Manuel,High,Loyal,Referral,11/10/2024,3,3884.78,1294.93,Inactive,24-Nov,5445.35,303,17-12-2024,99,Books,0.87,1,Wallet,0.03,5,0.83,No,Gold,54.5,Gold
+243,18-09-2024,59,Male,North Tylerview,Medium,Loyal,Ads,27-10-2024,23,3684.08,160.18,Inactive,24-Sep,8528.26,353,15-10-2024,56,Fashion,0.45,7,UPI,0.05,4,0.2,Yes,Gold,6.09,Silver
+244,30-09-2024,28,Female,Taylorhaven,High,Loyal,Direct,18-10-2024,18,747,41.5,Inactive,24-Sep,1492.05,341,3/6/2025,27,Books,0.09,9,Wallet,0.1,5,0.69,No,Premium,49.17,Gold
+245,10/12/2023,54,Other,South Alexanderview,High,One-time,Ads,16-10-2023,45,502.36,11.16,Active,23-Oct,903.89,695,29-03-2024,51,Healthcare,0.4,1,Net Banking,0.07,1,0.39,Yes,Gold,9.99,Bronze
+246,13-07-2024,28,Other,Michaelbury,High,Occasional,Ads,9/3/2024,29,2200.65,75.88,Active,24-Jul,4544.2,420,18-01-2025,12,Books,0.65,5,Wallet,0.29,5,0.41,No,Gold,16.3,Gold
+247,7/3/2025,58,Other,New Deanna,Low,One-time,Email,8/10/2025,31,4655.29,150.17,Active,25-Jul,9157.81,65,7/7/2025,13,Healthcare,0.39,3,Wallet,0.07,5,0.9,No,Free,37.23,Silver
+248,2/9/2024,28,Other,Estesview,Low,High Spender,Referral,3/9/2024,44,2167.04,49.25,Inactive,24-Feb,3917.74,575,29-06-2024,48,Grocery,0.81,7,Credit Card,0.01,3,0.17,Yes,Free,47.63,Silver
+249,6/11/2025,45,Female,Rayfurt,Medium,Occasional,Email,30-06-2025,44,1230.17,27.96,Active,25-Jun,1609.18,87,23-07-2025,2,Books,0.21,7,UPI,0.15,1,0.89,No,Free,46.62,Silver
+250,27-08-2025,38,Other,North Raymondland,Medium,High Spender,Direct,26-09-2025,31,555.28,17.91,Inactive,25-Aug,778.56,10,27-08-2025,14,Electronics,0.5,0,UPI,0.21,1,0.5,Yes,Premium,13.18,Platinum
+251,18-11-2024,56,Other,Port Tiffanybury,Medium,One-time,Ads,18-12-2024,23,1719.59,74.76,Inactive,24-Nov,3282.14,292,20-07-2025,47,Fashion,0.05,2,UPI,0.02,5,0.12,No,Free,41.62,Silver
+252,12/1/2024,54,Female,North Wendyfort,Medium,Loyal,Email,18-12-2024,3,588.3,196.1,Inactive,24-Dec,942.54,279,14-05-2025,84,Healthcare,0.07,4,Net Banking,0.19,1,0.67,No,Premium,51.47,Silver
+253,10/4/2024,27,Other,Donaldfort,High,Bargain Hunter,Ads,24-10-2024,18,4826.69,268.15,Inactive,24-Oct,11144.52,337,4/4/2025,34,Books,0.34,7,Debit Card,0.14,1,0.74,No,Gold,34.86,Bronze
+254,13-09-2024,51,Other,North Ian,High,Loyal,Email,27-10-2024,2,4869.83,2434.91,Active,24-Sep,8329.3,358,14-03-2025,67,Electronics,0.43,3,Debit Card,0.08,3,0.43,Yes,Gold,28.35,Silver
+255,7/1/2025,38,Male,East Benjaminton,Low,Occasional,Social Media,30-07-2025,19,2518.99,132.58,Active,25-Jul,3194.07,67,8/6/2025,60,Books,0.93,3,Net Banking,0.13,5,0.28,No,Gold,24.96,Platinum
+256,11/1/2024,64,Female,New Amber,Medium,Bargain Hunter,Referral,22-11-2024,30,3158.44,105.28,Inactive,24-Nov,4990.13,309,16-01-2025,79,Books,0.75,1,Wallet,0.14,2,0.78,Yes,Gold,20.5,Gold
+257,13-09-2023,41,Female,Lake Joshuaview,Medium,One-time,Ads,18-09-2023,38,1321.47,34.78,Inactive,23-Sep,3186.98,724,26-04-2024,85,Books,0.32,4,UPI,0.28,3,0.38,No,Premium,24.64,Gold
+258,23-09-2024,39,Male,Jordanhaven,Low,Loyal,Email,26-09-2024,19,3257.89,171.47,Active,24-Sep,7382.94,348,24-06-2025,7,Healthcare,0.49,8,Wallet,0.07,4,0.39,Yes,Gold,50.99,Bronze
+259,6/3/2024,39,Male,South Tylermouth,Medium,One-time,Social Media,6/12/2024,8,3341.02,417.63,Inactive,24-Jun,7099.76,460,14-04-2025,92,Healthcare,0.85,1,Debit Card,0.05,1,0.84,No,Free,55.09,Silver
+260,13-12-2024,23,Female,South Brian,High,Bargain Hunter,Direct,21-01-2025,30,871.34,29.04,Active,24-Dec,1254.07,267,29-06-2025,91,Healthcare,0.09,3,Credit Card,0.03,5,0.27,Yes,Premium,47.13,Silver
+261,11/11/2023,22,Male,Arnoldchester,High,High Spender,Email,1/8/2024,1,1630.28,1630.28,Active,23-Nov,3125.61,665,13-11-2023,94,Electronics,0.81,4,Net Banking,0.05,5,0.88,No,Premium,10.89,Platinum
+262,25-03-2024,58,Male,New Charles,Low,High Spender,Ads,30-04-2024,39,3104.51,79.6,Inactive,24-Mar,6898.08,530,19-08-2025,26,Books,0.74,2,Credit Card,0.11,4,0.24,No,Gold,57.51,Gold
+263,21-12-2023,34,Male,Port Evelyn,Medium,High Spender,Referral,1/1/2024,40,1525.06,38.13,Inactive,23-Dec,1845.8,625,23-03-2024,67,Travel,0.69,5,Net Banking,0.3,5,0.58,No,Premium,57.65,Bronze
+264,20-05-2024,60,Female,New Calvin,High,Occasional,Direct,6/8/2024,40,3997.58,99.94,Inactive,24-May,9077.14,474,23-11-2024,96,Healthcare,0.31,2,UPI,0.08,4,0.52,Yes,Free,26.94,Silver
+265,4/11/2024,51,Male,Acostamouth,High,Loyal,Direct,4/12/2024,5,4320.09,864.02,Inactive,24-Apr,10354.13,513,28-04-2024,11,Books,0.79,10,Credit Card,0.15,2,0.64,No,Free,43.13,Gold
+266,4/5/2025,61,Other,West Kathryn,Low,Bargain Hunter,Email,27-05-2025,26,3554.23,136.7,Active,25-Apr,6183.27,154,26-08-2025,36,Electronics,0.23,6,UPI,0.26,3,0.33,No,Gold,11.46,Gold
+267,7/11/2024,51,Female,Shirleyburgh,Low,One-time,Referral,8/12/2024,19,825.36,43.44,Active,24-Jul,1155.08,422,19-10-2024,21,Grocery,0.1,7,UPI,0.11,5,0.33,Yes,Premium,5.27,Bronze
+268,17-08-2024,36,Female,Joanntown,Low,High Spender,Social Media,9/5/2024,1,301.38,301.38,Inactive,24-Aug,689.73,385,27-12-2024,11,Fashion,0.3,5,Net Banking,0.29,2,0.38,No,Gold,32.38,Silver
+269,17-08-2024,39,Other,Lake Nicoleport,High,High Spender,Social Media,23-08-2024,6,1913.52,318.92,Inactive,24-Aug,3398.63,385,31-07-2025,24,Fashion,0.37,1,Net Banking,0.18,3,0.43,No,Gold,27.04,Platinum
+270,23-09-2023,63,Male,South Whitneymouth,Medium,Occasional,Direct,11/6/2023,29,1718.64,59.26,Active,23-Sep,3635.01,714,12/12/2024,61,Electronics,0.06,5,UPI,0.28,5,0.55,No,Premium,58.56,Platinum
+271,6/2/2025,54,Male,Bradleyport,Low,Loyal,Social Media,7/6/2025,9,3374.98,375,Inactive,25-Jun,4339.68,96,7/7/2025,91,Travel,0.37,0,Debit Card,0.17,5,0.72,No,Free,8.4,Silver
+272,10/10/2023,40,Other,Martinfurt,Low,High Spender,Direct,11/2/2023,21,1982.91,94.42,Active,23-Oct,3112.32,697,17-04-2024,24,Books,0.51,4,Wallet,0.28,2,0.77,Yes,Gold,51.94,Bronze
+273,21-06-2024,29,Male,Danielfurt,High,Bargain Hunter,Direct,7/8/2024,14,1790.8,127.91,Inactive,24-Jun,3318.49,442,1/11/2025,20,Healthcare,0.54,9,Debit Card,0.17,2,0.48,No,Free,58.21,Silver
+274,11/5/2024,24,Male,Lisafort,High,Loyal,Email,29-11-2024,8,2686.89,335.86,Active,24-Nov,4007.89,305,3/9/2025,18,Healthcare,0.26,2,Debit Card,0.23,5,0.66,Yes,Gold,9.76,Gold
+275,22-02-2025,23,Other,Erinstad,High,Loyal,Social Media,17-04-2025,22,4694.65,213.39,Inactive,25-Feb,8699.93,196,18-03-2025,28,Books,0.56,3,UPI,0.12,3,0.5,Yes,Premium,49.63,Silver
+276,7/3/2025,25,Male,Lake Angelahaven,High,High Spender,Social Media,28-07-2025,38,1765.89,46.47,Active,25-Jul,3657.75,65,13-08-2025,61,Books,0.07,2,Net Banking,0.17,2,0.64,No,Gold,44.77,Platinum
+277,18-04-2024,52,Male,Elizabethchester,High,One-time,Email,14-06-2024,17,2071.53,121.85,Active,24-Apr,2610.05,506,25-06-2024,25,Healthcare,0.72,0,Net Banking,0.03,3,0.35,No,Premium,26.46,Silver
+278,20-03-2024,65,Female,East Ianfort,High,Occasional,Email,4/5/2024,27,1584,58.67,Inactive,24-Mar,2255.62,535,6/8/2025,49,Fashion,0.43,2,Credit Card,0.28,3,0.69,No,Gold,38.64,Platinum
+279,11/10/2024,48,Female,Katherinebury,Medium,High Spender,Referral,13-11-2024,38,904.87,23.81,Active,24-Nov,1768.82,300,12/1/2024,2,Books,0.79,10,Credit Card,0.01,4,0.37,Yes,Premium,14.71,Platinum
+280,5/2/2024,23,Male,East David,Medium,Bargain Hunter,Social Media,19-05-2024,44,3405.43,77.4,Active,24-May,8365.11,492,12/7/2024,14,Electronics,0.49,1,UPI,0.29,4,0.31,Yes,Gold,28.25,Platinum
+281,26-01-2024,39,Female,Port Ashleyside,Medium,Bargain Hunter,Referral,22-02-2024,28,414.94,14.82,Inactive,24-Jan,729.63,589,9/10/2024,48,Healthcare,0.11,2,Wallet,0.29,4,0.41,Yes,Gold,49.3,Platinum
+282,29-08-2024,51,Other,Floresland,Low,Occasional,Direct,10/9/2024,21,3734.79,177.85,Active,24-Aug,6066.9,373,17-10-2024,27,Travel,0.38,7,Credit Card,0.14,3,0.16,No,Gold,49.16,Gold
+283,7/5/2025,58,Other,Jeannechester,Low,Occasional,Referral,23-07-2025,35,3186.06,91.03,Inactive,25-Jul,7770.64,63,7/11/2025,39,Grocery,0.14,8,Debit Card,0.09,2,0.44,No,Premium,17.58,Platinum
+284,18-01-2025,20,Female,South Kaitlin,High,Loyal,Email,29-01-2025,15,3940.99,262.73,Active,25-Jan,9137.66,231,20-08-2025,68,Books,0.85,8,UPI,0.25,2,0.46,No,Premium,10.93,Platinum
+285,15-12-2024,40,Other,Jessicaburgh,Low,High Spender,Ads,1/4/2025,17,4553.82,267.87,Inactive,24-Dec,10882.25,265,3/12/2025,88,Travel,0.82,0,Debit Card,0.22,1,0.87,No,Free,18.06,Bronze
+286,22-01-2024,59,Female,Espinozafurt,Medium,Bargain Hunter,Direct,13-03-2024,45,1805.55,40.12,Active,24-Jan,2293.94,593,31-08-2025,26,Travel,0.76,10,Debit Card,0,1,0.62,No,Premium,20.47,Bronze
+287,23-05-2025,49,Male,Jillland,High,High Spender,Ads,25-06-2025,8,1692.56,211.57,Active,25-May,2658.19,106,30-06-2025,6,Books,0.48,8,Wallet,0.09,2,0.79,No,Premium,51.38,Gold
+288,17-09-2024,62,Male,Johnsonbury,Low,Loyal,Ads,27-09-2024,10,516.75,51.67,Inactive,24-Sep,1166.72,354,27-06-2025,9,Grocery,0.92,4,Net Banking,0.14,4,0.59,Yes,Free,19.37,Platinum
+289,20-05-2024,41,Female,South Michael,Medium,Bargain Hunter,Ads,7/6/2024,29,1798.78,62.03,Inactive,24-May,3790.87,474,3/2/2025,17,Electronics,0.2,3,Credit Card,0.03,2,0.57,No,Free,49.84,Bronze
+290,4/4/2025,18,Male,West Claire,Low,Loyal,Referral,5/12/2025,12,232.86,19.41,Inactive,25-Apr,480.72,155,8/9/2025,60,Fashion,0.55,7,Debit Card,0.21,5,0.62,No,Gold,17.54,Silver
+291,13-09-2024,27,Male,Lisatown,Low,Loyal,Referral,10/8/2024,6,2692.35,448.72,Inactive,24-Sep,4655.12,358,8/11/2025,21,Grocery,0.14,2,Credit Card,0.09,3,0.45,No,Gold,10.27,Silver
+292,14-11-2024,41,Female,Port Gregoryport,High,Occasional,Referral,16-12-2024,8,2175.97,272,Active,24-Nov,3935.15,296,23-04-2025,4,Healthcare,0.29,5,Wallet,0.13,3,0.26,No,Gold,31.6,Bronze
+293,25-12-2023,21,Female,Lindseymouth,Medium,Loyal,Email,2/9/2024,25,526.49,21.06,Inactive,23-Dec,1128.48,621,21-02-2024,30,Travel,0.65,1,Net Banking,0.18,3,0.2,Yes,Gold,42.64,Gold
+294,18-10-2023,43,Male,Owensmouth,Medium,Loyal,Direct,12/11/2023,22,1358.85,61.77,Inactive,23-Oct,2572.25,689,1/5/2024,61,Grocery,0.51,1,Credit Card,0.14,4,0.77,Yes,Gold,45.22,Platinum
+295,8/6/2025,38,Male,Port Christopher,Medium,Occasional,Referral,19-09-2025,14,3032.31,216.59,Active,25-Aug,5512.63,31,25-08-2025,86,Grocery,0.69,10,Net Banking,0.28,4,0.42,Yes,Free,55.82,Gold
+296,11/2/2024,52,Male,New Cameron,Low,High Spender,Ads,11/5/2024,18,1525.03,84.72,Active,24-Nov,3434.98,308,26-08-2025,94,Books,0.86,1,Credit Card,0.09,1,0.77,No,Free,29.13,Platinum
+297,6/10/2024,59,Female,South Douglasview,Low,Loyal,Direct,27-06-2024,31,437.14,14.1,Active,24-Jun,852.41,453,5/12/2025,96,Grocery,0.69,3,Wallet,0.03,3,0.86,Yes,Gold,58.06,Silver
+298,8/8/2024,27,Female,South Jeremy,Low,Occasional,Ads,9/12/2024,29,2150.5,74.16,Active,24-Aug,3215.83,394,18-11-2024,5,Travel,0.01,1,Wallet,0.19,3,0.24,No,Premium,54.9,Platinum
+299,26-09-2024,29,Male,Johnsonport,High,Occasional,Social Media,29-09-2024,41,3680.62,89.77,Inactive,24-Sep,7522.75,345,16-11-2024,85,Healthcare,0.37,8,Credit Card,0.2,2,0.79,Yes,Premium,39.08,Gold
+300,26-01-2025,46,Female,Savagefurt,High,Bargain Hunter,Direct,16-03-2025,21,4725.67,225.03,Active,25-Jan,7351.86,223,17-07-2025,36,Healthcare,0.19,8,Credit Card,0.23,4,0.65,Yes,Free,20.51,Platinum
+301,23-10-2023,63,Female,Jessicaburgh,Medium,One-time,Referral,14-11-2023,28,212.52,7.59,Inactive,23-Oct,445.79,684,20-01-2024,57,Electronics,0.33,10,Wallet,0.06,2,0.67,Yes,Gold,58.33,Platinum
+302,9/9/2024,33,Other,South Michael,High,One-time,Social Media,29-10-2024,29,3125.48,107.78,Inactive,24-Sep,4337.72,362,7/11/2025,99,Grocery,0.79,10,Credit Card,0.17,3,0.86,Yes,Premium,26.83,Bronze
+303,16-12-2024,23,Other,Herringbury,Medium,One-time,Email,23-12-2024,8,2107.54,263.44,Inactive,24-Dec,3550.21,264,2/4/2025,1,Grocery,0.26,1,Wallet,0.26,4,0.23,Yes,Premium,50.69,Platinum
+304,22-09-2023,47,Female,Port Marcusbury,Medium,Occasional,Direct,10/8/2023,35,4727.76,135.08,Inactive,23-Sep,11452.21,715,23-02-2025,62,Books,0.72,3,Credit Card,0.05,5,0.7,No,Gold,38.45,Platinum
+305,5/6/2024,39,Male,West Kathryn,Low,Occasional,Social Media,20-05-2024,48,3931.31,81.9,Inactive,24-May,7079.26,488,18-06-2024,23,Electronics,0.41,1,Net Banking,0.05,5,0.36,Yes,Premium,11.94,Silver
+306,19-01-2024,65,Other,Jillstad,Low,Bargain Hunter,Referral,19-02-2024,50,4684.49,93.69,Inactive,24-Jan,5632.76,596,14-08-2024,9,Travel,0.62,8,UPI,0.01,5,0.8,Yes,Premium,30.59,Bronze
+307,17-11-2023,19,Female,East Gloriastad,Low,One-time,Email,,0,0,0,Inactive,23-Nov,0,659,19-08-2025,65,Grocery,0.7,0,Net Banking,0.25,3,0.49,No,Premium,14.67,Bronze
+308,25-07-2024,41,Other,New Kevinhaven,Medium,One-time,Social Media,26-07-2024,48,231.41,4.82,Active,24-Jul,473.14,408,7/3/2025,96,Books,0.71,0,Debit Card,0.21,5,0.7,No,Free,43.43,Silver
+309,21-03-2025,23,Male,Moraleschester,Low,Bargain Hunter,Ads,5/10/2025,13,4725.57,363.51,Inactive,25-Mar,7962.28,169,29-03-2025,5,Healthcare,0.52,6,UPI,0.09,4,0.38,No,Premium,29.02,Silver
+310,27-12-2023,33,Male,Rebeccashire,Medium,Loyal,Social Media,29-12-2023,21,2608.94,124.24,Inactive,23-Dec,6183.14,619,4/8/2024,49,Grocery,0.9,8,Debit Card,0.18,5,0.55,Yes,Free,48.93,Gold
+311,25-10-2023,22,Other,Michellechester,High,Loyal,Ads,28-11-2023,49,3900.34,79.6,Inactive,23-Oct,9255.96,682,11/6/2024,12,Books,0.15,5,Credit Card,0.16,2,0.56,Yes,Premium,49.55,Bronze
+312,21-07-2025,54,Female,West Alexander,Low,High Spender,Direct,22-08-2025,12,4976.17,414.68,Inactive,25-Jul,6021.09,47,31-07-2025,81,Travel,0.39,7,Debit Card,0.23,3,0.35,Yes,Premium,30.74,Gold
+313,1/3/2024,18,Female,Lake Michelle,High,Bargain Hunter,Direct,23-01-2024,22,3216.55,146.21,Inactive,24-Jan,4975.52,612,14-08-2025,29,Grocery,0.79,2,UPI,0.01,3,0.21,No,Free,51.01,Gold
+314,16-12-2023,64,Male,East Christinechester,Low,Loyal,Social Media,28-01-2024,14,513.09,36.65,Active,23-Dec,1167.66,630,19-02-2025,8,Travel,0.12,1,Net Banking,0.01,2,0.14,Yes,Gold,1.94,Silver
+315,12/6/2024,51,Female,North James,Low,High Spender,Social Media,24-01-2025,16,4797.15,299.82,Active,24-Dec,6880.47,274,31-12-2024,63,Healthcare,0.99,2,Wallet,0.03,5,0.56,Yes,Gold,34.9,Silver
+316,6/8/2024,55,Male,Rachelmouth,Medium,One-time,Direct,25-07-2024,40,1889.71,47.24,Active,24-Jun,4685.32,455,28-07-2024,22,Fashion,0.25,9,Debit Card,0.18,2,0.36,No,Gold,7.97,Gold
+317,10/9/2023,57,Male,North Jeffreyberg,Low,High Spender,Ads,16-10-2023,22,1862.5,84.66,Inactive,23-Oct,2377.34,698,7/4/2025,46,Books,0.46,4,UPI,0.23,4,0.22,No,Premium,48.21,Platinum
+318,7/4/2024,36,Other,Harringtonborough,Medium,One-time,Direct,18-08-2024,47,4165.97,88.64,Inactive,24-Jul,8383.47,429,2/5/2025,88,Travel,0.19,4,Net Banking,0.22,1,0.33,No,Gold,23.41,Gold
+319,21-11-2024,24,Male,Higginsberg,High,One-time,Ads,12/8/2024,37,3775.75,102.05,Active,24-Nov,8006.83,289,28-01-2025,8,Electronics,0.75,1,Debit Card,0.19,4,0.11,No,Free,23.72,Bronze
+320,30-04-2024,55,Male,South Derrick,Medium,Loyal,Referral,5/11/2024,16,2152.13,134.51,Active,24-Apr,4127.09,494,7/7/2025,13,Healthcare,0.45,10,Credit Card,0.21,2,0.34,No,Free,12.97,Silver
+321,25-05-2025,57,Male,Derekshire,Medium,Bargain Hunter,Referral,6/3/2025,38,4118.5,108.38,Active,25-May,5970.46,104,30-07-2025,10,Books,0.3,7,UPI,0.22,5,0.55,Yes,Premium,26.94,Silver
+322,3/6/2025,62,Other,Jessicachester,Medium,Occasional,Ads,20-03-2025,8,3668.79,458.6,Inactive,25-Mar,7972.23,184,23-07-2025,45,Healthcare,0.77,7,Debit Card,0.09,1,0.18,No,Gold,7.09,Bronze
+323,22-10-2023,25,Male,Lake Ericahaven,Low,High Spender,Social Media,27-10-2023,49,3010.26,61.43,Inactive,23-Oct,7360.94,685,14-08-2024,90,Grocery,0.79,5,Debit Card,0.1,3,0.63,No,Premium,21.02,Platinum
+324,4/12/2024,63,Male,South Daniel,High,High Spender,Ads,26-04-2024,19,480.33,25.28,Active,24-Apr,1043.49,512,21-04-2024,95,Books,0.45,1,Debit Card,0.17,1,0.12,No,Premium,35.44,Silver
+325,28-05-2024,26,Male,Russellport,High,Loyal,Ads,6/11/2024,36,4031.54,111.99,Inactive,24-May,7457.8,466,23-02-2025,14,Healthcare,0.36,9,UPI,0.29,1,0.7,Yes,Gold,55.26,Silver
+326,9/9/2023,61,Female,West Diane,High,High Spender,Referral,27-10-2023,17,4826.26,283.9,Active,23-Sep,11181.46,728,3/9/2024,94,Books,0.49,0,Wallet,0.01,1,0.13,Yes,Free,9.72,Silver
+327,27-08-2025,28,Other,Grayside,Medium,One-time,Ads,9/10/2025,3,4050.4,1350.13,Inactive,25-Aug,9858.96,10,9/2/2025,33,Electronics,0.29,0,Debit Card,0.05,1,0.38,No,Gold,50.29,Silver
+328,23-01-2024,53,Male,Laurashire,Medium,Loyal,Social Media,2/12/2024,38,3051.53,80.3,Active,24-Jan,4661.89,592,30-01-2024,49,Books,0.86,2,Net Banking,0.05,4,0.67,No,Gold,47.14,Bronze
+329,20-12-2023,27,Female,Smithview,Low,Occasional,Email,2/7/2024,17,4102.09,241.3,Inactive,23-Dec,6029.27,626,20-12-2024,47,Fashion,0.39,5,UPI,0.25,4,0.27,No,Premium,53.34,Bronze
+330,28-06-2025,30,Female,Tannertown,High,High Spender,Direct,8/8/2025,28,1843.74,65.85,Active,25-Jun,2897.13,70,22-07-2025,62,Books,0.37,5,Credit Card,0.14,4,0.18,No,Gold,17.49,Silver
+331,1/6/2024,51,Female,Ebonytown,Low,Loyal,Ads,1/9/2024,36,2277.37,63.26,Active,24-Jan,5230.42,609,4/11/2025,69,Healthcare,0.26,9,Credit Card,0.25,5,0.87,Yes,Gold,12.34,Platinum
+332,21-09-2024,28,Female,Victorborough,Medium,One-time,Social Media,11/3/2024,35,3217.73,91.94,Active,24-Sep,5714.95,350,25-03-2025,6,Healthcare,0.68,0,Credit Card,0.23,1,0.76,No,Premium,36.19,Platinum
+333,24-01-2025,37,Male,North Tracyfort,Low,Bargain Hunter,Social Media,3/2/2025,3,2115.37,705.12,Active,25-Jan,2954.09,225,7/1/2025,71,Books,0.28,6,Net Banking,0.12,4,0.58,Yes,Premium,56.32,Gold
+334,17-03-2024,22,Male,Taylorview,High,High Spender,Social Media,5/7/2024,25,1913.67,76.55,Active,24-Mar,4597.39,538,25-07-2024,6,Healthcare,0.92,8,Credit Card,0.15,4,0.69,Yes,Premium,22.46,Platinum
+335,1/4/2024,33,Other,West Gabriel,Medium,Loyal,Email,23-02-2024,16,3739.65,233.73,Inactive,24-Jan,5109.91,611,2/7/2025,48,Fashion,0.75,10,Net Banking,0.09,4,0.29,Yes,Gold,43.96,Bronze
+336,25-06-2025,36,Female,Henryview,Low,Bargain Hunter,Direct,22-08-2025,19,1671.76,87.99,Inactive,25-Jun,3738.38,73,7/1/2025,66,Healthcare,0.2,1,Credit Card,0.17,2,0.47,No,Gold,29.04,Bronze
+337,6/1/2025,28,Male,Christopherburgh,High,Loyal,Email,6/6/2025,26,783.14,30.12,Inactive,25-Jun,998.64,97,7/5/2025,36,Travel,0.43,10,Wallet,0.2,4,0.28,No,Premium,41.53,Silver
+338,26-05-2024,25,Female,New Michelle,High,Loyal,Referral,28-06-2024,5,2399.24,479.85,Active,24-May,5393.08,468,23-08-2025,74,Electronics,0.79,4,Wallet,0.19,2,0.61,Yes,Premium,6.55,Silver
+339,16-07-2025,56,Other,East Monica,Low,Loyal,Direct,24-08-2025,47,3107.11,66.11,Inactive,25-Jul,6724.26,52,31-07-2025,26,Books,0.76,5,Debit Card,0.08,5,0.14,Yes,Premium,1.72,Platinum
+340,29-06-2024,24,Male,Porterville,High,One-time,Ads,16-08-2024,10,3404.79,340.48,Active,24-Jun,8350.93,434,3/9/2025,6,Books,0.83,2,Credit Card,0.23,3,0.31,No,Gold,42.29,Platinum
+341,24-06-2025,41,Male,New Matthewville,High,High Spender,Ads,22-07-2025,17,4948.9,291.11,Inactive,25-Jun,9989.61,74,14-08-2025,96,Books,0.46,3,Net Banking,0.03,1,0.71,Yes,Premium,20.82,Gold
+342,28-11-2024,60,Male,North Bailey,Low,Occasional,Direct,12/1/2024,25,1726.44,69.06,Active,24-Nov,4124.44,282,7/3/2025,18,Healthcare,0.22,0,Wallet,0.02,2,0.22,Yes,Gold,54.96,Silver
+343,16-05-2024,18,Female,Johnathanview,Low,Bargain Hunter,Direct,14-07-2024,39,1559.12,39.98,Inactive,24-May,3751.93,478,9/3/2024,46,Fashion,0.51,3,Debit Card,0.09,1,0.67,Yes,Gold,48.84,Silver
+344,24-02-2024,43,Male,Jeffton,Medium,Bargain Hunter,Referral,19-03-2024,49,3641.26,74.31,Inactive,24-Feb,8137.14,560,13-04-2024,78,Travel,0.71,10,Wallet,0.27,3,0.73,No,Gold,19.32,Gold
+345,6/1/2025,22,Female,Wattsville,Medium,Loyal,Direct,26-07-2025,37,3411.64,92.21,Active,25-Jun,8143.03,97,14-06-2025,23,Healthcare,0.76,6,Credit Card,0.22,2,0.24,Yes,Free,35.36,Silver
+346,13-11-2023,65,Male,Robertstad,High,High Spender,Direct,25-12-2023,29,832.87,28.72,Active,23-Nov,1824.76,663,3/12/2025,98,Healthcare,0.51,5,UPI,0.22,1,0.5,No,Free,7.01,Platinum
+347,27-10-2024,23,Male,South Luismouth,Medium,Bargain Hunter,Ads,20-12-2024,32,1962.29,61.32,Active,24-Oct,2984.29,314,2/4/2025,59,Electronics,0.05,1,Wallet,0.29,1,0.55,No,Premium,47.29,Bronze
+348,16-10-2023,22,Other,Jenkinsmouth,Low,Occasional,Ads,16-11-2023,7,1553.45,221.92,Active,23-Oct,3539.15,691,15-07-2024,37,Electronics,0.31,8,UPI,0.03,3,0.16,Yes,Free,56.59,Bronze
+349,1/3/2024,45,Other,West Coreyfort,Low,One-time,Direct,28-01-2024,33,1755.26,53.19,Active,24-Jan,4173.6,612,25-06-2025,26,Books,0.27,9,Debit Card,0.01,4,0.21,No,Premium,39.26,Gold
+350,9/2/2024,19,Male,Krausestad,Medium,Occasional,Referral,9/11/2024,8,931.6,116.45,Inactive,24-Sep,1233.51,369,27-07-2025,84,Fashion,0.07,8,Wallet,0.17,4,0.36,No,Free,32.74,Gold
+351,20-12-2023,47,Other,Kimberlyfurt,High,High Spender,Email,2/8/2024,9,3001.96,333.55,Active,23-Dec,3748.94,626,11/11/2024,13,Books,0.27,1,Wallet,0.13,2,0.77,Yes,Premium,37.67,Bronze
+352,28-05-2024,36,Other,Lake Michael,Low,High Spender,Social Media,7/1/2024,34,1450.03,42.65,Inactive,24-May,2731.17,466,25-02-2025,63,Travel,0.11,4,UPI,0.13,4,0.48,No,Free,31.44,Gold
+353,4/8/2024,33,Other,Port Kristinaberg,Medium,Bargain Hunter,Direct,5/8/2024,7,1952.22,278.89,Inactive,24-Apr,2839.03,516,21-06-2025,62,Healthcare,0.55,5,UPI,0.04,1,0.63,Yes,Free,44.8,Gold
+354,21-03-2025,30,Other,East Eric,High,One-time,Referral,31-03-2025,11,125.36,11.4,Active,25-Mar,155.96,169,22-08-2025,67,Grocery,0.99,1,UPI,0.23,3,0.1,Yes,Premium,19.07,Platinum
+355,3/6/2024,46,Male,North Ashleyborough,Low,Occasional,Ads,4/5/2024,28,2138.29,76.37,Inactive,24-Mar,3279.73,549,27-05-2024,2,Electronics,0.65,5,Credit Card,0.04,5,0.39,No,Free,28.34,Gold
+356,2/6/2024,41,Female,Thomasmouth,High,Loyal,Referral,26-03-2024,9,2655.74,295.08,Active,24-Feb,5312.07,578,24-03-2025,31,Travel,0.53,5,Credit Card,0.21,5,0.71,Yes,Gold,11.91,Silver
+357,9/7/2024,57,Male,Christopherbury,High,Loyal,Direct,19-09-2024,14,3658.66,261.33,Inactive,24-Sep,5881.59,364,14-05-2025,28,Healthcare,0.6,4,Debit Card,0.25,4,0.39,Yes,Gold,9.07,Platinum
+358,12/10/2024,19,Female,Davishaven,Medium,Loyal,Social Media,17-12-2024,15,3611.04,240.74,Inactive,24-Dec,8401.74,270,22-04-2025,90,Books,0.68,2,Wallet,0.05,1,0.13,Yes,Free,57.37,Bronze
+359,9/9/2023,53,Other,West Brandon,High,Loyal,Direct,9/11/2023,3,4964.29,1654.76,Active,23-Sep,11115.54,728,15-07-2024,3,Grocery,0.35,8,Debit Card,0.29,5,0.4,Yes,Free,33.32,Platinum
+360,11/10/2024,31,Other,Nicholasville,Medium,One-time,Email,12/10/2024,2,71.99,35.99,Inactive,24-Nov,163.86,300,2/6/2025,60,Fashion,0.72,2,UPI,0.28,3,0.42,Yes,Free,24.22,Silver
+361,15-10-2023,37,Male,Lake Tamara,High,Loyal,Ads,11/9/2023,26,3178.79,122.26,Inactive,23-Oct,6398.42,692,1/7/2025,86,Books,0.83,10,Credit Card,0.3,4,0.42,Yes,Gold,55.56,Bronze
+362,27-05-2024,28,Male,East Roberttown,Low,Occasional,Referral,20-07-2024,21,4122.86,196.33,Active,24-May,10112.94,467,15-07-2024,85,Grocery,0.66,4,Wallet,0.17,5,0.6,Yes,Premium,43.01,Platinum
+363,26-11-2023,46,Male,Warrenview,Low,Bargain Hunter,Social Media,31-12-2023,5,1484.11,296.82,Inactive,23-Nov,3143.18,650,14-11-2024,33,Healthcare,0.21,2,Debit Card,0.22,5,0.19,Yes,Premium,11.75,Gold
+364,23-09-2023,39,Male,Simmonsfurt,Medium,Loyal,Email,26-09-2023,8,186.69,23.34,Inactive,23-Sep,460.01,714,1/2/2025,29,Healthcare,0.22,8,Net Banking,0.04,3,0.16,Yes,Gold,18.94,Bronze
+365,1/8/2025,44,Male,Mosleyfort,Low,Bargain Hunter,Ads,19-02-2025,7,3769,538.43,Inactive,25-Jan,8668.39,241,27-02-2025,72,Electronics,0.81,1,Credit Card,0.25,4,0.2,No,Free,37.99,Gold
+366,7/3/2024,19,Other,Jimenezborough,Medium,Occasional,Social Media,8/7/2024,31,2811.77,90.7,Inactive,24-Jul,3488.75,430,28-11-2024,78,Books,0.77,1,Debit Card,0.08,5,0.22,Yes,Premium,38.51,Silver
+367,15-01-2025,28,Female,Martinezville,Medium,Loyal,Ads,31-01-2025,41,650.78,15.87,Inactive,25-Jan,1251.19,234,27-08-2025,11,Fashion,0.37,6,Wallet,0.26,1,0.59,No,Free,47.34,Silver
+368,23-07-2024,55,Male,Lake Shannon,Medium,One-time,Ads,15-08-2024,32,3042.37,95.07,Active,24-Jul,3651.5,410,25-02-2025,2,Healthcare,0.26,8,Net Banking,0.12,4,0.29,Yes,Premium,20.57,Gold
+369,3/11/2025,32,Female,Mitchelltown,Medium,Bargain Hunter,Email,29-03-2025,1,229.42,229.42,Inactive,25-Mar,484.37,179,6/3/2025,34,Travel,0.43,2,Wallet,0.12,5,0.65,Yes,Premium,55.76,Silver
+370,13-10-2023,20,Male,Lake Kevin,High,Bargain Hunter,Referral,21-11-2023,39,2091.65,53.63,Inactive,23-Oct,4116.9,694,21-02-2024,56,Books,0.82,7,Wallet,0.05,1,0.36,No,Free,13.77,Bronze
+371,1/1/2025,24,Other,Port Shawn,Low,One-time,Email,,0,0,0,Active,25-Jan,0,248,22-01-2025,52,Travel,0.36,0,Credit Card,0.23,3,0.33,Yes,Gold,53.78,Silver
+372,15-10-2024,31,Female,Georgeside,Low,High Spender,Ads,12/8/2024,11,510.09,46.37,Active,24-Oct,765.39,326,29-04-2025,78,Fashion,0.13,3,UPI,0.21,4,0.25,Yes,Gold,24.02,Silver
+373,29-11-2024,58,Male,West Bryan,Medium,Occasional,Direct,12/10/2024,35,3815.83,109.02,Inactive,24-Nov,8658.82,281,3/3/2025,51,Travel,0.78,2,Credit Card,0.02,3,0.12,Yes,Premium,12.64,Bronze
+374,29-12-2023,40,Other,South Amyfurt,Medium,Bargain Hunter,Email,2/6/2024,28,1689.61,60.34,Active,23-Dec,2687.64,617,12/2/2024,81,Travel,0.79,7,Wallet,0.25,3,0.7,Yes,Premium,11.96,Bronze
+375,8/11/2025,57,Other,Davisside,High,High Spender,Referral,,0,0,0,Inactive,25-Aug,0,26,21-08-2025,70,Fashion,0.21,1,Wallet,0.28,3,0.69,Yes,Premium,41.4,Silver
+376,3/3/2024,43,Other,Wrightburgh,Medium,Occasional,Direct,28-03-2024,34,308.81,9.08,Active,24-Mar,685.4,552,12/7/2024,7,Travel,0.84,1,Debit Card,0.17,2,0.12,Yes,Free,36.31,Silver
+377,19-10-2024,23,Other,Lake Jasmineland,Medium,Occasional,Ads,11/9/2024,26,740.18,28.47,Inactive,24-Oct,895.53,322,12/12/2024,15,Books,0.78,5,Credit Card,0.15,3,0.43,No,Gold,11.32,Bronze
+378,13-04-2024,30,Female,Reedbury,High,High Spender,Email,25-04-2024,32,3965.35,123.92,Active,24-Apr,5813.12,511,27-04-2025,78,Electronics,0.35,8,UPI,0.21,3,0.18,Yes,Premium,53.45,Platinum
+379,7/4/2025,63,Other,South Caleb,High,Bargain Hunter,Referral,8/6/2025,38,1800.7,47.39,Active,25-Jul,4107,64,7/7/2025,72,Healthcare,0.4,2,Debit Card,0.28,1,0.89,No,Free,30.28,Gold
+380,23-07-2024,60,Female,East Timothy,Low,Occasional,Ads,9/8/2024,41,1724.76,42.07,Inactive,24-Jul,3047.56,410,4/8/2025,91,Grocery,0.99,4,Net Banking,0.11,1,0.61,No,Free,52.85,Silver
+381,20-06-2024,57,Other,New David,Medium,High Spender,Social Media,16-07-2024,15,3725.32,248.35,Inactive,24-Jun,8067.74,443,24-11-2024,78,Travel,0.6,2,UPI,0.18,4,0.86,No,Premium,2.04,Gold
+382,21-02-2025,65,Male,New Michelle,Low,Loyal,Direct,4/3/2025,9,920.92,102.32,Active,25-Feb,1238.67,197,16-07-2025,86,Travel,0.11,9,Wallet,0.12,2,0.66,Yes,Gold,11.86,Platinum
+383,16-02-2025,45,Male,Rebeccaland,Medium,High Spender,Email,26-02-2025,7,3587.89,512.56,Inactive,25-Feb,6085.43,202,5/10/2025,99,Books,0.75,8,Wallet,0.16,4,0.3,No,Free,50.06,Gold
+384,18-03-2025,42,Other,Geraldstad,Medium,High Spender,Email,26-03-2025,21,3524.53,167.83,Active,25-Mar,4898.7,172,27-06-2025,56,Travel,0.81,7,Wallet,0.22,3,0.72,No,Gold,37.03,Platinum
+385,23-12-2023,52,Female,South Kevinfurt,High,One-time,Social Media,1/4/2024,41,3328.94,81.19,Active,23-Dec,5346.03,623,16-02-2024,71,Books,0.48,3,Debit Card,0.18,1,0.68,No,Gold,54.89,Platinum
+386,21-10-2023,44,Male,Port Adammouth,Medium,Occasional,Direct,12/7/2023,16,4446.08,277.88,Inactive,23-Oct,9044.17,686,14-05-2025,57,Electronics,0.16,3,UPI,0.17,5,0.47,No,Premium,52.94,Platinum
+387,20-05-2024,34,Other,Lake Bill,High,One-time,Email,23-06-2024,21,2277.59,108.46,Active,24-May,4183.47,474,27-08-2025,58,Fashion,0.04,1,UPI,0.06,4,0.16,No,Free,40.7,Silver
+388,15-10-2023,20,Other,Morrisonberg,Low,Loyal,Ads,18-10-2023,50,3264.27,65.29,Active,23-Oct,5656,692,18-11-2023,60,Grocery,0.54,2,Debit Card,0.27,3,0.15,No,Premium,4.32,Bronze
+389,15-03-2024,28,Other,West Loriside,High,High Spender,Email,5/10/2024,12,3218.72,268.23,Active,24-Mar,7437.92,540,23-08-2025,85,Electronics,0.08,2,UPI,0.07,4,0.12,Yes,Premium,22.46,Bronze
+390,11/1/2023,29,Other,Oneillmouth,High,High Spender,Social Media,12/3/2023,14,4124.93,294.64,Inactive,23-Nov,9116.58,675,28-02-2024,38,Books,0.89,9,Wallet,0.06,1,0.25,No,Gold,58.13,Bronze
+391,5/8/2025,48,Male,Lake David,High,High Spender,Referral,29-05-2025,23,3573.92,155.39,Active,25-May,6314.18,121,7/5/2025,20,Travel,0.47,6,Debit Card,0.28,4,0.85,Yes,Gold,4.26,Platinum
+392,27-11-2024,34,Female,Thomasside,Medium,Occasional,Ads,12/12/2024,1,4518.49,4518.49,Active,24-Nov,7216.94,283,5/4/2025,18,Grocery,0.5,3,UPI,0.18,2,0.33,No,Premium,28.93,Bronze
+393,10/5/2023,48,Male,Adammouth,Medium,Loyal,Direct,11/2/2023,46,471.87,10.26,Active,23-Oct,1103.04,702,11/7/2024,33,Books,0.89,5,Net Banking,0.3,2,0.75,No,Premium,19.21,Bronze
+394,11/8/2023,54,Male,Port Jonathanfort,High,Loyal,Direct,13-12-2023,3,4685.6,1561.87,Active,23-Nov,11233.44,668,17-06-2024,3,Fashion,0.56,5,Wallet,0.28,2,0.74,Yes,Premium,4.82,Gold
+395,20-02-2024,58,Male,Mcknightview,High,One-time,Direct,13-03-2024,18,4626.23,257.01,Active,24-Feb,10502.7,564,4/3/2025,67,Grocery,0.14,0,UPI,0.11,1,0.23,No,Free,45.13,Silver
+396,22-12-2023,41,Male,Jonesmouth,High,Loyal,Ads,21-01-2024,47,2311.82,49.19,Inactive,23-Dec,3939.59,624,14-04-2024,69,Fashion,0.89,5,UPI,0.09,4,0.36,Yes,Gold,23.72,Gold
+397,22-06-2025,64,Male,Lake Daniel,Medium,One-time,Direct,,0,0,0,Active,25-Jun,0,76,23-07-2025,30,Grocery,0.92,7,Net Banking,0.11,5,0.89,No,Free,37.85,Bronze
+398,5/4/2024,59,Male,West Johnville,Low,Bargain Hunter,Direct,6/5/2024,13,3413.25,262.56,Active,24-May,5602.68,490,6/1/2024,89,Books,0.64,1,Wallet,0.12,3,0.6,Yes,Premium,48.93,Gold
+399,21-11-2024,23,Female,East Patricia,Medium,One-time,Direct,23-11-2024,19,3654.86,192.36,Active,24-Nov,6274.79,289,29-05-2025,92,Healthcare,0.95,1,Credit Card,0.06,3,0.29,Yes,Free,20.18,Gold
+400,19-02-2024,28,Other,New Christianton,Low,One-time,Referral,3/12/2024,16,75.63,4.73,Active,24-Feb,140.61,565,30-04-2024,27,Fashion,0.11,0,Wallet,0.02,1,0.53,Yes,Gold,38.67,Bronze
+401,27-07-2024,48,Female,East Melissaburgh,Low,Loyal,Social Media,14-09-2024,46,3686.32,80.14,Inactive,24-Jul,4994.75,406,13-01-2025,70,Electronics,0.86,0,Net Banking,0.01,1,0.52,Yes,Free,9.83,Gold
+402,18-05-2024,56,Female,Port Katherineport,Medium,Loyal,Social Media,25-05-2024,33,4796.26,145.34,Active,24-May,5945.19,476,7/12/2024,11,Healthcare,0.96,8,Wallet,0.09,2,0.23,No,Gold,13.61,Gold
+403,9/9/2024,22,Other,Patrickshire,High,One-time,Email,10/3/2024,47,2533.96,53.91,Inactive,24-Sep,5158.85,362,27-02-2025,51,Electronics,0.43,10,Credit Card,0.09,1,0.58,No,Free,6.57,Gold
+404,7/1/2024,31,Female,Lake Maureenfurt,Low,Occasional,Ads,13-07-2024,33,2951.8,89.45,Active,24-Jul,4643.25,432,25-01-2025,88,Electronics,0.78,8,Net Banking,0,5,0.46,No,Gold,40.13,Gold
+405,26-11-2024,45,Other,Kevinfort,High,Loyal,Ads,12/1/2024,29,4728.68,163.06,Inactive,24-Nov,10787.96,284,14-08-2025,44,Grocery,0.61,3,Credit Card,0.3,2,0.19,Yes,Premium,12.17,Silver
+406,19-06-2025,36,Male,Andersonstad,Low,Occasional,Ads,17-07-2025,30,2909.36,96.98,Inactive,25-Jun,4258.39,79,7/6/2025,54,Fashion,0.4,5,Wallet,0.19,5,0.69,No,Free,12.42,Platinum
+407,29-02-2024,61,Female,Shannonview,Low,Occasional,Direct,4/4/2024,36,1157.25,32.15,Inactive,24-Feb,1775.4,555,29-04-2025,16,Fashion,0.81,2,Debit Card,0.23,3,0.34,Yes,Premium,44.19,Gold
+408,8/4/2024,61,Female,Josephshire,Low,Occasional,Referral,15-08-2024,21,4379.99,208.57,Inactive,24-Aug,10647.75,398,30-08-2025,90,Electronics,0.56,4,Wallet,0.13,3,0.75,No,Gold,45.7,Gold
+409,7/8/2025,43,Male,East Jason,Low,Occasional,Social Media,8/6/2025,49,512.87,10.47,Active,25-Jul,1201.56,60,20-08-2025,20,Healthcare,0.38,5,Debit Card,0.27,3,0.25,No,Gold,36.75,Gold
+410,2/2/2025,34,Female,Lisaside,High,One-time,Direct,2/7/2025,5,3246.09,649.22,Active,25-Feb,6509.11,216,9/5/2025,36,Fashion,0.53,0,Credit Card,0.22,1,0.16,Yes,Free,25.47,Silver
+411,2/4/2025,65,Other,Robertsville,Medium,Loyal,Email,20-03-2025,4,1180.93,295.23,Active,25-Feb,2636.9,214,17-02-2025,86,Electronics,0.44,4,Net Banking,0.26,5,0.71,No,Premium,43.69,Bronze
+412,7/4/2024,53,Male,South Jessicashire,Medium,Occasional,Email,9/2/2024,15,1814.17,120.94,Inactive,24-Jul,3389.42,429,23-01-2025,12,Fashion,0.56,4,Wallet,0.12,3,0.19,Yes,Free,25.42,Gold
+413,21-10-2023,50,Female,Jamesview,Medium,Occasional,Direct,30-11-2023,15,2581.43,172.1,Active,23-Oct,4497.72,686,23-06-2025,15,Healthcare,0.48,2,Credit Card,0.03,1,0.14,Yes,Free,1.2,Platinum
+414,25-03-2025,62,Female,Yolandaburgh,Medium,Occasional,Social Media,21-05-2025,6,2361.22,393.54,Active,25-Mar,4595.7,165,9/5/2025,1,Healthcare,0.31,3,UPI,0.08,2,0.59,Yes,Premium,17,Silver
+415,15-02-2024,60,Female,Port Brettland,Low,Bargain Hunter,Ads,3/1/2024,11,4294.27,390.39,Active,24-Feb,7679.97,569,7/9/2025,43,Healthcare,0.29,10,Wallet,0.11,4,0.72,Yes,Premium,10.46,Bronze
+416,22-08-2025,31,Female,New Robert,High,High Spender,Ads,9/9/2025,42,3339.64,79.52,Active,25-Aug,4745.66,15,9/1/2025,63,Electronics,0.45,3,Wallet,0.14,5,0.24,Yes,Premium,42.89,Gold
+417,9/4/2024,38,Male,Markview,Medium,High Spender,Ads,27-09-2024,27,1349.6,49.99,Inactive,24-Sep,2826.55,367,29-12-2024,21,Healthcare,0.6,0,Debit Card,0.27,3,0.78,No,Gold,17.02,Gold
+418,30-05-2024,20,Other,Reynoldsberg,High,One-time,Direct,19-07-2024,43,1717.79,39.95,Inactive,24-May,2087.28,464,19-02-2025,51,Travel,0.22,5,Credit Card,0.07,3,0.18,Yes,Premium,45.64,Bronze
+419,10/10/2024,34,Male,New Justinstad,High,Occasional,Social Media,31-10-2024,21,4479.05,213.29,Inactive,24-Oct,7369.48,331,1/8/2025,72,Books,0.08,8,Wallet,0.17,2,0.4,No,Gold,29.56,Silver
+420,5/5/2024,24,Other,Johnton,Medium,Bargain Hunter,Email,6/4/2024,43,2677.21,62.26,Active,24-May,3843.32,489,28-11-2024,1,Books,0.51,0,Wallet,0.06,5,0.9,No,Free,17.26,Platinum
+421,12/4/2023,58,Other,Millerbury,Low,Occasional,Direct,31-01-2024,41,906.44,22.11,Inactive,23-Dec,1173.6,642,23-12-2024,52,Electronics,0.8,10,UPI,0.28,4,0.82,Yes,Premium,16.67,Bronze
+422,1/8/2024,65,Male,Port Brandonmouth,Medium,Bargain Hunter,Ads,2/7/2024,25,3915.64,156.63,Active,24-Jan,7078.11,607,30-04-2024,89,Fashion,0.96,5,Wallet,0.26,4,0.84,Yes,Free,17.16,Gold
+423,14-06-2025,31,Male,South Donald,Medium,Loyal,Social Media,31-07-2025,4,1301.14,325.29,Inactive,25-Jun,2339.93,84,31-08-2025,26,Electronics,0.7,1,Net Banking,0.04,4,0.19,Yes,Free,19.87,Platinum
+424,8/10/2024,65,Other,Jamesburgh,Low,Loyal,Direct,9/11/2024,29,4439.67,153.09,Inactive,24-Aug,9306.37,392,9/1/2024,98,Grocery,0.64,0,Debit Card,0.22,5,0.13,No,Gold,42.12,Silver
+425,10/7/2023,51,Male,Port Lindsaystad,Medium,Bargain Hunter,Referral,13-11-2023,3,4658.11,1552.7,Inactive,23-Oct,7893.34,700,19-08-2024,27,Electronics,0.41,0,Wallet,0.14,1,0.46,No,Free,16.99,Bronze
+426,17-09-2024,60,Female,Wyattfurt,Low,Bargain Hunter,Direct,16-11-2024,31,4724.52,152.4,Inactive,24-Sep,11233.85,354,20-03-2025,99,Travel,0.75,1,Net Banking,0.13,4,0.74,Yes,Free,7.91,Platinum
+427,1/6/2024,41,Other,Julieview,Low,One-time,Ads,30-01-2024,35,1377.42,39.35,Active,24-Jan,3003.1,609,31-08-2025,6,Fashion,0.48,3,Wallet,0,3,0.23,No,Free,50.47,Platinum
+428,6/10/2025,56,Other,West Tiffanyport,Medium,High Spender,Email,17-07-2025,48,2052.54,42.76,Active,25-Jun,4666.29,88,21-08-2025,88,Healthcare,0.45,9,Credit Card,0.13,3,0.89,No,Gold,1.44,Gold
+429,15-10-2024,59,Female,West Jerryborough,Medium,Occasional,Email,18-10-2024,35,1724.63,49.28,Active,24-Oct,2627.6,326,7/3/2025,45,Books,0.18,0,Net Banking,0.23,1,0.45,No,Premium,25.36,Silver
+430,7/3/2025,44,Other,New Jamesbury,Low,One-time,Referral,7/9/2025,1,3327.13,3327.13,Inactive,25-Jul,4278.81,65,7/9/2025,21,Fashion,0.54,5,UPI,0.09,2,0.23,No,Free,3.37,Platinum
+431,10/4/2023,45,Other,East Ashley,Medium,Loyal,Ads,17-11-2023,35,2590.32,74.01,Active,23-Oct,5641.37,703,12/4/2024,90,Travel,0.63,7,Debit Card,0.11,4,0.41,Yes,Gold,43.72,Platinum
+432,4/1/2024,40,Other,Spencershire,Medium,Bargain Hunter,Email,25-04-2024,38,1683.36,44.3,Active,24-Apr,3681.81,523,31-05-2024,1,Books,0.03,9,Net Banking,0.09,5,0.88,No,Free,30.54,Platinum
+433,8/12/2025,26,Other,Mcclainchester,High,Loyal,Social Media,24-09-2025,23,3433.87,149.3,Active,25-Aug,8089.45,25,28-08-2025,17,Electronics,0.54,2,Debit Card,0.16,1,0.61,No,Free,51.93,Silver
+434,19-12-2024,50,Female,Lunaport,Medium,High Spender,Email,20-12-2024,43,4852.75,112.85,Inactive,24-Dec,6626.93,261,3/5/2025,95,Fashion,0.02,7,Credit Card,0.12,3,0.73,No,Free,31.03,Gold
+435,21-10-2024,62,Male,Valenciastad,Medium,High Spender,Referral,11/10/2024,38,4405.5,115.93,Inactive,24-Oct,8389.68,320,3/10/2025,37,Healthcare,0.13,3,Wallet,0.21,1,0.88,Yes,Free,40.68,Platinum
+436,27-07-2024,61,Female,Stacyport,Low,Occasional,Social Media,8/1/2024,21,4813.57,229.22,Inactive,24-Jul,11336.46,406,21-04-2025,39,Grocery,0.95,7,Credit Card,0.19,5,0.8,No,Free,42.45,Bronze
+437,2/12/2025,23,Male,Johnsonstad,Medium,One-time,Ads,4/12/2025,8,1394.89,174.36,Inactive,25-Feb,2496.94,206,20-02-2025,94,Grocery,0.44,10,Wallet,0.1,3,0.23,No,Premium,42.92,Silver
+438,10/1/2024,29,Other,Watsonshire,High,Loyal,Ads,19-11-2024,34,1839.23,54.09,Inactive,24-Oct,3250.38,340,8/6/2025,77,Fashion,0.96,6,Credit Card,0.18,2,0.61,Yes,Free,22.23,Gold
+439,9/5/2024,47,Female,West Megan,High,Occasional,Referral,16-10-2024,47,2528.24,53.79,Inactive,24-Sep,3103.64,366,3/9/2025,27,Healthcare,0.86,8,Net Banking,0.28,1,0.12,Yes,Gold,36.62,Bronze
+440,11/6/2024,38,Female,South Meredithhaven,Medium,Loyal,Ads,11/9/2024,6,1983.15,330.53,Active,24-Nov,4059.56,304,23-03-2025,7,Electronics,0.29,1,Credit Card,0.17,2,0.45,No,Premium,33.65,Silver
+441,30-04-2024,52,Other,Smithmouth,Medium,Bargain Hunter,Ads,5/5/2024,26,2639.66,101.53,Inactive,24-Apr,6410.96,494,20-06-2024,24,Healthcare,0.27,6,Credit Card,0.29,5,0.57,No,Gold,37.41,Gold
+442,21-03-2025,64,Female,Lake Jessicachester,Medium,Occasional,Ads,4/2/2025,21,933.03,44.43,Inactive,25-Mar,1250.98,169,15-04-2025,36,Healthcare,0.75,5,Debit Card,0.23,1,0.11,Yes,Gold,9.58,Gold
+443,13-06-2025,58,Male,Castilloton,Medium,One-time,Direct,30-06-2025,37,870.85,23.54,Inactive,25-Jun,2119.65,85,28-07-2025,47,Healthcare,0.68,7,Wallet,0.06,4,0.75,No,Premium,15.3,Silver
+444,19-04-2025,62,Other,New Timothyville,Medium,Occasional,Social Media,6/2/2025,7,537.39,76.77,Inactive,25-Apr,1120.76,140,20-07-2025,71,Fashion,0.44,5,Credit Card,0.27,4,0.52,Yes,Free,6.16,Bronze
+445,10/6/2024,42,Female,Waltonhaven,Medium,Loyal,Social Media,19-11-2024,1,3749.33,3749.33,Inactive,24-Oct,8179.78,335,19-04-2025,74,Electronics,0.92,0,Credit Card,0.04,3,0.16,Yes,Gold,24.22,Platinum
+446,10/2/2024,44,Other,New Amanda,Medium,High Spender,Referral,23-11-2024,19,2776.9,146.15,Active,24-Oct,3776.93,339,24-10-2024,28,Electronics,0.71,5,Credit Card,0.27,3,0.2,No,Free,37.99,Bronze
+447,5/5/2025,53,Male,North Matthew,Medium,Bargain Hunter,Referral,26-05-2025,32,2479.37,77.48,Active,25-May,5521,124,5/11/2025,50,Travel,0.82,8,UPI,0.11,1,0.13,Yes,Premium,22.38,Gold
+448,17-06-2024,61,Other,Ellenburgh,Low,Loyal,Referral,7/4/2024,2,1393.43,696.72,Inactive,24-Jun,3348.9,446,27-06-2025,22,Books,0.09,0,Debit Card,0.11,4,0.59,Yes,Premium,12.27,Gold
+449,19-02-2025,30,Male,Martinfort,High,High Spender,Email,3/7/2025,50,1900.24,38,Active,25-Feb,3076.83,199,4/6/2025,6,Fashion,0.32,0,Credit Card,0.28,5,0.34,Yes,Gold,26,Silver
+450,1/6/2025,41,Male,South Jonathanton,Medium,Occasional,Ads,16-02-2025,48,4277.6,89.12,Inactive,25-Jan,5253.91,243,17-04-2025,78,Grocery,0.44,3,UPI,0.05,1,0.12,No,Premium,59.68,Platinum
+451,19-07-2025,27,Male,Ochoahaven,Medium,One-time,Referral,14-09-2025,49,4812.11,98.21,Active,25-Jul,5967.53,49,22-08-2025,17,Fashion,0.73,6,Net Banking,0.26,4,0.27,Yes,Premium,21.41,Platinum
+452,19-05-2024,28,Male,Joneston,High,Bargain Hunter,Direct,17-07-2024,45,3374.44,74.99,Active,24-May,7601.05,475,14-06-2024,88,Travel,0.74,4,Wallet,0.27,5,0.18,No,Premium,31.33,Gold
+453,27-05-2025,21,Male,Smithberg,Low,Loyal,Email,15-06-2025,10,54.22,5.42,Inactive,25-May,121.01,102,14-06-2025,59,Grocery,0.69,10,Credit Card,0.25,1,0.16,No,Gold,41.47,Gold
+454,15-08-2025,18,Other,Carolbury,Medium,Bargain Hunter,Referral,25-08-2025,27,434.57,16.1,Inactive,25-Aug,604.14,22,9/5/2025,78,Books,0.11,9,UPI,0.25,5,0.8,No,Free,30.5,Gold
+455,2/12/2024,24,Male,East Andreafort,Low,One-time,Email,4/1/2024,30,2960.23,98.67,Active,24-Feb,5709.29,572,17-01-2025,11,Healthcare,0.78,4,Debit Card,0.23,5,0.58,No,Gold,43.91,Silver
+456,3/9/2024,33,Male,Millerborough,High,High Spender,Social Media,4/7/2024,8,2002.75,250.34,Inactive,24-Mar,3204.41,546,27-08-2025,14,Books,0.76,7,Credit Card,0.12,3,0.1,No,Premium,30.37,Platinum
+457,1/9/2024,46,Other,West Brittney,High,Loyal,Referral,3/9/2024,35,3651.65,104.33,Inactive,24-Jan,6078.84,606,6/10/2024,52,Grocery,0.32,2,Net Banking,0.23,2,0.84,No,Premium,57.82,Platinum
+458,29-06-2025,53,Male,Gonzalezchester,Low,Bargain Hunter,Ads,8/6/2025,22,4680.96,212.77,Active,25-Jun,10485.82,69,29-08-2025,95,Healthcare,0.13,9,Debit Card,0.22,3,0.69,No,Gold,31.84,Gold
+459,16-04-2024,58,Female,West Spencer,Low,Bargain Hunter,Direct,6/10/2024,16,3639.88,227.49,Inactive,24-Apr,8084.36,508,20-01-2025,6,Books,0.31,7,UPI,0.3,5,0.2,Yes,Premium,26.95,Bronze
+460,23-01-2025,46,Female,Tammyhaven,Low,One-time,Referral,3/5/2025,1,4393.3,4393.3,Active,25-Jan,8107.45,226,6/11/2025,27,Electronics,0.14,2,Debit Card,0.11,1,0.33,Yes,Premium,44.07,Silver
+461,30-04-2024,45,Female,Hollyton,Medium,Occasional,Direct,28-05-2024,18,822.23,45.68,Active,24-Apr,1280.77,494,2/8/2025,58,Books,0.25,6,UPI,0.1,4,0.69,No,Gold,35.76,Bronze
+462,29-06-2024,53,Female,Josechester,Low,High Spender,Referral,8/5/2024,38,509.86,13.42,Active,24-Jun,1260.75,434,19-07-2024,43,Grocery,0.42,7,Net Banking,0.08,3,0.53,Yes,Gold,45.05,Gold
+463,12/1/2024,65,Male,Kevinfort,High,Loyal,Ads,1/5/2025,32,4242.4,132.57,Active,24-Dec,6479.92,279,28-08-2025,8,Electronics,0.29,8,Net Banking,0.14,5,0.37,No,Premium,55.57,Bronze
+464,24-10-2024,42,Female,Rodriguezside,Medium,Occasional,Referral,27-10-2024,45,2695.99,59.91,Active,24-Oct,6172.89,317,9/5/2025,57,Travel,0.02,0,Wallet,0.24,4,0.37,No,Gold,51.64,Gold
+465,9/7/2024,29,Male,South Jessica,High,Bargain Hunter,Direct,10/1/2024,5,4830.72,966.14,Inactive,24-Sep,7596.31,364,13-09-2024,80,Grocery,0.03,4,Net Banking,0.28,1,0.83,No,Free,15.64,Gold
+466,5/11/2025,36,Male,New Hayden,Low,Occasional,Email,29-06-2025,21,2659.44,126.64,Inactive,25-May,5820.71,118,7/8/2025,46,Healthcare,0.58,0,Wallet,0.04,2,0.86,No,Premium,27.31,Silver
+467,18-07-2025,43,Male,North Johnny,Low,One-time,Referral,29-08-2025,26,4707.78,181.07,Inactive,25-Jul,6716.68,50,28-07-2025,55,Grocery,0.08,4,Net Banking,0.25,3,0.14,No,Premium,35.86,Platinum
+468,11/1/2024,39,Male,New Jennifer,Low,One-time,Referral,11/8/2024,34,1498.27,44.07,Active,24-Nov,3361.85,309,15-05-2025,68,Books,0.24,1,Credit Card,0.21,1,0.35,No,Premium,7.39,Bronze
+469,6/7/2025,51,Female,Steinland,Low,High Spender,Referral,8/6/2025,45,4211.35,93.59,Active,25-Jun,8219.68,91,7/12/2025,63,Travel,0.42,0,Debit Card,0.15,4,0.46,No,Premium,3.02,Platinum
+470,16-03-2025,26,Other,Donnaton,High,Occasional,Referral,5/6/2025,14,3541.16,252.94,Inactive,25-Mar,7964.61,174,28-07-2025,79,Books,0.72,2,UPI,0.24,4,0.44,No,Gold,59.35,Bronze
+471,3/8/2025,53,Male,North Thomastown,Medium,Loyal,Direct,5/5/2025,41,709.36,17.3,Active,25-Mar,1270.18,182,22-08-2025,51,Travel,0.69,4,Net Banking,0.02,2,0.28,Yes,Free,42.19,Platinum
+472,29-12-2023,58,Male,Lake Kristychester,Low,Occasional,Referral,1/4/2024,12,2425.53,202.13,Inactive,23-Dec,3157.69,617,6/10/2025,21,Fashion,0.47,5,UPI,0.28,1,0.25,Yes,Gold,18.03,Platinum
+473,24-03-2025,22,Other,Katherineberg,High,Loyal,Referral,18-04-2025,45,4550.43,101.12,Inactive,25-Mar,5673.83,166,29-06-2025,17,Travel,0.64,1,Net Banking,0.17,2,0.29,Yes,Premium,24.3,Silver
+474,12/5/2024,42,Female,North Cameronmouth,Low,Bargain Hunter,Referral,23-12-2024,46,4909.74,106.73,Inactive,24-Dec,7599.74,275,18-03-2025,11,Books,0.54,9,Wallet,0.11,1,0.29,Yes,Gold,1.12,Platinum
+475,23-03-2025,58,Other,East Juanburgh,High,Bargain Hunter,Social Media,19-05-2025,2,739.61,369.81,Active,25-Mar,1071.1,167,17-06-2025,14,Fashion,0.06,8,UPI,0.14,1,0.77,Yes,Gold,47.9,Bronze
+476,14-09-2023,64,Other,Carterton,High,Occasional,Social Media,11/2/2023,2,2214.24,1107.12,Inactive,23-Sep,5530.7,723,29-12-2023,35,Books,0.83,2,Credit Card,0.12,1,0.71,Yes,Gold,1.93,Gold
+477,13-05-2024,36,Female,Danafort,Low,One-time,Social Media,7/1/2024,2,1858.15,929.08,Inactive,24-May,3795.48,481,6/4/2024,26,Fashion,0.62,1,Net Banking,0.19,2,0.14,Yes,Gold,35.87,Silver
+478,18-01-2025,51,Other,Adkinsmouth,Low,High Spender,Ads,19-03-2025,45,3785.13,84.11,Active,25-Jan,5540.45,231,21-07-2025,15,Books,0.89,2,Credit Card,0.08,4,0.39,No,Premium,38.12,Silver
+479,1/8/2025,20,Male,Lisamouth,Medium,One-time,Referral,2/7/2025,13,4812.35,370.18,Active,25-Jan,11045.9,241,2/4/2025,83,Books,0.57,9,Credit Card,0.07,1,0.36,No,Free,29.98,Gold
+480,2/3/2025,19,Other,Austinfort,Medium,Bargain Hunter,Social Media,26-03-2025,6,377.83,62.97,Inactive,25-Feb,811.79,215,27-06-2025,98,Fashion,0.27,1,Net Banking,0.17,4,0.56,No,Premium,39.45,Silver
+481,30-09-2023,23,Other,Smithburgh,Low,Bargain Hunter,Referral,11/12/2023,13,4030.02,310,Active,23-Sep,6799.89,707,9/9/2024,85,Grocery,0.78,0,Net Banking,0.27,3,0.57,Yes,Premium,17.85,Bronze
+482,22-10-2023,28,Female,Port Thomas,Medium,High Spender,Social Media,11/5/2023,13,867.79,66.75,Inactive,23-Oct,1446.18,685,2/9/2024,3,Electronics,0.66,1,Debit Card,0.23,2,0.49,Yes,Premium,56.64,Silver
+483,21-01-2024,57,Male,Richardsonfort,Medium,Loyal,Social Media,26-02-2024,14,1189.67,84.98,Inactive,24-Jan,2364.24,594,26-12-2024,41,Fashion,0.08,6,UPI,0.17,1,0.26,No,Gold,55.79,Gold
+484,16-02-2024,57,Male,Jamesstad,Low,Loyal,Social Media,3/9/2024,13,177.08,13.62,Active,24-Feb,257.56,568,28-07-2024,100,Books,0.85,5,Credit Card,0.21,3,0.5,Yes,Gold,1.02,Silver
+485,29-10-2024,51,Female,Gonzalezberg,Low,One-time,Ads,22-12-2024,31,1012.06,32.65,Inactive,24-Oct,1954.94,312,14-03-2025,29,Grocery,0.67,2,Wallet,0.01,4,0.14,Yes,Gold,7.36,Silver
+486,21-01-2024,35,Female,Mariahshire,High,Loyal,Direct,3/2/2024,47,4447.39,94.63,Inactive,24-Jan,6042.48,594,22-07-2024,87,Fashion,0.94,6,Debit Card,0.14,1,0.23,No,Premium,26.33,Gold
+487,20-04-2025,21,Male,Millerville,High,Loyal,Social Media,16-05-2025,7,2322.34,331.76,Active,25-Apr,5381.71,139,23-04-2025,61,Travel,0.01,4,Wallet,0.1,1,0.87,Yes,Premium,7.84,Silver
+488,4/7/2024,31,Other,Johnsonbury,High,Bargain Hunter,Social Media,4/12/2024,13,3128.67,240.67,Inactive,24-Apr,4991.17,517,7/3/2025,36,Fashion,0.29,3,Wallet,0.02,5,0.7,No,Free,11.35,Gold
+489,1/7/2025,25,Other,Port Brandon,High,Loyal,Ads,16-02-2025,24,3026.67,126.11,Inactive,25-Jan,5783.38,242,13-07-2025,68,Healthcare,0.18,9,Debit Card,0.04,2,0.2,Yes,Premium,59.69,Silver
+490,15-10-2024,60,Other,Jamesfurt,Low,High Spender,Referral,,0,0,0,Inactive,24-Oct,0,326,23-07-2025,56,Healthcare,0.64,7,Debit Card,0.17,5,0.79,Yes,Premium,57.92,Bronze
+491,14-12-2023,20,Male,Danielport,Medium,Loyal,Ads,17-01-2024,44,4773.81,108.5,Inactive,23-Dec,9552.82,632,27-01-2024,33,Fashion,0.15,1,Wallet,0.28,1,0.34,Yes,Free,43.59,Platinum
+492,25-12-2023,39,Other,Elliottton,Medium,One-time,Ads,15-01-2024,13,4663.83,358.76,Active,23-Dec,7576.81,621,21-01-2025,98,Electronics,0.75,1,UPI,0.1,2,0.71,Yes,Premium,27.75,Gold
+493,13-10-2024,56,Male,Simsburgh,High,One-time,Direct,11/4/2024,8,4444.06,555.51,Inactive,24-Oct,11041.84,328,29-03-2025,32,Fashion,0.67,7,Credit Card,0.13,2,0.76,Yes,Premium,29.74,Gold
+494,28-06-2025,33,Female,Bellchester,High,High Spender,Social Media,23-07-2025,7,2833.86,404.84,Active,25-Jun,3741.01,70,24-07-2025,59,Electronics,0.95,8,Wallet,0.17,1,0.82,Yes,Gold,19.05,Silver
+495,10/12/2023,40,Female,Owenhaven,High,High Spender,Referral,11/10/2023,6,4980.4,830.07,Active,23-Oct,10243.34,695,3/12/2025,98,Travel,0.37,1,UPI,0.08,4,0.68,No,Premium,16.59,Platinum
+496,31-12-2024,42,Female,Lake Alison,High,Occasional,Direct,20-01-2025,31,177.8,5.74,Active,24-Dec,242.48,249,1/8/2025,22,Electronics,0.47,7,UPI,0.14,2,0.51,Yes,Premium,32.68,Platinum
+497,11/6/2024,30,Female,West Wendyside,Medium,Occasional,Social Media,,0,0,0,Inactive,24-Nov,0,304,5/5/2025,7,Fashion,0.42,7,Wallet,0.11,1,0.8,Yes,Premium,49.28,Silver
+498,7/9/2024,28,Female,Morrowborough,Low,Bargain Hunter,Direct,9/3/2024,45,3020.26,67.12,Inactive,24-Jul,6356.11,424,7/10/2025,84,Fashion,0.08,6,Debit Card,0.15,5,0.22,No,Free,26.49,Bronze
+499,20-02-2025,43,Male,Lake Brenda,Low,High Spender,Email,27-02-2025,7,3592.49,513.21,Active,25-Feb,6661.64,198,29-04-2025,51,Grocery,0.35,1,Net Banking,0.14,1,0.17,Yes,Premium,18.48,Bronze
+500,5/4/2025,32,Male,West Greggtown,Medium,One-time,Ads,,0,0,0,Inactive,25-May,0,125,28-08-2025,33,Travel,0.01,10,Debit Card,0.01,3,0.37,No,Gold,4.13,Platinum
+501,8/2/2025,61,Other,Lisaville,High,One-time,Email,15-09-2025,28,3877.76,138.49,Inactive,25-Aug,8217.11,35,17-08-2025,18,Electronics,0.99,10,Credit Card,0.18,3,0.5,Yes,Free,47.37,Gold
+502,7/9/2025,29,Other,Bowenberg,Low,Occasional,Ads,20-07-2025,46,2543.12,55.29,Inactive,25-Jul,4325.21,59,13-08-2025,57,Healthcare,0.62,3,Debit Card,0.19,3,0.54,No,Free,55.88,Bronze
+503,27-06-2025,61,Male,East Brucetown,Medium,Bargain Hunter,Referral,7/1/2025,45,81.26,1.81,Active,25-Jun,136.12,71,22-07-2025,53,Travel,0.71,1,Credit Card,0.24,1,0.15,Yes,Premium,33.11,Platinum
+504,11/6/2023,47,Female,Port Nicholasmouth,Low,One-time,Social Media,12/6/2023,45,1744.61,38.77,Inactive,23-Nov,4332.85,670,11/5/2024,80,Healthcare,0.53,8,Debit Card,0.21,1,0.89,Yes,Gold,31.21,Gold
+505,8/12/2025,23,Other,Lake Kenneth,Low,Loyal,Ads,10/4/2025,22,2955.61,134.35,Inactive,25-Aug,5850.72,25,20-08-2025,55,Travel,0.62,4,UPI,0.21,2,0.54,Yes,Free,19.97,Gold
+506,23-01-2025,26,Other,Port Marktown,High,Loyal,Direct,15-02-2025,33,2035.18,61.67,Active,25-Jan,4164.09,226,3/2/2025,13,Electronics,0.49,2,Credit Card,0.14,3,0.13,Yes,Premium,42.22,Gold
+507,14-04-2025,53,Other,Victoriaburgh,Low,Loyal,Referral,15-04-2025,11,2643.71,240.34,Inactive,25-Apr,5996.3,145,5/11/2025,17,Books,0.05,6,Credit Card,0.24,3,0.72,No,Gold,59.59,Platinum
+508,17-10-2024,56,Male,Thomasview,Medium,Bargain Hunter,Social Media,20-10-2024,45,381.68,8.48,Inactive,24-Oct,466.84,324,27-06-2025,18,Healthcare,0.57,6,UPI,0.01,2,0.21,Yes,Premium,41.62,Silver
+509,1/12/2025,48,Other,Douglasport,Medium,Occasional,Email,3/10/2025,34,3723.81,109.52,Inactive,25-Jan,7879.64,237,6/6/2025,55,Grocery,0.55,0,UPI,0.15,3,0.27,No,Premium,24.62,Bronze
+510,5/8/2024,46,Female,New Brooke,Medium,Occasional,Email,29-05-2024,33,1979.29,59.98,Inactive,24-May,2400.37,486,9/1/2025,13,Books,0.86,7,Debit Card,0.23,5,0.55,Yes,Premium,47.53,Gold
+511,10/4/2024,53,Other,New Michael,High,One-time,Email,28-11-2024,11,2079.27,189.02,Inactive,24-Oct,4287.01,337,10/10/2024,94,Travel,0.79,9,Debit Card,0.25,5,0.63,No,Gold,45,Platinum
+512,4/5/2024,65,Female,New Laurenbury,Low,Loyal,Social Media,25-05-2024,13,1272.47,97.88,Inactive,24-Apr,2701.11,519,2/12/2025,45,Travel,0.53,2,Net Banking,0.28,1,0.46,No,Free,48.55,Silver
+513,24-01-2024,37,Female,New Krista,High,Bargain Hunter,Ads,13-03-2024,39,1602.6,41.09,Inactive,24-Jan,2036.04,591,14-05-2025,45,Books,0.36,4,Wallet,0.11,1,0.27,Yes,Free,53.74,Silver
+514,15-01-2024,62,Male,New Ryanside,Medium,Loyal,Referral,2/3/2024,37,1677.26,45.33,Inactive,24-Jan,2663.07,600,6/3/2025,12,Grocery,0.67,4,Debit Card,0.16,4,0.26,Yes,Free,34.42,Bronze
+515,2/8/2024,47,Male,Dannychester,High,Loyal,Direct,3/10/2024,48,3802.2,79.21,Active,24-Feb,4737.02,576,18-02-2025,40,Fashion,0.2,2,Net Banking,0.19,1,0.18,No,Free,52.08,Gold
+516,19-07-2024,58,Male,Romeroport,High,One-time,Direct,27-07-2024,1,1692.56,1692.56,Inactive,24-Jul,2271.46,414,7/5/2025,22,Books,0.46,8,Credit Card,0.02,1,0.36,Yes,Free,13.96,Platinum
+517,19-08-2024,34,Male,Reynoldsmouth,Medium,High Spender,Ads,10/12/2024,21,1515.61,72.17,Inactive,24-Aug,2807.62,383,11/3/2024,6,Travel,0.31,4,Debit Card,0.11,1,0.68,No,Gold,49.33,Platinum
+518,9/7/2023,32,Male,Theresaland,Low,Loyal,Referral,20-09-2023,5,2519.3,503.86,Active,23-Sep,3530.56,730,26-04-2024,42,Healthcare,0.13,3,Debit Card,0.01,3,0.22,No,Free,30.47,Gold
+519,1/6/2024,46,Female,South Eric,Low,One-time,Direct,27-02-2024,31,3500.89,112.93,Inactive,24-Jan,7901.04,609,20-05-2025,15,Travel,0.02,0,Wallet,0.14,5,0.32,Yes,Gold,49.02,Bronze
+520,8/1/2025,55,Female,Port Samantha,High,Occasional,Email,28-09-2025,39,2107.65,54.04,Active,25-Aug,4714.62,36,13-08-2025,42,Grocery,0,3,Credit Card,0.06,3,0.62,Yes,Gold,33.42,Silver
+521,8/1/2025,19,Female,New Jenniferview,Medium,Loyal,Email,9/6/2025,46,3173.87,69,Active,25-Aug,7539.51,36,13-08-2025,50,Grocery,0.21,5,Wallet,0.03,2,0.61,No,Gold,18.56,Platinum
+522,9/8/2024,29,Female,North Kristopherview,High,Loyal,Email,27-09-2024,2,1814.35,907.17,Inactive,24-Sep,3561.34,363,26-02-2025,52,Healthcare,0.01,2,Debit Card,0.08,1,0.66,Yes,Premium,8.08,Gold
+523,31-03-2024,51,Other,Lake Brittany,Low,One-time,Social Media,4/10/2024,16,1355.91,84.74,Inactive,24-Mar,2788.66,524,2/5/2025,5,Books,0.13,3,Debit Card,0.27,3,0.62,No,Premium,53.91,Gold
+524,8/12/2024,45,Female,Peterschester,Low,Occasional,Ads,23-09-2024,24,643.89,26.83,Active,24-Aug,1293.15,390,16-10-2024,52,Electronics,0.9,5,Net Banking,0.01,3,0.67,Yes,Premium,51.78,Silver
+525,1/1/2024,47,Male,South Amber,Low,Loyal,Social Media,25-01-2024,12,3938.48,328.21,Active,24-Jan,6857.59,614,14-05-2025,16,Grocery,0.32,1,Net Banking,0.07,1,0.14,No,Premium,31.99,Platinum
+526,30-12-2024,25,Male,Port Annburgh,Low,High Spender,Referral,13-01-2025,20,82.78,4.14,Inactive,24-Dec,163.21,250,21-08-2025,74,Grocery,0.57,2,Debit Card,0.25,5,0.3,Yes,Free,6.2,Gold
+527,8/2/2025,48,Other,Marquezville,Low,Loyal,Social Media,30-08-2025,48,4894.62,101.97,Active,25-Aug,6120.69,35,9/4/2025,41,Fashion,0.72,3,Wallet,0.12,5,0.48,No,Premium,54.05,Silver
+528,23-07-2025,28,Other,Rodriguezport,Medium,Bargain Hunter,Email,26-08-2025,16,1662.12,103.88,Inactive,25-Jul,2480.08,45,19-08-2025,48,Books,0.19,3,Credit Card,0.11,5,0.4,Yes,Free,13.11,Bronze
+529,23-10-2023,37,Female,New Karenborough,Low,Bargain Hunter,Email,12/4/2023,30,1608.35,53.61,Inactive,23-Oct,2529.39,684,2/2/2025,34,Healthcare,0.72,8,Credit Card,0.14,1,0.27,No,Premium,27.51,Silver
+530,5/6/2024,58,Male,Barreraside,High,High Spender,Direct,5/7/2024,16,238.92,14.93,Inactive,24-May,293.49,488,5/12/2025,33,Grocery,0.41,2,Wallet,0.29,4,0.69,No,Free,56.04,Bronze
+531,3/2/2024,32,Female,North Timothyport,Medium,Occasional,Direct,28-04-2024,25,3944.2,157.77,Inactive,24-Mar,8657.34,553,11/9/2024,52,Grocery,0.48,1,Wallet,0.23,4,0.15,No,Free,32.82,Bronze
+532,30-03-2025,56,Male,Port Sarahtown,High,Loyal,Referral,18-04-2025,35,1111.75,31.76,Active,25-Mar,2022.02,160,26-05-2025,74,Healthcare,0.31,3,Wallet,0.15,4,0.14,No,Premium,28.82,Gold
+533,26-04-2024,44,Female,Claytonfort,Medium,Occasional,Social Media,6/12/2024,37,75.66,2.04,Inactive,24-Apr,167.43,498,8/12/2025,40,Electronics,0.98,1,Net Banking,0.07,4,0.5,No,Premium,11.85,Silver
+534,12/5/2023,25,Other,Lake Frederickborough,Low,Loyal,Ads,23-12-2023,49,3292.75,67.2,Active,23-Dec,4024.7,641,1/6/2025,43,Electronics,0.56,0,UPI,0.11,5,0.68,Yes,Premium,23.49,Bronze
+535,12/11/2024,46,Other,South Jamesmouth,Medium,Bargain Hunter,Ads,28-01-2025,17,2685.74,157.98,Active,24-Dec,5834.56,269,25-07-2025,5,Electronics,0.49,9,Debit Card,0.25,2,0.27,Yes,Gold,33.8,Platinum
+536,13-01-2024,20,Female,Ortizview,Low,Bargain Hunter,Ads,19-02-2024,28,4347.07,155.25,Active,24-Jan,7955.18,602,23-03-2025,97,Healthcare,0.72,5,Debit Card,0.1,1,0.54,Yes,Gold,58.39,Platinum
+537,21-06-2025,39,Other,Cortezbury,High,One-time,Social Media,24-06-2025,8,381.95,47.74,Inactive,25-Jun,819.47,77,9/2/2025,26,Grocery,0.81,1,Wallet,0.24,1,0.27,No,Premium,59.44,Platinum
+538,20-08-2025,46,Other,South Nicholasfort,Medium,Loyal,Social Media,24-09-2025,38,3037.77,79.94,Active,25-Aug,6277.13,17,26-08-2025,49,Books,0.31,10,Debit Card,0.15,5,0.79,No,Premium,51.84,Bronze
+539,8/3/2025,23,Female,Lake Jorge,Low,Bargain Hunter,Referral,23-08-2025,4,4004.34,1001.09,Inactive,25-Aug,4902.45,34,24-08-2025,69,Healthcare,0.14,0,Debit Card,0.21,1,0.77,No,Premium,20.31,Bronze
+540,11/11/2024,57,Other,Port Lisa,Low,One-time,Referral,1/6/2025,41,3192.57,77.87,Inactive,24-Nov,4846.41,299,27-02-2025,25,Grocery,0.98,1,Wallet,0.07,1,0.4,Yes,Premium,54.63,Silver
+541,8/3/2025,18,Female,East Karen,High,Loyal,Direct,21-09-2025,19,1163.58,61.24,Active,25-Aug,1819.93,34,8/11/2025,44,Fashion,0.84,7,UPI,0.29,5,0.87,Yes,Premium,52.35,Platinum
+542,24-12-2024,45,Male,Georgeberg,High,One-time,Social Media,1/12/2025,33,4964.2,150.43,Inactive,24-Dec,10349.77,256,26-01-2025,29,Travel,0.05,0,Credit Card,0.14,4,0.13,Yes,Premium,50.25,Bronze
+543,20-09-2024,30,Male,Port Charlene,Low,One-time,Ads,17-11-2024,43,2431.52,56.55,Inactive,24-Sep,5318.31,351,14-04-2025,49,Fashion,0.39,8,Wallet,0.08,1,0.29,Yes,Free,46.34,Silver
+544,15-05-2025,53,Other,Fostertown,High,One-time,Direct,24-05-2025,44,3515.63,79.9,Active,25-May,8478.61,114,6/6/2025,18,Fashion,0.69,7,Credit Card,0.26,1,0.64,No,Free,46.13,Gold
+545,29-10-2023,44,Male,Lake Robert,Low,High Spender,Social Media,17-12-2023,29,1910.73,65.89,Inactive,23-Oct,4211.09,678,7/9/2025,87,Healthcare,0.68,5,Credit Card,0.06,3,0.12,No,Gold,17.33,Platinum
+546,15-09-2023,52,Other,Johnathanfort,Low,Loyal,Direct,27-10-2023,1,782.19,782.19,Inactive,23-Sep,1492.62,722,12/9/2023,8,Grocery,0.26,4,Net Banking,0.09,4,0.72,Yes,Premium,42.52,Platinum
+547,22-06-2024,58,Female,Johnview,High,High Spender,Direct,19-07-2024,17,3561.79,209.52,Active,24-Jun,8526.95,441,2/3/2025,68,Fashion,0.17,10,Wallet,0.19,2,0.13,Yes,Free,19.78,Bronze
+548,18-01-2024,45,Male,Pricemouth,Low,One-time,Direct,24-01-2024,10,3365.99,336.6,Active,24-Jan,4087.43,597,23-05-2024,90,Books,0.92,8,Wallet,0.2,4,0.39,No,Free,8.47,Silver
+549,16-02-2025,20,Male,South Michael,Low,Occasional,Social Media,22-03-2025,31,4090.42,131.95,Active,25-Feb,6091.36,202,29-08-2025,10,Travel,0.32,3,Wallet,0.05,3,0.22,Yes,Gold,36.66,Bronze
+550,11/5/2023,29,Male,East Ericton,Medium,Loyal,Direct,29-12-2023,40,4663.49,116.59,Active,23-Nov,11532,671,23-08-2024,96,Grocery,0.71,8,Debit Card,0.03,2,0.82,No,Gold,26.75,Silver
+551,19-03-2025,36,Other,Laneton,High,One-time,Email,4/11/2025,29,3723.82,128.41,Inactive,25-Mar,5885.24,171,29-08-2025,17,Healthcare,0.74,10,Debit Card,0.05,3,0.86,Yes,Free,3.35,Bronze
+552,25-11-2024,23,Female,Deanmouth,Low,Loyal,Social Media,1/9/2025,12,3684.28,307.02,Active,24-Nov,7135.57,285,1/10/2025,100,Fashion,0.87,4,Debit Card,0.28,1,0.16,Yes,Premium,2.2,Silver
+553,31-05-2024,38,Female,West Kyleburgh,High,One-time,Referral,17-06-2024,25,2850.54,114.02,Active,24-May,5401.13,463,26-10-2024,51,Books,0.98,5,Net Banking,0.02,4,0.5,No,Gold,51.37,Silver
+554,16-09-2023,21,Female,West Amyland,Low,Occasional,Ads,27-10-2023,18,4022.03,223.45,Inactive,23-Sep,8376.1,721,26-02-2024,80,Books,0.53,2,Net Banking,0.1,1,0.51,No,Free,17.04,Bronze
+555,12/12/2023,63,Male,Port John,Medium,One-time,Ads,30-01-2024,31,2374.02,76.58,Inactive,23-Dec,5439.43,634,13-03-2025,30,Healthcare,0.66,3,UPI,0.28,5,0.4,Yes,Free,46.43,Gold
+556,3/9/2024,24,Other,Corytown,Low,Bargain Hunter,Direct,4/7/2024,8,4671.94,583.99,Active,24-Mar,7777.09,546,21-02-2025,20,Travel,0.22,2,Debit Card,0.23,1,0.86,Yes,Premium,41.24,Silver
+557,22-11-2024,28,Other,Port Alexanderside,Low,Bargain Hunter,Direct,26-12-2024,26,4878.4,187.63,Inactive,24-Nov,7695.96,288,9/5/2025,5,Grocery,0.32,3,UPI,0.14,3,0.81,Yes,Free,51.35,Bronze
+558,30-11-2023,47,Other,South Kimberlyport,High,High Spender,Social Media,20-01-2024,33,199.61,6.05,Active,23-Nov,308.77,646,19-04-2025,79,Electronics,0.67,3,Debit Card,0,2,0.78,No,Gold,47.23,Platinum
+559,25-12-2024,54,Male,Darrenton,Low,High Spender,Ads,2/2/2025,17,881.62,51.86,Active,24-Dec,1900.14,255,3/10/2025,97,Healthcare,0.21,9,Debit Card,0.12,4,0.44,No,Free,22.43,Bronze
+560,13-08-2024,40,Male,New Laurenton,Medium,One-time,Ads,10/9/2024,39,572.31,14.67,Active,24-Aug,1241.38,389,5/11/2025,81,Books,0.13,5,Credit Card,0.09,4,0.49,No,Free,3.43,Silver
+561,3/4/2024,44,Female,New Marieburgh,Medium,High Spender,Social Media,,0,0,0,Active,24-Mar,0,551,28-07-2024,33,Grocery,0.08,2,Credit Card,0.12,1,0.25,Yes,Gold,23.58,Silver
+562,27-05-2024,54,Male,South Ann,High,High Spender,Referral,24-06-2024,45,1810.75,40.24,Inactive,24-May,2418.15,467,6/5/2025,55,Books,0.39,6,UPI,0.2,5,0.42,No,Free,11.78,Platinum
+563,11/10/2024,59,Male,Port Julieview,Medium,One-time,Referral,1/2/2025,40,4962,124.05,Inactive,24-Nov,6654.97,300,11/11/2024,63,Grocery,0.39,10,Wallet,0,3,0.45,No,Free,20.69,Gold
+564,14-11-2024,21,Female,Port Josephport,Low,Occasional,Social Media,18-11-2024,41,2556.91,62.36,Inactive,24-Nov,4140.44,296,3/2/2025,69,Books,0.96,10,Credit Card,0.22,4,0.53,Yes,Gold,26.88,Bronze
+565,1/5/2025,43,Male,West Kyle,Low,Occasional,Social Media,23-02-2025,3,3101.33,1033.78,Active,25-Jan,7659.1,244,6/2/2025,47,Healthcare,0.03,9,Credit Card,0.18,2,0.89,No,Premium,53.47,Gold
+566,24-03-2025,25,Male,North Kyleton,High,One-time,Email,4/10/2025,21,413.98,19.71,Active,25-Mar,1011.99,166,14-06-2025,1,Fashion,0.48,1,Debit Card,0.08,2,0.86,Yes,Premium,23.79,Bronze
+567,5/7/2025,28,Other,North Bobbyville,Medium,High Spender,Ads,23-06-2025,27,115.65,4.28,Active,25-May,160.34,122,30-08-2025,17,Fashion,0.52,2,Wallet,0.03,4,0.28,No,Premium,3.26,Bronze
+568,16-03-2024,59,Male,New Patricia,Low,High Spender,Email,22-03-2024,34,859.19,25.27,Active,24-Mar,1354.36,539,6/11/2024,20,Healthcare,0.84,5,Debit Card,0.03,3,0.56,No,Premium,33.09,Platinum
+569,27-09-2024,42,Male,Lake Wandachester,Low,One-time,Referral,11/6/2024,6,1232.63,205.44,Inactive,24-Sep,1926.53,344,16-10-2024,20,Grocery,0.74,10,Credit Card,0.13,4,0.73,Yes,Premium,56.88,Platinum
+570,24-07-2024,19,Female,East Douglasmouth,High,One-time,Social Media,8/12/2024,4,2799.44,699.86,Active,24-Jul,4016.86,409,23-09-2024,60,Electronics,0.45,10,Debit Card,0.23,1,0.43,No,Gold,3.58,Silver
+571,25-12-2023,50,Female,Lake Patrickchester,Medium,Bargain Hunter,Social Media,27-12-2023,45,1078.39,23.96,Inactive,23-Dec,1777.81,621,17-11-2024,24,Travel,0.18,6,UPI,0.16,2,0.47,No,Premium,25.33,Gold
+572,24-12-2024,48,Other,Ericaland,High,Occasional,Email,30-12-2024,44,3721.23,84.57,Active,24-Dec,6449.36,256,5/10/2025,12,Books,0.77,4,Wallet,0.13,2,0.45,No,Gold,10.81,Platinum
+573,25-05-2024,37,Female,South Yvonneburgh,Medium,Loyal,Referral,14-06-2024,33,2878.91,87.24,Inactive,24-May,5119.42,469,14-03-2025,17,Grocery,0.59,6,Debit Card,0.25,3,0.32,Yes,Premium,59.8,Gold
+574,19-08-2025,31,Other,New Angela,Medium,Occasional,Ads,9/4/2025,19,2694.41,141.81,Inactive,25-Aug,3800.14,18,9/4/2025,98,Healthcare,0.88,9,UPI,0.14,2,0.31,No,Free,56.83,Bronze
+575,9/2/2025,33,Male,North Michealport,Low,Bargain Hunter,Direct,15-09-2025,4,2116.63,529.16,Inactive,25-Sep,3544.31,4,9/4/2025,1,Books,0.74,0,UPI,0.17,2,0.66,Yes,Free,32.68,Silver
+576,9/3/2024,31,Male,East Todd,Medium,Loyal,Direct,10/12/2024,21,384.56,18.31,Inactive,24-Sep,932.01,368,1/1/2025,75,Books,0.02,3,Net Banking,0.2,2,0.17,No,Premium,39.25,Gold
+577,6/6/2024,62,Female,New Kenneth,Low,Loyal,Email,29-06-2024,2,1669.72,834.86,Inactive,24-Jun,2420.69,457,12/12/2024,23,Travel,0.6,9,UPI,0.22,5,0.21,No,Free,35.28,Silver
+578,17-10-2024,24,Other,East David,High,One-time,Direct,12/5/2024,31,3630.38,117.11,Inactive,24-Oct,5168.73,324,14-02-2025,27,Books,0.83,7,Net Banking,0.2,1,0.25,Yes,Gold,17.61,Silver
+579,30-04-2025,58,Other,East Sonia,Medium,One-time,Social Media,6/9/2025,24,3973.11,165.55,Active,25-Apr,6894.1,129,19-07-2025,82,Grocery,0.56,1,Credit Card,0.03,1,0.67,No,Premium,16.63,Silver
+580,17-07-2025,46,Other,Clineport,High,One-time,Referral,23-07-2025,48,4980.88,103.77,Active,25-Jul,8115.54,51,23-07-2025,28,Fashion,0.14,6,Debit Card,0.24,2,0.73,Yes,Free,51.59,Platinum
+581,26-05-2025,59,Other,Lake Kari,Low,One-time,Email,24-06-2025,35,2859.82,81.71,Active,25-May,6238.49,103,29-05-2025,15,Electronics,0.4,1,UPI,0.07,5,0.43,Yes,Gold,48.77,Silver
+582,31-07-2025,22,Male,Parsonsport,High,High Spender,Email,29-09-2025,18,1431.57,79.53,Inactive,25-Jul,3222.63,37,29-08-2025,7,Electronics,0.99,0,UPI,0.18,1,0.82,No,Free,31.55,Bronze
+583,15-12-2024,60,Male,West Andreaton,Low,Loyal,Email,31-12-2024,11,4397.33,399.76,Active,24-Dec,9686.53,265,30-07-2025,43,Electronics,0.05,7,Credit Card,0.08,2,0.32,No,Free,44.89,Bronze
+584,1/8/2025,42,Male,Danielsbury,Low,Occasional,Referral,,0,0,0,Inactive,25-Jan,0,241,6/1/2025,28,Books,0.49,0,Credit Card,0.18,5,0.75,Yes,Gold,56.61,Gold
+585,7/12/2024,30,Other,Martinezshire,Low,High Spender,Social Media,15-08-2024,20,289.85,14.49,Inactive,24-Jul,607.76,421,17-01-2025,54,Books,0.35,10,Net Banking,0.09,5,0.54,Yes,Premium,50.42,Silver
+586,31-07-2024,23,Other,East Rhonda,Low,Bargain Hunter,Referral,9/9/2024,3,2760.55,920.18,Active,24-Jul,5915.85,402,13-08-2024,39,Electronics,0.95,4,Credit Card,0.12,5,0.31,Yes,Premium,36.81,Platinum
+587,6/10/2024,22,Female,Coreymouth,High,Bargain Hunter,Ads,26-06-2024,48,2399.86,50,Active,24-Jun,4336.92,453,3/6/2025,41,Fashion,0.72,0,UPI,0.01,4,0.3,No,Gold,11.5,Gold
+588,10/11/2024,19,Male,Parkschester,Medium,Bargain Hunter,Email,14-11-2024,47,597.79,12.72,Inactive,24-Oct,978.1,330,9/1/2025,87,Fashion,0.89,8,Wallet,0.01,4,0.37,No,Free,46.78,Silver
+589,12/12/2024,51,Other,South Sandra,Low,Loyal,Ads,25-01-2025,35,4452.59,127.22,Active,24-Dec,6304.64,268,17-04-2025,65,Fashion,0.66,9,Credit Card,0.19,4,0.77,No,Gold,18.55,Bronze
+590,21-06-2024,44,Other,North Steventon,High,High Spender,Direct,24-06-2024,8,2055.05,256.88,Inactive,24-Jun,3577.87,442,3/5/2025,13,Healthcare,0.99,3,UPI,0.11,1,0.17,Yes,Free,49.1,Gold
+591,4/5/2025,29,Male,Bakerville,Low,One-time,Ads,17-04-2025,7,531.87,75.98,Active,25-Apr,993.16,154,24-06-2025,67,Grocery,0.06,8,UPI,0.17,2,0.77,No,Gold,56.66,Bronze
+592,3/6/2024,33,Other,Bryanborough,High,Occasional,Ads,20-03-2024,48,2353.03,49.02,Active,24-Mar,3031.35,549,26-07-2024,90,Books,0.23,6,Debit Card,0.22,3,0.53,No,Gold,29.54,Platinum
+593,16-01-2025,19,Female,Transhire,Medium,Bargain Hunter,Email,3/1/2025,32,3801.38,118.79,Active,25-Jan,5060.41,233,22-08-2025,35,Books,0.23,8,Credit Card,0.02,1,0.79,No,Gold,56.28,Platinum
+594,3/2/2025,37,Male,Kevinside,Low,Bargain Hunter,Direct,22-03-2025,34,356.89,10.5,Active,25-Mar,751.35,188,6/4/2025,10,Electronics,0.54,8,Wallet,0.19,5,0.49,No,Free,39.14,Bronze
+595,30-11-2024,21,Male,North Davidbury,Low,Loyal,Social Media,20-01-2025,3,982.92,327.64,Inactive,24-Nov,1440.69,280,12/11/2024,48,Books,0.72,0,UPI,0.21,4,0.52,No,Premium,49.9,Gold
+596,24-07-2024,18,Male,Robertchester,Medium,One-time,Social Media,8/9/2024,38,3060.81,80.55,Inactive,24-Jul,4693.28,409,14-03-2025,81,Travel,0.74,2,Credit Card,0.16,2,0.16,No,Free,49.08,Silver
+597,30-07-2024,55,Other,Lake Jenniferbury,Low,Occasional,Ads,,0,0,0,Active,24-Jul,0,403,17-10-2024,70,Grocery,0.1,8,UPI,0.06,2,0.1,No,Free,12.03,Gold
+598,27-04-2025,56,Female,Jasonbury,Low,Occasional,Social Media,5/8/2025,33,2741.77,83.08,Active,25-Apr,3834.65,132,8/12/2025,31,Electronics,0.43,6,Wallet,0.1,1,0.64,Yes,Gold,10.75,Gold
+599,24-05-2024,25,Other,Scottshire,High,Bargain Hunter,Email,27-05-2024,40,4533.8,113.34,Inactive,24-May,5893.02,470,6/12/2025,2,Fashion,0.69,10,Wallet,0.27,2,0.4,No,Gold,18.72,Gold
+600,23-10-2023,51,Female,Lake Jenniferton,Medium,Bargain Hunter,Social Media,16-11-2023,30,3432.59,114.42,Inactive,23-Oct,7303.51,684,20-05-2025,78,Grocery,0.97,3,UPI,0.15,5,0.34,No,Free,56.08,Platinum
+601,1/3/2025,44,Male,North Michael,High,High Spender,Social Media,26-01-2025,30,4804.47,160.15,Active,25-Jan,6676.11,246,15-04-2025,30,Healthcare,0.4,8,Net Banking,0.11,5,0.47,No,Premium,36.72,Platinum
+602,11/7/2023,26,Female,North Jessicaberg,Medium,One-time,Email,14-11-2023,9,666.53,74.06,Inactive,23-Nov,1005.03,669,8/5/2025,11,Books,0.85,5,Debit Card,0.27,5,0.6,Yes,Gold,52.85,Silver
+603,13-02-2024,19,Female,New Tara,Medium,Loyal,Email,27-03-2024,42,4036.09,96.1,Active,24-Feb,6572.42,571,2/8/2025,3,Books,0.78,8,Debit Card,0.27,4,0.88,No,Gold,7.13,Platinum
+604,27-09-2023,20,Other,North Jamie,Low,Loyal,Ads,13-10-2023,5,1856.25,371.25,Active,23-Sep,3235.37,710,23-07-2024,41,Healthcare,0.16,3,UPI,0.26,3,0.39,No,Premium,36.63,Bronze
+605,19-07-2025,48,Other,Port Mariaburgh,High,Loyal,Direct,9/11/2025,29,223.51,7.71,Inactive,25-Jul,437.69,49,14-08-2025,46,Grocery,0.68,0,Credit Card,0.15,5,0.77,No,Free,37.97,Silver
+606,7/11/2024,21,Male,Sheilaburgh,Low,Bargain Hunter,Email,9/4/2024,43,852.67,19.83,Active,24-Jul,1727.94,422,12/12/2024,61,Fashion,0.31,4,Wallet,0.19,4,0.4,No,Gold,40.12,Platinum
+607,14-02-2024,24,Female,South Barryland,Medium,High Spender,Email,23-02-2024,8,4286.05,535.76,Active,24-Feb,8605.49,570,23-07-2025,51,Grocery,0.71,8,Wallet,0.13,3,0.52,Yes,Gold,52.21,Bronze
+608,17-01-2025,57,Male,Lake Laura,High,One-time,Email,3/7/2025,19,1487.45,78.29,Active,25-Jan,2677.45,232,21-06-2025,39,Books,0.81,10,UPI,0.1,5,0.41,Yes,Free,45.01,Platinum
+609,27-04-2025,56,Female,Lauramouth,Medium,High Spender,Email,6/12/2025,48,3840.34,80.01,Inactive,25-Apr,9509.92,132,27-04-2025,23,Grocery,0.09,9,Debit Card,0.26,2,0.56,No,Premium,33.72,Bronze
+610,30-07-2025,41,Female,Lake Michael,Low,Loyal,Direct,23-09-2025,39,2428.36,62.27,Inactive,25-Jul,5004.31,38,25-08-2025,13,Grocery,0.08,2,Credit Card,0.11,3,0.76,Yes,Premium,51.45,Bronze
+611,13-09-2023,22,Male,Alexanderchester,High,One-time,Referral,11/6/2023,12,3121.69,260.14,Active,23-Sep,4035.54,724,10/1/2024,62,Grocery,0.05,2,UPI,0.14,2,0.18,Yes,Premium,48.95,Silver
+612,18-08-2024,64,Male,East John,High,High Spender,Referral,19-09-2024,26,3632.73,139.72,Active,24-Aug,7962.73,384,19-08-2025,40,Travel,0.04,10,UPI,0.1,4,0.37,No,Gold,50.77,Bronze
+613,14-10-2023,35,Other,Barreraburgh,High,Loyal,Direct,16-10-2023,2,264.03,132.01,Inactive,23-Oct,589.02,693,14-04-2024,76,Healthcare,0.15,4,Wallet,0.21,4,0.17,Yes,Gold,40.17,Bronze
+614,25-05-2024,30,Female,Webbbury,Medium,Bargain Hunter,Referral,6/10/2024,20,382.82,19.14,Active,24-May,741.01,469,13-08-2024,19,Healthcare,0.62,5,Credit Card,0.08,1,0.68,No,Free,44.88,Gold
+615,15-06-2024,48,Female,Gibsonshire,Medium,Bargain Hunter,Social Media,8/11/2024,26,2856.67,109.87,Inactive,24-Jun,4015.26,448,1/5/2025,18,Travel,0.64,5,Wallet,0.01,5,0.38,No,Free,3.95,Gold
+616,8/7/2024,53,Other,Tiffanyhaven,Low,Bargain Hunter,Referral,24-08-2024,8,1306.77,163.35,Inactive,24-Aug,1759.65,395,22-10-2024,87,Healthcare,0.3,2,UPI,0.23,5,0.85,Yes,Free,11.2,Gold
+617,19-11-2024,41,Female,Port Jessica,High,One-time,Ads,21-12-2024,50,4260.54,85.21,Active,24-Nov,6311.18,291,8/8/2025,19,Electronics,0.78,9,Debit Card,0.01,1,0.15,No,Free,15.1,Gold
+618,8/10/2025,65,Other,Davismouth,High,Occasional,Direct,16-09-2025,39,2513.36,64.45,Active,25-Aug,3870.32,27,16-08-2025,33,Healthcare,0.94,1,Wallet,0.15,4,0.73,No,Free,25.34,Gold
+619,5/3/2024,28,Other,Port Johnny,Medium,Bargain Hunter,Social Media,,0,0,0,Active,24-May,0,491,6/6/2025,89,Books,0.56,6,Credit Card,0.12,3,0.24,No,Gold,45.35,Gold
+620,31-07-2025,57,Male,North Terri,Medium,One-time,Social Media,8/12/2025,7,3386.68,483.81,Inactive,25-Jul,8195.92,37,8/3/2025,7,Travel,0.6,9,Credit Card,0.1,2,0.4,No,Gold,15.25,Gold
+621,4/1/2024,23,Other,Jamestown,Low,High Spender,Referral,4/6/2024,8,1979.31,247.41,Inactive,24-Apr,3218.41,523,5/5/2025,36,Healthcare,0.56,9,Credit Card,0.07,1,0.16,Yes,Free,19.78,Silver
+622,2/11/2025,21,Female,Davidmouth,Medium,Bargain Hunter,Email,20-03-2025,27,3864.94,143.15,Active,25-Feb,7750.12,207,13-08-2025,51,Travel,0.26,5,Net Banking,0.04,5,0.56,No,Gold,54.88,Gold
+623,1/2/2024,48,Other,Lauraborough,Medium,Occasional,Direct,15-02-2024,31,3009.52,97.08,Active,24-Jan,5701.99,613,4/12/2024,12,Books,0.07,1,Credit Card,0.06,5,0.56,Yes,Gold,41.66,Bronze
+624,25-01-2025,31,Female,Jeffshire,High,Bargain Hunter,Social Media,21-03-2025,26,1632.82,62.8,Active,25-Jan,3428.2,224,5/6/2025,16,Healthcare,0.22,6,Debit Card,0.04,5,0.22,No,Premium,3.68,Silver
+625,10/3/2024,41,Other,Port John,High,Loyal,Email,29-10-2024,47,1949.49,41.48,Active,24-Oct,3526.65,338,28-03-2025,56,Travel,0.62,3,Debit Card,0.24,5,0.36,Yes,Free,55.91,Bronze
+626,21-06-2025,36,Male,Sandraborough,Low,Occasional,Direct,25-07-2025,19,3315.43,174.5,Inactive,25-Jun,6824.72,77,8/1/2025,84,Books,0.25,0,UPI,0.19,1,0.63,Yes,Free,37.37,Silver
+627,19-01-2024,49,Other,Escobartown,High,One-time,Email,25-01-2024,44,3024.9,68.75,Inactive,24-Jan,5392.49,596,1/8/2025,64,Electronics,0.54,8,Wallet,0.02,3,0.83,Yes,Free,34.39,Gold
+628,19-10-2024,32,Other,Tonyside,Medium,One-time,Social Media,18-12-2024,12,541.73,45.14,Active,24-Oct,775.62,322,26-03-2025,100,Healthcare,0.89,0,Net Banking,0.14,4,0.44,No,Premium,33.63,Gold
+629,27-11-2024,19,Female,North Cassidy,Low,High Spender,Ads,12/2/2024,33,453.74,13.75,Inactive,24-Nov,582.57,283,8/12/2025,5,Travel,0.24,3,Wallet,0.22,4,0.7,No,Free,57,Gold
+630,11/10/2024,59,Female,West Chasehaven,High,High Spender,Direct,11/12/2024,4,2787.76,696.94,Inactive,24-Nov,5153.09,300,25-04-2025,55,Grocery,0.61,2,Debit Card,0.1,4,0.6,Yes,Free,19.23,Silver
+631,13-02-2025,21,Male,South Granttown,Medium,Occasional,Email,25-03-2025,18,2903.34,161.3,Inactive,25-Feb,4130.17,205,5/7/2025,8,Fashion,0.05,0,Wallet,0.17,5,0.52,Yes,Premium,7.22,Bronze
+632,19-12-2024,61,Other,Tylerton,High,High Spender,Ads,15-02-2025,17,930.97,54.76,Inactive,24-Dec,1433.64,261,22-03-2025,97,Books,0.45,10,Net Banking,0.1,2,0.87,Yes,Premium,44.61,Platinum
+633,7/6/2024,20,Male,Ortizland,Low,Occasional,Direct,28-07-2024,2,4542.05,2271.03,Inactive,24-Jul,11016.54,427,22-12-2024,34,Books,0.75,2,UPI,0.03,5,0.82,Yes,Free,8.39,Silver
+634,4/3/2024,34,Other,Troyton,High,High Spender,Ads,20-04-2024,35,4919.96,140.57,Active,24-Apr,10259.92,521,9/5/2024,24,Fashion,0.95,4,UPI,0.13,3,0.12,Yes,Premium,29.88,Gold
+635,17-03-2024,51,Male,Lopezland,High,One-time,Referral,30-04-2024,30,4711.42,157.05,Inactive,24-Mar,7525.6,538,29-12-2024,61,Books,0.39,9,Credit Card,0.24,2,0.5,No,Free,53.91,Gold
+636,13-02-2024,51,Female,Keithport,Medium,Bargain Hunter,Ads,16-02-2024,44,2751.97,62.54,Active,24-Feb,6106.42,571,19-03-2025,81,Grocery,0.63,9,Credit Card,0.25,3,0.43,Yes,Gold,40.93,Silver
+637,10/5/2023,31,Male,Joshuashire,High,One-time,Ads,26-11-2023,25,3459.7,138.39,Inactive,23-Oct,6509.59,702,21-02-2025,42,Healthcare,0.91,2,Wallet,0.27,5,0.9,No,Premium,18.6,Platinum
+638,27-03-2024,43,Male,Robertsonport,Low,High Spender,Direct,5/2/2024,11,1837.06,167.01,Active,24-Mar,3416.66,528,18-11-2024,1,Books,0.73,6,Credit Card,0.24,5,0.15,No,Gold,6.9,Gold
+639,6/4/2025,40,Male,Jonesfort,High,One-time,Email,25-06-2025,19,2727.2,143.54,Active,25-Jun,6693.51,94,6/7/2025,82,Grocery,0.49,2,UPI,0.25,2,0.68,Yes,Gold,37.96,Silver
+640,30-09-2024,35,Female,New Toddmouth,High,High Spender,Referral,10/6/2024,31,4992.57,161.05,Active,24-Sep,9040.77,341,8/10/2025,7,Healthcare,0.12,6,Debit Card,0.18,4,0.53,Yes,Premium,20.14,Silver
+641,20-11-2023,28,Other,Michaelchester,Medium,Loyal,Social Media,18-12-2023,49,346.6,7.07,Inactive,23-Nov,420.9,656,11/4/2024,1,Books,0.95,6,Wallet,0.02,2,0.85,No,Free,24.1,Bronze
+642,12/1/2024,44,Female,West Michele,High,One-time,Referral,30-12-2024,17,4211.85,247.76,Inactive,24-Dec,8829.25,279,21-03-2025,40,Books,0.93,8,Wallet,0.28,2,0.11,No,Gold,27.07,Gold
+643,14-12-2023,59,Male,West Tamarahaven,Low,Loyal,Referral,2/2/2024,36,82.42,2.29,Inactive,23-Dec,200.06,632,18-06-2025,52,Healthcare,0.8,1,Debit Card,0.08,2,0.16,No,Free,58.24,Platinum
+644,23-03-2024,30,Female,East Williamborough,Low,Bargain Hunter,Referral,17-04-2024,16,2887.76,180.49,Active,24-Mar,3939.73,532,5/8/2025,93,Grocery,0.45,6,Debit Card,0.06,4,0.86,Yes,Premium,54.52,Bronze
+645,11/9/2023,55,Male,Jacobville,Medium,High Spender,Email,12/2/2023,49,2403.91,49.06,Active,23-Nov,3623.18,667,11/3/2024,38,Books,0.3,9,Net Banking,0.04,3,0.5,Yes,Premium,9.37,Gold
+646,1/11/2024,54,Female,Port Donna,High,Occasional,Email,20-01-2024,6,4205.98,701,Inactive,24-Jan,5702.5,604,18-03-2025,20,Fashion,0.04,6,Net Banking,0.23,5,0.24,No,Premium,28.52,Silver
+647,15-11-2024,38,Male,Floreshaven,High,High Spender,Ads,14-01-2025,35,2983.08,85.23,Inactive,24-Nov,5051.24,295,25-11-2024,17,Travel,0.11,8,Credit Card,0.11,5,0.17,No,Free,20.28,Bronze
+648,29-11-2024,57,Female,Rogersport,Low,Occasional,Social Media,1/3/2025,48,4476.63,93.26,Active,24-Nov,6616.49,281,30-07-2025,55,Healthcare,0.54,0,Credit Card,0.06,5,0.32,Yes,Gold,40.03,Platinum
+649,16-04-2024,39,Male,Lake Lisa,Low,Occasional,Social Media,27-04-2024,14,2510.79,179.34,Inactive,24-Apr,4289.66,508,17-03-2025,91,Electronics,0.88,1,UPI,0.25,1,0.67,No,Free,17.8,Gold
+650,19-07-2024,29,Male,North Ricky,High,Bargain Hunter,Email,27-08-2024,8,284.25,35.53,Inactive,24-Jul,555.97,414,30-06-2025,80,Grocery,0.82,9,Wallet,0.16,4,0.34,Yes,Premium,40.51,Platinum
+651,25-09-2024,34,Female,Millershire,Medium,Loyal,Ads,10/11/2024,45,4329.35,96.21,Inactive,24-Sep,7401.84,346,21-04-2025,15,Travel,0.02,1,Debit Card,0.23,4,0.28,No,Gold,27.22,Gold
+652,23-05-2024,42,Female,Lake Susanburgh,Low,Loyal,Ads,28-06-2024,43,3695.14,85.93,Inactive,24-May,7142.58,471,16-06-2024,89,Electronics,0.2,6,Wallet,0.06,2,0.7,No,Gold,27.69,Platinum
+653,13-08-2025,55,Male,West Matthew,High,High Spender,Ads,9/5/2025,22,1900.09,86.37,Inactive,25-Aug,2582.34,24,14-08-2025,36,Fashion,0.28,7,Credit Card,0.14,5,0.8,Yes,Premium,22.96,Silver
+654,6/3/2024,45,Female,New Kristin,Medium,One-time,Ads,7/7/2024,21,4494.79,214.04,Inactive,24-Jun,8908.65,460,24-09-2024,90,Grocery,0.38,9,Net Banking,0.29,4,0.35,Yes,Gold,33.63,Platinum
+655,8/10/2025,19,Female,Lake Deborah,Low,Loyal,Email,16-08-2025,20,4400.11,220.01,Inactive,25-Aug,5284.09,27,30-08-2025,58,Electronics,0.03,8,Debit Card,0.13,4,0.61,Yes,Free,28.89,Silver
+656,2/6/2024,55,Other,Lake Roger,Medium,Loyal,Email,24-02-2024,14,397.97,28.43,Active,24-Feb,735.48,578,5/11/2025,48,Healthcare,0.97,2,Debit Card,0.16,4,0.14,No,Premium,25.06,Silver
+657,6/7/2025,57,Female,Port Laurieton,Low,One-time,Social Media,16-07-2025,20,4976.53,248.83,Active,25-Jun,8090.83,91,28-06-2025,79,Electronics,0.32,6,Net Banking,0.11,1,0.83,No,Premium,26.53,Bronze
+658,9/11/2024,35,Male,West Sarahport,Medium,Occasional,Referral,11/2/2024,16,1789.5,111.84,Active,24-Sep,2401.88,360,24-03-2025,52,Grocery,0.21,3,Net Banking,0.16,5,0.38,No,Premium,6.05,Silver
+659,21-01-2025,34,Female,Garciaport,Low,High Spender,Referral,18-02-2025,5,3910.05,782.01,Inactive,25-Jan,9215.8,228,4/9/2025,15,Electronics,0.39,2,Wallet,0.21,2,0.89,Yes,Free,45.18,Platinum
+660,19-07-2024,59,Male,Smithshire,Medium,Loyal,Social Media,24-08-2024,16,4843.26,302.7,Inactive,24-Jul,9926.6,414,7/9/2025,57,Travel,0.31,9,UPI,0.23,2,0.28,Yes,Gold,22.06,Silver
+661,13-02-2024,26,Other,South Kelly,Low,Bargain Hunter,Direct,4/4/2024,6,2574.68,429.11,Inactive,24-Feb,3300.02,571,16-07-2025,19,Travel,0.35,6,Credit Card,0.03,1,0.25,No,Premium,25.28,Bronze
+662,24-05-2024,23,Other,Gonzalezfurt,High,Bargain Hunter,Social Media,26-06-2024,15,358.4,23.89,Inactive,24-May,792.87,470,19-04-2025,89,Travel,0.78,4,Net Banking,0.23,1,0.72,Yes,Gold,32.86,Platinum
+663,20-02-2025,20,Male,Martinezmouth,Medium,Loyal,Direct,19-04-2025,39,4046.05,103.74,Inactive,25-Feb,8274.84,198,23-08-2025,76,Travel,0.44,5,Credit Card,0.08,2,0.82,No,Premium,30.02,Platinum
+664,19-04-2024,49,Male,Kaylafurt,High,Bargain Hunter,Social Media,28-04-2024,19,1713.19,90.17,Active,24-Apr,2119.7,505,20-05-2025,33,Healthcare,0.25,1,UPI,0.25,5,0.51,No,Premium,45.5,Silver
+665,23-04-2025,57,Other,Lindseyberg,Medium,Bargain Hunter,Referral,6/9/2025,11,4210.87,382.81,Active,25-Apr,5860.94,136,21-06-2025,76,Books,0.73,9,Wallet,0.13,2,0.6,No,Gold,29.21,Gold
+666,9/9/2024,42,Other,Guerrafurt,High,High Spender,Email,20-10-2024,14,4110.75,293.62,Inactive,24-Sep,9184.03,362,16-07-2025,41,Fashion,0.48,3,UPI,0.19,5,0.35,Yes,Gold,19.89,Bronze
+667,2/11/2025,39,Male,Jeremybury,Low,One-time,Email,22-03-2025,29,4025.33,138.8,Active,25-Feb,6273.67,207,15-08-2025,27,Electronics,0.87,0,Net Banking,0.11,4,0.2,Yes,Free,37.06,Platinum
+668,26-03-2025,18,Male,Wolfstad,Medium,One-time,Direct,5/4/2025,1,2499.94,2499.94,Inactive,25-Mar,5317.43,164,26-04-2025,60,Books,0.08,5,UPI,0.03,2,0.56,No,Free,57.74,Silver
+669,21-01-2025,33,Other,Kevinland,High,Bargain Hunter,Ads,2/7/2025,28,898.12,32.08,Active,25-Jan,2047.43,228,25-03-2025,96,Travel,0.23,9,Wallet,0.22,4,0.55,Yes,Free,56.99,Bronze
+670,18-05-2025,59,Male,New Anashire,High,Loyal,Direct,6/11/2025,11,615.92,55.99,Inactive,25-May,763.71,111,17-07-2025,32,Fashion,0.19,8,Debit Card,0.25,1,0.26,Yes,Premium,19.79,Gold
+671,25-02-2024,25,Other,East Matthew,High,Loyal,Email,,0,0,0,Active,24-Feb,0,559,5/12/2025,42,Healthcare,0.39,0,Wallet,0.01,5,0.79,Yes,Premium,44.64,Platinum
+672,20-07-2024,39,Other,Fernandofurt,Low,Loyal,Ads,8/3/2024,16,967.74,60.48,Inactive,24-Jul,2155.15,413,18-07-2025,16,Fashion,0.7,7,Net Banking,0.22,4,0.73,Yes,Premium,41.57,Bronze
+673,17-09-2023,38,Other,North Jonathanmouth,Low,High Spender,Direct,17-10-2023,3,2014.07,671.36,Active,23-Sep,3103.11,720,20-09-2024,98,Travel,0.89,0,Credit Card,0.09,3,0.63,Yes,Free,4.02,Platinum
+674,13-09-2024,19,Other,Lake Jesuston,Medium,Loyal,Referral,22-10-2024,11,4476.94,406.99,Active,24-Sep,9329.37,358,6/4/2025,69,Grocery,0.3,6,Debit Card,0.07,4,0.41,Yes,Free,57.25,Silver
+675,28-05-2025,38,Other,Samuelton,Medium,Bargain Hunter,Ads,23-06-2025,37,1783.34,48.2,Active,25-May,4381.73,101,17-08-2025,14,Electronics,0.82,8,Wallet,0.03,1,0.2,No,Gold,52.71,Bronze
+676,8/3/2025,48,Female,Lake Michael,Low,High Spender,Social Media,19-08-2025,3,4426.32,1475.44,Inactive,25-Aug,10388.32,34,18-08-2025,36,Healthcare,0.55,3,Wallet,0.19,2,0.59,Yes,Free,19.33,Silver
+677,9/11/2023,37,Other,Fredside,Low,High Spender,Email,11/9/2023,32,3870.79,120.96,Active,23-Sep,6308.27,726,4/2/2024,61,Books,0.74,3,Wallet,0.04,2,0.65,Yes,Free,45.82,Gold
+678,24-07-2025,22,Male,Port Jacquelinechester,Medium,High Spender,Referral,,0,0,0,Inactive,25-Jul,0,44,9/3/2025,78,Travel,0.08,4,Wallet,0.04,4,0.88,Yes,Gold,52.02,Silver
+679,4/4/2025,19,Male,New Jeffreyport,Low,Bargain Hunter,Referral,28-05-2025,8,2084.9,260.61,Active,25-Apr,2697.18,155,29-05-2025,46,Healthcare,1,1,Wallet,0.25,2,0.37,No,Free,52.02,Bronze
+680,5/3/2025,46,Female,New Isaac,Low,High Spender,Referral,24-05-2025,26,4477.74,172.22,Inactive,25-May,10128.07,126,7/11/2025,13,Books,0.31,5,Debit Card,0.09,1,0.7,Yes,Gold,10.41,Bronze
+681,20-11-2023,41,Other,Martinezbury,High,Bargain Hunter,Social Media,30-12-2023,12,1311.06,109.25,Inactive,23-Nov,2086.53,656,8/4/2024,26,Books,0.7,2,Wallet,0.26,4,0.63,No,Free,11.32,Bronze
+682,23-07-2024,42,Other,Port Heatherfort,Low,Bargain Hunter,Direct,18-08-2024,5,1902.61,380.52,Inactive,24-Jul,4298.9,410,27-06-2025,62,Books,0.48,3,Net Banking,0.17,2,0.69,Yes,Gold,55.67,Platinum
+683,19-05-2025,26,Other,Fuentesport,Medium,Occasional,Social Media,13-07-2025,21,895.04,42.62,Inactive,25-May,1939.55,110,8/2/2025,92,Fashion,0.66,4,Wallet,0.11,2,0.77,No,Premium,38.09,Gold
+684,5/3/2024,36,Female,East Leslie,High,Bargain Hunter,Direct,31-05-2024,33,903.38,27.38,Inactive,24-May,1595.93,491,17-03-2025,29,Fashion,0.23,9,Credit Card,0.29,2,0.49,No,Gold,41.64,Silver
+685,21-04-2025,43,Female,Patrickton,Medium,Occasional,Direct,,0,0,0,Inactive,25-Apr,0,138,8/5/2025,3,Grocery,0.08,3,Debit Card,0.05,1,0.68,Yes,Premium,49.21,Bronze
+686,17-11-2024,45,Other,Elizabethberg,Low,Occasional,Referral,12/9/2024,40,2372.54,59.31,Inactive,24-Nov,4263.14,293,27-12-2024,13,Healthcare,0.4,2,Net Banking,0.24,4,0.54,Yes,Gold,8.67,Gold
+687,13-09-2024,27,Female,South Jonathan,High,One-time,Referral,10/3/2024,15,2612.15,174.14,Inactive,24-Sep,4342.85,358,17-07-2025,89,Travel,0.13,4,UPI,0.29,1,0.19,Yes,Premium,7.29,Gold
+688,26-12-2024,31,Male,Powellton,Medium,Loyal,Social Media,14-01-2025,12,2583.49,215.29,Active,24-Dec,4696.79,254,8/11/2025,42,Books,0.49,0,Net Banking,0.03,1,0.36,No,Premium,8.1,Gold
+689,6/9/2024,50,Male,South Deborahville,High,Occasional,Ads,13-06-2024,47,338.77,7.21,Inactive,24-Jun,692.98,454,27-10-2024,89,Electronics,0.72,6,Credit Card,0.01,2,0.87,No,Premium,40.69,Gold
+690,22-05-2024,57,Female,Benjaminchester,Medium,Bargain Hunter,Referral,28-05-2024,47,383.15,8.15,Inactive,24-May,833.65,472,2/3/2025,12,Electronics,0.6,4,Debit Card,0.01,4,0.54,Yes,Free,47.17,Platinum
+691,7/3/2025,18,Female,New Jacqueline,Medium,One-time,Social Media,8/5/2025,27,157.26,5.82,Inactive,25-Jul,275.95,65,26-07-2025,68,Travel,0.97,10,Debit Card,0.09,2,0.59,Yes,Free,20.65,Gold
+692,1/4/2024,43,Other,Port Lisa,High,Loyal,Email,2/3/2024,44,4838.51,109.97,Active,24-Jan,6083.13,611,14-10-2024,50,Books,0.06,3,Credit Card,0.28,5,0.63,No,Premium,39.15,Gold
+693,8/1/2025,26,Other,South Sara,Low,High Spender,Email,30-09-2025,44,4107.37,93.35,Inactive,25-Aug,5606.94,36,8/2/2025,9,Fashion,0.09,6,Wallet,0.28,5,0.24,No,Free,32.23,Silver
+694,2/7/2024,29,Male,Kevinhaven,Medium,One-time,Email,22-02-2024,4,443.01,110.75,Active,24-Feb,1031.75,577,30-09-2024,83,Travel,0.98,0,Wallet,0.01,3,0.4,No,Gold,34.9,Silver
+695,20-03-2025,42,Other,Matthewtown,Medium,Loyal,Email,20-04-2025,49,2257.76,46.08,Active,25-Mar,3181.71,170,16-06-2025,32,Books,0.67,10,Debit Card,0.07,5,0.61,Yes,Free,12.03,Gold
+696,25-05-2024,27,Male,North Catherine,High,High Spender,Social Media,6/6/2024,26,4407.06,169.5,Inactive,24-May,9992.54,469,7/4/2025,24,Healthcare,0.33,2,Debit Card,0.11,2,0.66,No,Free,50.75,Silver
+697,5/8/2024,50,Male,South Christopher,High,High Spender,Email,13-06-2024,38,86.38,2.27,Inactive,24-May,124,486,8/7/2025,39,Books,0.07,5,Wallet,0.16,2,0.81,No,Premium,6.47,Bronze
+698,3/4/2025,20,Female,New Ronaldborough,Low,One-time,Direct,18-04-2025,23,1243.1,54.05,Active,25-Mar,2118.78,186,14-05-2025,65,Electronics,0.65,6,Credit Card,0.03,4,0.1,Yes,Premium,32.49,Bronze
+699,18-07-2025,50,Female,Port Denisetown,Low,Occasional,Email,26-07-2025,39,1581.21,40.54,Active,25-Jul,2088.12,50,27-07-2025,52,Books,0.26,5,UPI,0.23,1,0.12,No,Free,38.36,Bronze
+700,3/3/2025,31,Female,Wilsonberg,High,Occasional,Email,19-03-2025,28,4615.29,164.83,Active,25-Mar,9314.55,187,15-03-2025,56,Books,0.46,7,Net Banking,0.25,4,0.67,Yes,Premium,42.95,Silver
+701,29-12-2024,65,Other,Millerfort,Low,Loyal,Email,21-01-2025,8,2820.8,352.6,Active,24-Dec,6282.47,251,7/1/2025,29,Grocery,0.97,4,Credit Card,0.06,3,0.65,No,Premium,50.31,Bronze
+702,1/4/2024,36,Other,Lake Dawn,High,Bargain Hunter,Referral,1/6/2024,10,3405.72,340.57,Active,24-Jan,5108.69,611,9/3/2024,60,Healthcare,0.46,4,Wallet,0.07,4,0.11,Yes,Gold,33.49,Platinum
+703,17-12-2024,62,Male,Christyside,High,High Spender,Email,2/9/2025,39,4210.04,107.95,Inactive,24-Dec,8286.71,263,27-04-2025,49,Fashion,0.41,7,Net Banking,0.27,5,0.23,Yes,Gold,51.13,Silver
+704,14-09-2024,63,Male,North Nathan,Medium,High Spender,Referral,28-09-2024,13,3351.87,257.84,Inactive,24-Sep,6268.78,357,7/4/2025,61,Healthcare,0.56,0,Net Banking,0.08,2,0.27,No,Free,3.9,Bronze
+705,25-12-2024,59,Other,Zacharyville,High,High Spender,Ads,2/7/2025,4,4428.2,1107.05,Active,24-Dec,9554.65,255,20-04-2025,73,Books,0.57,6,Wallet,0.07,2,0.18,No,Premium,24.95,Bronze
+706,27-07-2024,35,Male,New Thomas,High,High Spender,Social Media,28-08-2024,43,1902.11,44.24,Inactive,24-Jul,2712.65,406,11/7/2024,19,Travel,0.84,10,UPI,0.12,5,0.14,Yes,Free,34.35,Gold
+707,19-05-2025,25,Male,Jacobshire,High,Occasional,Direct,7/11/2025,26,4382.6,168.56,Active,25-May,5791.84,110,6/11/2025,76,Travel,0.11,8,Net Banking,0.19,3,0.57,No,Premium,50.92,Silver
+708,19-10-2024,62,Female,West Gabrielland,Low,One-time,Email,20-11-2024,42,2517.09,59.93,Active,24-Oct,4872.42,322,7/12/2025,88,Fashion,0.81,3,Wallet,0.3,5,0.38,Yes,Gold,52.98,Bronze
+709,19-11-2024,19,Male,West Emily,Low,One-time,Social Media,28-12-2024,31,2450.26,79.04,Active,24-Nov,5655.34,291,24-07-2025,63,Books,0.37,0,Wallet,0.07,1,0.73,Yes,Gold,39.69,Bronze
+710,5/11/2024,34,Other,West James,High,One-time,Ads,6/4/2024,50,4087.99,81.76,Inactive,24-May,7181.27,483,14-09-2024,98,Fashion,0.79,2,Debit Card,0.17,1,0.48,Yes,Gold,38.1,Bronze
+711,17-06-2025,32,Male,New Markland,Medium,Loyal,Direct,22-06-2025,39,3692.43,94.68,Active,25-Jun,8699.56,81,16-07-2025,54,Fashion,0.03,10,Wallet,0.18,5,0.67,Yes,Free,21.46,Bronze
+712,23-10-2024,34,Other,Port Evanport,Medium,High Spender,Ads,22-11-2024,17,3662.11,215.42,Inactive,24-Oct,5086.36,318,29-05-2025,98,Books,0.47,4,Credit Card,0.27,4,0.62,No,Gold,26.66,Platinum
+713,26-03-2025,37,Female,Hickmanport,High,Bargain Hunter,Email,4/6/2025,39,2439.65,62.56,Inactive,25-Mar,5343.72,164,13-08-2025,3,Healthcare,0.02,8,Credit Card,0.11,1,0.58,Yes,Free,50.63,Bronze
+714,12/1/2024,33,Other,New Marc,High,Loyal,Direct,12/2/2024,23,3202.99,139.26,Inactive,24-Dec,4888.85,279,7/6/2025,33,Fashion,0.44,4,Debit Card,0.09,2,0.38,No,Gold,28.38,Platinum
+715,26-05-2025,22,Other,Hortonchester,Medium,Loyal,Social Media,26-06-2025,30,2040.83,68.03,Inactive,25-May,4273.91,103,6/11/2025,9,Electronics,0.16,2,Net Banking,0.28,3,0.32,Yes,Gold,32.6,Silver
+716,4/5/2025,38,Male,Grahamfurt,Medium,One-time,Referral,6/3/2025,7,2432.84,347.55,Active,25-Apr,3625.77,154,30-08-2025,48,Healthcare,0.39,3,Debit Card,0.1,2,0.17,No,Gold,21.68,Platinum
+717,19-06-2025,40,Male,New Megan,Low,Loyal,Referral,7/7/2025,22,3514.19,159.74,Inactive,25-Jun,7878.87,79,8/12/2025,89,Travel,0.96,2,Debit Card,0.12,5,0.33,No,Free,52.64,Platinum
+718,3/9/2025,34,Female,Lake Nicole,Medium,Occasional,Ads,18-03-2025,33,2534.89,76.81,Inactive,25-Mar,3605.1,181,26-06-2025,15,Healthcare,0.01,4,Credit Card,0.13,5,0.29,No,Premium,47.15,Bronze
+719,7/11/2024,28,Female,Vaughnfort,High,Loyal,Referral,28-07-2024,25,4212.71,168.51,Inactive,24-Jul,8477.99,422,8/6/2024,53,Electronics,0.29,6,Credit Card,0.04,3,0.28,No,Gold,59.79,Silver
+720,21-08-2025,54,Male,West William,High,High Spender,Ads,19-09-2025,44,3892.64,88.47,Inactive,25-Aug,5797.93,16,9/1/2025,58,Fashion,0.93,1,Credit Card,0.21,4,0.8,Yes,Premium,17.88,Gold
+721,13-09-2024,46,Female,South Charles,High,Bargain Hunter,Social Media,10/12/2024,30,2768.05,92.27,Inactive,24-Sep,4196.43,358,30-04-2025,97,Electronics,0.86,8,Credit Card,0.23,1,0.49,Yes,Free,28.03,Platinum
+722,15-12-2024,45,Male,Kellyberg,Low,Loyal,Referral,27-12-2024,13,4853.61,373.35,Active,24-Dec,8998.54,265,25-02-2025,36,Electronics,0.47,3,Debit Card,0.21,1,0.81,No,Gold,1.54,Silver
+723,20-09-2024,58,Male,East Mollyview,Low,Loyal,Direct,10/7/2024,45,4417.67,98.17,Active,24-Sep,8093.45,351,6/5/2025,63,Grocery,0.02,1,Net Banking,0.04,5,0.86,No,Free,3.63,Gold
+724,4/7/2025,56,Female,Thompsonborough,High,One-time,Direct,23-05-2025,35,2227.29,63.64,Active,25-Apr,4336.28,152,18-04-2025,39,Books,0.28,0,Net Banking,0.2,5,0.72,No,Gold,20.38,Bronze
+725,30-06-2024,28,Other,Shepardstad,Medium,Occasional,Referral,16-08-2024,47,4760.5,101.29,Active,24-Jun,6381.88,433,10/1/2024,86,Fashion,0.29,3,Debit Card,0.01,3,0.53,No,Free,54.23,Gold
+726,21-02-2024,44,Female,South Diana,High,Loyal,Social Media,4/8/2024,29,3871.13,133.49,Inactive,24-Feb,7287.18,563,25-01-2025,85,Healthcare,0.22,1,Debit Card,0.27,3,0.51,Yes,Free,42.81,Silver
+727,1/8/2024,57,Male,Hammondville,Medium,Loyal,Social Media,19-01-2024,24,3295.68,137.32,Active,24-Jan,6561.75,607,8/6/2025,6,Healthcare,0.44,2,UPI,0.26,2,0.68,No,Gold,1.18,Gold
+728,17-12-2023,21,Female,East Dianaland,Medium,Occasional,Email,,0,0,0,Inactive,23-Dec,0,629,22-06-2025,41,Grocery,0.04,9,Debit Card,0.18,1,0.8,Yes,Free,24.31,Bronze
+729,28-11-2024,62,Female,East Julie,Medium,Occasional,Ads,19-12-2024,13,1481.66,113.97,Inactive,24-Nov,3371.16,282,5/3/2025,55,Travel,0.35,1,Wallet,0.14,2,0.68,No,Gold,27.66,Gold
+730,1/12/2025,35,Other,South Charlesborough,High,One-time,Email,2/12/2025,27,2708.43,100.31,Inactive,25-Jan,4267.87,237,18-01-2025,8,Fashion,0.69,7,Wallet,0.09,4,0.27,No,Premium,9.89,Silver
+731,31-03-2024,45,Other,North Eugene,Low,Bargain Hunter,Direct,28-04-2024,9,4526.88,502.99,Inactive,24-Mar,7048.7,524,28-07-2025,44,Grocery,0.5,4,Wallet,0.14,1,0.66,No,Gold,41.62,Bronze
+732,9/5/2024,57,Female,North Jacob,High,One-time,Social Media,9/11/2024,12,128.76,10.73,Active,24-Sep,179.1,366,15-05-2025,21,Travel,0.14,7,UPI,0.21,4,0.49,Yes,Gold,5.92,Silver
+733,28-12-2023,64,Male,North Donnaborough,Medium,Loyal,Referral,22-01-2024,28,1044.95,37.32,Active,23-Dec,2550.24,618,6/4/2024,52,Grocery,0.3,9,UPI,0.29,4,0.67,No,Free,32.52,Bronze
+734,9/7/2023,49,Female,Snyderside,High,Bargain Hunter,Social Media,9/8/2023,35,3488.22,99.66,Inactive,23-Sep,8278.81,730,7/2/2025,80,Electronics,0.76,8,Wallet,0.13,4,0.63,No,Free,10.34,Bronze
+735,19-09-2024,18,Other,Port Williamstad,Low,Occasional,Ads,19-10-2024,19,3353.6,176.51,Active,24-Sep,7450.09,352,24-07-2025,65,Grocery,0.2,5,Wallet,0.06,5,0.74,Yes,Premium,17.43,Gold
+736,24-10-2023,51,Male,North Lesliechester,High,High Spender,Ads,29-11-2023,13,4215.04,324.23,Active,23-Oct,10152.17,683,5/10/2024,23,Grocery,0.15,0,UPI,0.24,3,0.78,No,Gold,18.41,Platinum
+737,29-04-2024,20,Female,North Juanfort,Medium,Bargain Hunter,Email,17-06-2024,8,4408.2,551.02,Inactive,24-Apr,8371.55,495,26-08-2024,2,Books,0.98,6,Debit Card,0.15,3,0.57,No,Premium,23.41,Bronze
+738,28-11-2024,28,Female,Rachelton,Low,Occasional,Direct,16-01-2025,42,4543.5,108.18,Inactive,24-Nov,8619.97,282,23-05-2025,24,Travel,0.09,3,Wallet,0.15,1,0.7,Yes,Free,57,Silver
+739,25-11-2024,52,Female,Isaacton,Medium,Loyal,Direct,16-12-2024,11,4540.32,412.76,Inactive,24-Nov,6661.54,285,22-04-2025,49,Books,0.02,5,Wallet,0.09,2,0.63,Yes,Free,13.04,Bronze
+740,28-07-2025,61,Female,Smithmouth,Medium,Occasional,Direct,30-08-2025,42,3832.42,91.25,Inactive,25-Jul,7685.97,40,8/8/2025,68,Travel,0.46,5,Credit Card,0.08,1,0.21,No,Premium,52.99,Silver
+741,11/12/2024,21,Male,Cynthiaville,High,Bargain Hunter,Direct,27-11-2024,17,4528.45,266.38,Inactive,24-Nov,8728,298,14-07-2025,49,Electronics,0.34,10,Wallet,0.01,5,0.51,No,Premium,24.29,Platinum
+742,22-07-2024,23,Other,Debraton,Low,Loyal,Social Media,30-07-2024,19,252.74,13.3,Inactive,24-Jul,464.4,411,8/10/2024,77,Travel,0.05,8,Net Banking,0.14,1,0.58,Yes,Free,45.07,Gold
+743,19-07-2024,31,Other,South Jenniferhaven,Low,One-time,Ads,25-08-2024,18,334.74,18.6,Active,24-Jul,410.92,414,5/2/2025,67,Electronics,0.16,2,Net Banking,0.02,2,0.33,Yes,Gold,49.82,Gold
+744,29-11-2024,25,Male,Aprilburgh,Low,Bargain Hunter,Social Media,19-01-2025,12,732.91,61.08,Active,24-Nov,1235.62,281,6/3/2025,50,Travel,0.94,4,Credit Card,0.04,1,0.86,No,Premium,19.07,Gold
+745,17-12-2024,37,Male,Robertland,Medium,Bargain Hunter,Social Media,2/2/2025,33,2123.96,64.36,Active,24-Dec,3703.89,263,26-04-2025,57,Healthcare,0.01,6,Net Banking,0.13,1,0.43,Yes,Gold,39.81,Silver
+746,15-06-2024,45,Male,Palmerfort,High,One-time,Ads,7/10/2024,11,4674.93,424.99,Inactive,24-Jun,6930.71,448,21-12-2024,92,Electronics,0.19,10,Net Banking,0.04,4,0.78,Yes,Gold,4.31,Platinum
+747,19-12-2024,42,Male,Brendaburgh,Low,One-time,Email,20-01-2025,3,1221.9,407.3,Active,24-Dec,2160.36,261,4/3/2025,20,Travel,0.98,1,UPI,0.03,1,0.18,No,Gold,19.96,Gold
+748,17-04-2025,49,Female,Robinview,Low,One-time,Ads,6/6/2025,11,3133.39,284.85,Active,25-Apr,4263.63,142,27-06-2025,57,Electronics,0.59,5,Net Banking,0.26,5,0.21,Yes,Free,30.83,Silver
+749,22-06-2024,56,Female,Thomasfurt,Medium,One-time,Ads,22-07-2024,12,3225.58,268.8,Inactive,24-Jun,7339,441,8/5/2025,39,Fashion,0.47,9,UPI,0.1,1,0.33,Yes,Free,25.84,Platinum
+750,16-11-2023,57,Male,Jonesmouth,High,Bargain Hunter,Social Media,1/7/2024,28,3186.48,113.8,Active,23-Nov,6644.99,660,16-07-2024,35,Healthcare,0.99,4,Net Banking,0.24,3,0.6,Yes,Free,4.89,Silver
+751,17-03-2024,36,Female,East Holly,High,High Spender,Direct,4/2/2024,46,2298.9,49.98,Active,24-Mar,3192.46,538,14-09-2024,2,Travel,0.56,0,Wallet,0.1,2,0.89,No,Free,54.44,Gold
+752,17-02-2024,24,Male,Hallshire,High,One-time,Email,4/5/2024,13,603.11,46.39,Active,24-Feb,1314.37,567,5/12/2024,27,Fashion,0.57,7,UPI,0.17,2,0.32,No,Gold,51.3,Gold
+753,20-02-2024,26,Female,Lake Kendra,Low,One-time,Ads,28-03-2024,49,3995.95,81.55,Inactive,24-Feb,5750.24,564,16-06-2025,18,Books,0.99,1,Net Banking,0.26,2,0.59,Yes,Gold,53.7,Gold
+754,10/5/2023,22,Male,Joshuafort,Low,High Spender,Referral,10/8/2023,14,3961.43,282.96,Inactive,23-Oct,8454.75,702,12/2/2023,21,Healthcare,0.31,0,UPI,0.07,1,0.42,Yes,Free,17.78,Gold
+755,20-09-2024,31,Male,Port Brendafurt,High,Occasional,Social Media,26-10-2024,29,4287.29,147.84,Inactive,24-Sep,9382.7,351,24-03-2025,29,Grocery,0.05,6,Debit Card,0.21,1,0.84,No,Free,21.15,Gold
+756,26-02-2024,57,Other,Barkerhaven,Low,Bargain Hunter,Email,23-03-2024,35,4699.41,134.27,Inactive,24-Feb,10287.69,558,27-03-2025,92,Fashion,0.22,1,Debit Card,0.06,3,0.48,No,Gold,17.28,Silver
+757,6/11/2025,37,Other,Jonathantown,Low,Bargain Hunter,Ads,18-06-2025,37,70.99,1.92,Inactive,25-Jun,98.46,87,8/3/2025,47,Grocery,0.55,8,UPI,0.22,1,0.37,Yes,Gold,12.86,Silver
+758,12/9/2023,56,Other,New Donaldbury,Low,Loyal,Ads,17-12-2023,44,3593.21,81.66,Active,23-Dec,6885.46,637,1/12/2025,48,Books,0.82,5,Credit Card,0.28,3,0.77,No,Gold,38.23,Platinum
+759,8/9/2024,24,Female,Taraburgh,High,High Spender,Email,21-08-2024,32,4124.21,128.88,Active,24-Aug,6026.3,393,9/7/2024,37,Fashion,0.26,5,Net Banking,0.14,1,0.37,No,Free,34.61,Gold
+760,13-12-2023,28,Other,Port Aprilberg,Low,Bargain Hunter,Ads,2/5/2024,46,3212.1,69.83,Inactive,23-Dec,6315.65,633,17-01-2025,25,Healthcare,0.53,2,Debit Card,0.18,4,0.32,Yes,Free,33.42,Platinum
+761,17-10-2024,61,Other,Evanstown,Low,Occasional,Social Media,12/5/2024,13,1977.04,152.08,Inactive,24-Oct,3548.57,324,3/7/2025,75,Healthcare,0.02,6,Credit Card,0.2,1,0.43,Yes,Free,21.36,Silver
+762,27-03-2025,32,Male,Ralphton,Medium,High Spender,Social Media,23-04-2025,46,635.15,13.81,Active,25-Mar,1014.13,163,26-08-2025,66,Electronics,0.17,8,Credit Card,0.19,4,0.63,Yes,Gold,40.18,Silver
+763,15-11-2023,46,Other,New Michaelborough,Low,Bargain Hunter,Email,22-12-2023,31,3467.95,111.87,Inactive,23-Nov,8539.93,661,25-11-2023,69,Grocery,0.85,1,Wallet,0.01,5,0.13,Yes,Premium,37.86,Silver
+764,11/2/2024,43,Male,Edwardside,Low,One-time,Direct,20-12-2024,31,3045.87,98.25,Inactive,24-Nov,6751.9,308,24-06-2025,70,Fashion,0.12,8,Wallet,0.07,2,0.26,Yes,Gold,35.67,Bronze
+765,12/10/2023,53,Male,Jacobborough,Medium,Loyal,Ads,30-12-2023,46,120.51,2.62,Inactive,23-Dec,294.36,636,31-01-2025,98,Grocery,0.55,7,Debit Card,0.16,2,0.28,No,Gold,16.64,Silver
+766,26-08-2025,58,Other,South Jonathan,Low,One-time,Ads,10/7/2025,1,4195.35,4195.35,Active,25-Aug,9964.07,11,31-08-2025,92,Travel,0.86,4,Debit Card,0.08,5,0.73,Yes,Gold,19.49,Bronze
+767,1/5/2024,26,Other,Matthewtown,Low,Occasional,Direct,,0,0,0,Active,24-Jan,0,610,15-08-2025,96,Fashion,0.09,4,Debit Card,0.01,1,0.25,No,Free,19.22,Platinum
+768,4/1/2025,43,Male,West Laura,Medium,One-time,Social Media,27-05-2025,43,626.78,14.58,Active,25-Apr,1275.38,158,13-07-2025,78,Electronics,0.41,0,Credit Card,0.02,3,0.66,Yes,Gold,47.36,Platinum
+769,31-05-2024,59,Female,North Davidville,Medium,Loyal,Ads,6/4/2024,45,1562.18,34.72,Active,24-May,3655.37,463,1/7/2025,18,Books,0.28,0,Credit Card,0.09,2,0.36,No,Gold,58.69,Silver
+770,31-08-2024,24,Male,North Joanmouth,Medium,Occasional,Social Media,29-09-2024,17,3353.06,197.24,Active,24-Aug,5058.79,371,30-01-2025,64,Books,0.3,10,Debit Card,0.15,1,0.69,No,Free,43.21,Platinum
+771,10/12/2024,25,Male,Lake Johnland,Low,Loyal,Ads,17-10-2024,39,2777.57,71.22,Active,24-Oct,3387,329,6/5/2025,83,Healthcare,0.28,1,Net Banking,0.18,1,0.77,Yes,Free,4.37,Gold
+772,12/5/2023,52,Other,Woodview,Medium,Loyal,Social Media,20-01-2024,20,4967.07,248.35,Inactive,23-Dec,7354.06,641,3/5/2025,30,Books,0.91,2,Net Banking,0.1,1,0.37,No,Premium,28.09,Platinum
+773,24-12-2023,63,Female,Levyfort,Low,Occasional,Referral,26-12-2023,36,1262.79,35.08,Inactive,23-Dec,3020.39,622,23-04-2024,18,Books,0.63,2,Net Banking,0.3,5,0.27,Yes,Free,22.3,Bronze
+774,5/12/2024,62,Male,Port Mark,Medium,Loyal,Ads,30-05-2024,13,887.99,68.31,Inactive,24-May,1332.51,482,1/12/2025,49,Travel,0.09,1,Debit Card,0.29,4,0.87,Yes,Free,54.66,Gold
+775,13-10-2023,54,Female,Mcconnellside,High,Loyal,Referral,23-10-2023,47,419.51,8.93,Active,23-Oct,543.06,694,5/2/2024,82,Electronics,0.65,7,UPI,0,5,0.56,No,Premium,40.73,Bronze
+776,2/2/2024,29,Male,East Deborah,High,One-time,Social Media,21-02-2024,1,1084.03,1084.03,Inactive,24-Feb,2167.7,582,24-02-2024,69,Travel,0.22,9,Wallet,0.18,5,0.28,Yes,Gold,22.64,Silver
+777,7/7/2024,52,Female,Paulaton,Low,Loyal,Email,14-07-2024,29,4157.82,143.37,Active,24-Jul,9709.39,426,18-08-2024,88,Healthcare,0.38,2,Net Banking,0.03,5,0.73,No,Free,10.92,Silver
+778,21-12-2024,39,Female,Elizabethville,Medium,High Spender,Referral,26-01-2025,33,3555.16,107.73,Active,24-Dec,6692.43,259,21-02-2025,98,Books,0.26,3,Debit Card,0.07,3,0.37,Yes,Free,41.23,Silver
+779,17-02-2024,53,Other,Whiteheadville,Medium,High Spender,Email,4/8/2024,13,3255.3,250.41,Active,24-Feb,6947.39,567,30-06-2024,76,Healthcare,0.69,0,Debit Card,0.01,5,0.28,No,Free,24.99,Platinum
+780,23-10-2024,36,Female,Jacksonview,Low,One-time,Ads,17-11-2024,13,1403.69,107.98,Active,24-Oct,2759.55,318,24-05-2025,62,Books,0.98,9,Credit Card,0.27,3,0.37,No,Gold,36.95,Gold
+781,3/11/2024,40,Female,Williamsonchester,Medium,Loyal,Direct,25-03-2024,39,2650.09,67.95,Inactive,24-Mar,4288.83,544,8/3/2024,57,Travel,0.53,5,UPI,0.05,3,0.5,No,Free,20.47,Gold
+782,26-06-2025,47,Other,Ortizport,High,Bargain Hunter,Referral,7/7/2025,46,181.66,3.95,Active,25-Jun,311.33,72,23-08-2025,10,Books,0.93,8,Wallet,0.08,5,0.54,Yes,Gold,26.68,Platinum
+783,7/3/2025,52,Other,South Richardville,Medium,Occasional,Email,27-07-2025,32,803.32,25.1,Active,25-Jul,1449.51,65,8/9/2025,49,Books,0.12,0,Debit Card,0.17,5,0.83,No,Gold,16.51,Platinum
+784,13-12-2024,49,Other,New Kevinville,Low,High Spender,Referral,26-12-2024,3,916.14,305.38,Inactive,24-Dec,1899.78,267,27-07-2025,55,Fashion,0.45,10,Wallet,0.3,3,0.74,No,Gold,4.41,Bronze
+785,24-04-2025,52,Male,Rogerstown,Low,Occasional,Referral,20-06-2025,37,2136.78,57.75,Inactive,25-Apr,2751.94,135,14-06-2025,86,Healthcare,0.81,0,Debit Card,0.11,3,0.5,No,Premium,36.58,Platinum
+786,10/2/2023,61,Other,New Darryltown,High,Bargain Hunter,Ads,29-10-2023,28,2703.18,96.54,Inactive,23-Oct,5182.17,705,27-04-2025,88,Travel,0.97,10,Net Banking,0.2,3,0.24,Yes,Premium,16.25,Bronze
+787,28-08-2024,59,Male,Hendricksberg,Low,Occasional,Social Media,10/4/2024,33,4573.94,138.6,Inactive,24-Aug,7254.85,374,3/3/2025,99,Electronics,0.19,3,UPI,0.18,4,0.55,No,Free,16.27,Silver
+788,1/11/2025,44,Female,Kevinmouth,Low,Loyal,Social Media,14-02-2025,50,4909.62,98.19,Active,25-Jan,9559.78,238,18-03-2025,60,Fashion,0.7,6,Debit Card,0.06,1,0.62,Yes,Free,5.72,Bronze
+789,8/3/2025,25,Male,Lake Brianna,High,Bargain Hunter,Email,23-09-2025,43,4407,102.49,Inactive,25-Aug,9627.07,34,9/1/2025,20,Healthcare,0.91,8,Net Banking,0.24,1,0.44,No,Free,30.06,Gold
+790,24-12-2023,21,Male,Port Markburgh,High,Loyal,Email,27-12-2023,31,1700.2,54.85,Inactive,23-Dec,2336.41,622,26-01-2025,35,Grocery,0.85,4,UPI,0.18,4,0.16,No,Gold,30.97,Gold
+791,14-05-2025,34,Female,East Nancy,High,Loyal,Direct,7/1/2025,16,4683.13,292.7,Inactive,25-May,6824.89,115,24-05-2025,14,Travel,0.6,2,Net Banking,0.29,5,0.71,No,Premium,34.12,Gold
+792,10/6/2023,35,Other,Novakton,Medium,Bargain Hunter,Ads,24-11-2023,2,2107.02,1053.51,Inactive,23-Oct,4420.97,701,11/4/2024,62,Fashion,0.59,2,Wallet,0.09,3,0.7,No,Gold,9.88,Bronze
+793,10/5/2024,33,Female,Lake Robert,Low,Occasional,Referral,31-10-2024,7,2542.88,363.27,Inactive,24-Oct,3530.52,336,20-03-2025,73,Electronics,0.96,6,Wallet,0.09,5,0.86,No,Premium,31.95,Platinum
+794,7/7/2024,53,Female,New Stephen,Low,Bargain Hunter,Direct,22-07-2024,34,724.23,21.3,Active,24-Jul,1075.08,426,9/1/2025,38,Electronics,0.92,2,Net Banking,0.27,3,0.46,No,Premium,28.09,Platinum
+795,20-08-2024,33,Female,New Brittanybury,Low,Loyal,Ads,19-10-2024,3,1397.64,465.88,Active,24-Aug,1782.29,382,27-08-2024,27,Fashion,0.09,4,Net Banking,0.06,4,0.53,No,Gold,9.43,Gold
+796,31-08-2025,21,Other,Audreyside,High,Loyal,Ads,10/6/2025,49,855.14,17.45,Active,25-Aug,2066.33,6,9/1/2025,24,Travel,0.11,8,Wallet,0.09,1,0.82,Yes,Premium,39.57,Bronze
+797,6/1/2025,21,Female,East Jasmin,High,Loyal,Social Media,7/8/2025,3,3586.61,1195.54,Inactive,25-Jun,6841.86,97,25-06-2025,19,Travel,0.55,0,UPI,0.03,1,0.12,Yes,Free,24.69,Platinum
+798,20-04-2024,43,Male,Davismouth,High,High Spender,Social Media,27-05-2024,38,2114.32,55.64,Inactive,24-Apr,3885.12,504,7/1/2025,87,Travel,0.21,10,UPI,0.07,4,0.2,Yes,Free,43.14,Bronze
+799,14-05-2024,41,Female,West Cynthiastad,Low,High Spender,Direct,21-06-2024,38,1906.47,50.17,Active,24-May,2651.7,480,22-08-2024,93,Grocery,0.54,4,UPI,0.26,3,0.56,No,Free,5.13,Gold
+800,29-04-2024,46,Other,Rebeccachester,High,One-time,Social Media,24-05-2024,45,1862.8,41.4,Active,24-Apr,3323.14,495,23-10-2024,38,Grocery,1,9,Debit Card,0.22,4,0.74,No,Gold,59.07,Bronze
+801,5/9/2025,37,Male,Karlbury,High,Bargain Hunter,Direct,15-06-2025,45,2066.01,45.91,Inactive,25-May,3702.67,120,26-07-2025,20,Electronics,0.21,7,Net Banking,0.24,1,0.87,Yes,Free,24.22,Gold
+802,4/4/2024,50,Other,Lake Robert,Low,Loyal,Email,28-04-2024,6,4736.71,789.45,Active,24-Apr,11238.71,520,17-09-2024,41,Electronics,0.28,5,UPI,0.17,3,0.12,Yes,Free,37.55,Silver
+803,8/3/2024,48,Male,Wadechester,Low,One-time,Ads,9/6/2024,19,1541.54,81.13,Active,24-Aug,1888.97,399,25-06-2025,83,Travel,0.67,5,Debit Card,0.04,1,0.72,No,Gold,44.09,Gold
+804,29-04-2024,49,Other,New Nicolestad,Medium,Bargain Hunter,Referral,28-05-2024,21,4310.67,205.27,Inactive,24-Apr,5749.79,495,3/6/2025,80,Fashion,0.23,10,Wallet,0.14,5,0.58,Yes,Premium,43.56,Gold
+805,11/7/2023,46,Other,Port Lisa,High,Occasional,Email,26-12-2023,45,2675.42,59.45,Active,23-Nov,4657.06,669,17-11-2023,14,Fashion,0.09,7,Debit Card,0.16,4,0.88,Yes,Free,46.67,Bronze
+806,6/2/2024,52,Other,Port Summershire,Low,Occasional,Ads,6/6/2024,46,3697.28,80.38,Inactive,24-Jun,8429.14,461,22-01-2025,90,Healthcare,0.88,4,Wallet,0.02,3,0.2,No,Premium,9.27,Gold
+807,21-12-2023,18,Other,New Christianville,Low,High Spender,Ads,22-01-2024,47,2862.07,60.9,Active,23-Dec,5553.04,625,2/8/2024,74,Travel,0.71,10,UPI,0.23,1,0.21,No,Premium,18.12,Bronze
+808,20-01-2025,43,Female,West Karenchester,Medium,One-time,Ads,28-01-2025,46,3268.61,71.06,Active,25-Jan,4713.15,229,3/5/2025,62,Grocery,0.1,6,Credit Card,0.11,4,0.67,No,Premium,11.94,Platinum
+809,1/12/2025,64,Other,East Don,High,Occasional,Ads,26-02-2025,39,2959.09,75.87,Active,25-Jan,6098.32,237,7/1/2025,83,Travel,0.83,6,Debit Card,0.08,5,0.23,No,Free,42.78,Platinum
+810,19-01-2024,56,Male,South Vickieburgh,High,Occasional,Email,2/3/2024,47,3649.46,77.65,Active,24-Jan,6484.74,596,1/3/2025,49,Grocery,0.78,10,Net Banking,0.11,5,0.2,Yes,Free,39.6,Gold
+811,3/2/2025,34,Male,Reynoldsborough,High,One-time,Direct,3/4/2025,45,1422.79,31.62,Inactive,25-Mar,2277.74,188,6/12/2025,89,Books,0.15,9,UPI,0.12,4,0.35,No,Free,2.14,Platinum
+812,6/8/2025,25,Female,East Troy,High,Loyal,Email,,0,0,0,Inactive,25-Jun,0,90,25-08-2025,1,Books,0.8,8,Debit Card,0.2,5,0.28,No,Free,57.92,Platinum
+813,17-04-2025,55,Male,New Jonathanview,High,High Spender,Social Media,22-05-2025,3,1255.87,418.62,Active,25-Apr,2806.16,142,5/10/2025,5,Travel,0.92,4,Net Banking,0.1,5,0.68,Yes,Premium,26.14,Gold
+814,15-11-2023,60,Female,South Katherinemouth,High,Bargain Hunter,Social Media,26-11-2023,11,2687.61,244.33,Active,23-Nov,5439.84,661,30-07-2025,14,Grocery,0.07,7,Net Banking,0.19,5,0.49,Yes,Free,35.44,Silver
+815,13-03-2025,18,Other,East Thomaston,Medium,Occasional,Social Media,5/2/2025,9,2938.06,326.45,Inactive,25-Mar,6629.8,177,27-07-2025,28,Grocery,0.81,9,UPI,0.26,3,0.16,No,Premium,20.97,Silver
+816,14-06-2024,48,Female,Chavezview,High,Occasional,Email,28-06-2024,14,409.06,29.22,Inactive,24-Jun,499.91,449,3/8/2025,40,Fashion,0.89,10,Net Banking,0.02,4,0.27,No,Gold,32.78,Bronze
+817,3/11/2025,48,Female,New Andreaberg,High,Bargain Hunter,Ads,31-03-2025,30,1465.7,48.86,Active,25-Mar,2499.01,179,16-06-2025,2,Travel,0.16,0,UPI,0.15,2,0.41,Yes,Premium,28.12,Bronze
+818,20-10-2023,41,Male,Mariafurt,Medium,Bargain Hunter,Direct,21-10-2023,3,1846.04,615.35,Active,23-Oct,2611.7,687,13-12-2023,8,Grocery,0.81,9,Wallet,0.02,2,0.68,Yes,Gold,13.11,Silver
+819,27-06-2025,60,Male,North Gabrielleton,Low,Occasional,Referral,15-08-2025,44,2032.2,46.19,Inactive,25-Jun,2685.31,71,8/5/2025,46,Fashion,0.26,4,Net Banking,0.28,5,0.39,No,Gold,58.77,Silver
+820,19-10-2024,46,Female,New Kristinhaven,Low,One-time,Social Media,23-11-2024,10,4048.34,404.83,Active,24-Oct,5897.58,322,26-10-2024,27,Healthcare,0.86,9,Wallet,0.21,2,0.84,Yes,Gold,6.02,Platinum
+821,21-02-2025,29,Other,Port Cynthiaborough,Medium,High Spender,Referral,24-03-2025,11,251.14,22.83,Active,25-Feb,309.48,197,26-05-2025,43,Healthcare,0.99,5,Credit Card,0.01,5,0.54,Yes,Premium,26.63,Silver
+822,23-01-2025,27,Male,Angelafort,Low,Loyal,Email,20-03-2025,18,2298.95,127.72,Active,25-Jan,4994.46,226,7/12/2025,28,Electronics,0.31,2,Net Banking,0.3,4,0.8,Yes,Premium,32.52,Platinum
+823,12/3/2023,65,Male,West Kristina,Medium,High Spender,Social Media,30-12-2023,2,4966.2,2483.1,Active,23-Dec,9053.92,643,6/8/2025,78,Fashion,0.35,4,UPI,0.23,3,0.21,Yes,Free,39.98,Gold
+824,3/12/2024,31,Female,South Brian,Low,Bargain Hunter,Ads,20-03-2024,16,317.37,19.84,Active,24-Mar,432.87,543,30-06-2025,6,Travel,0.14,10,Credit Card,0.19,4,0.6,Yes,Gold,29.59,Platinum
+825,11/4/2023,29,Female,New Ashleyburgh,High,High Spender,Ads,29-11-2023,49,2666.25,54.41,Inactive,23-Nov,3354.3,672,27-02-2025,83,Travel,0.84,1,Net Banking,0.22,2,0.68,No,Gold,26.66,Gold
+826,19-01-2024,55,Other,Boydhaven,Low,High Spender,Direct,13-02-2024,43,1525.8,35.48,Inactive,24-Jan,2191.87,596,3/6/2025,33,Travel,0.94,2,Wallet,0.28,2,0.77,No,Free,36.45,Platinum
+827,27-10-2024,46,Other,Robertshire,Low,One-time,Referral,12/9/2024,37,1962.48,53.04,Active,24-Oct,4840.18,314,2/12/2025,46,Travel,0.17,4,Credit Card,0.27,5,0.1,Yes,Premium,4.09,Gold
+828,20-02-2024,41,Male,West Thomas,Medium,Loyal,Referral,15-04-2024,7,4305.81,615.12,Inactive,24-Feb,5767.07,564,15-06-2025,83,Electronics,0.3,1,Wallet,0.19,1,0.57,Yes,Free,8.6,Silver
+829,25-12-2024,19,Male,Lake Christine,High,Loyal,Direct,2/1/2025,42,3806.42,90.63,Inactive,24-Dec,5798.62,255,1/7/2025,69,Grocery,0.55,0,Credit Card,0.21,3,0.87,Yes,Premium,51.9,Platinum
+830,31-07-2024,36,Other,Tuckerport,High,Bargain Hunter,Referral,27-08-2024,12,545.79,45.48,Active,24-Jul,1135.74,402,14-09-2024,27,Grocery,0.34,7,Debit Card,0.05,5,0.81,No,Free,23.19,Platinum
+831,14-11-2024,38,Male,Barberport,High,Occasional,Email,23-11-2024,23,896.38,38.97,Active,24-Nov,1751.32,296,3/9/2025,36,Grocery,0.13,7,Credit Card,0.16,1,0.53,No,Free,44.13,Platinum
+832,19-04-2025,31,Male,West William,Medium,Occasional,Referral,15-06-2025,6,2023.51,337.25,Inactive,25-Apr,3409.18,140,24-07-2025,69,Fashion,0.08,6,Net Banking,0.21,2,0.9,No,Free,8.45,Silver
+833,10/5/2023,39,Other,West Samantha,Medium,One-time,Social Media,21-11-2023,28,250.64,8.95,Active,23-Oct,620.77,702,22-11-2024,60,Grocery,0.84,9,UPI,0.03,3,0.32,No,Free,24.51,Bronze
+834,14-07-2024,62,Female,Shaunmouth,High,High Spender,Email,22-07-2024,40,3961.99,99.05,Active,24-Jul,7575.83,419,28-04-2025,87,Books,0.51,6,Net Banking,0.27,4,0.51,No,Free,40.43,Bronze
+835,18-03-2024,61,Female,South Ralph,High,High Spender,Email,21-03-2024,11,2172.29,197.48,Inactive,24-Mar,4019.78,537,17-10-2024,44,Grocery,0.7,6,Credit Card,0.29,4,0.13,Yes,Gold,49.21,Bronze
+836,30-06-2024,44,Male,Port Kathleen,Low,High Spender,Ads,19-08-2024,48,2958.64,61.64,Inactive,24-Jun,7193.85,433,8/11/2025,72,Travel,0.4,0,Credit Card,0.22,5,0.28,Yes,Premium,41.06,Gold
+837,17-09-2024,63,Male,New Gabriel,High,High Spender,Referral,10/12/2024,49,1759.29,35.9,Inactive,24-Sep,2636.34,354,30-08-2025,49,Healthcare,0.73,9,UPI,0.09,2,0.78,No,Gold,15.29,Platinum
+838,8/4/2025,63,Other,East Lauriefort,High,Bargain Hunter,Ads,22-09-2025,11,953.02,86.64,Active,25-Aug,1290.99,33,8/4/2025,8,Grocery,0.61,2,Wallet,0.11,1,0.82,Yes,Gold,22.98,Gold
+839,24-02-2025,49,Male,West Kerry,Low,One-time,Email,16-03-2025,35,2119.74,60.56,Active,25-Feb,3186.4,194,5/11/2025,38,Travel,0.26,3,Debit Card,0.18,5,0.63,Yes,Gold,10.38,Silver
+840,6/1/2024,32,Other,Benjaminbury,Medium,Loyal,Email,7/1/2024,9,3145.99,349.55,Inactive,24-Jun,4262.08,462,26-04-2025,27,Travel,0.06,10,Net Banking,0.23,5,0.22,Yes,Free,35.15,Silver
+841,21-01-2025,30,Other,Richardside,Medium,Occasional,Referral,18-03-2025,13,882.23,67.86,Active,25-Jan,1479.63,228,3/1/2025,38,Electronics,0.72,2,Credit Card,0.12,3,0.79,Yes,Free,21.09,Silver
+842,30-11-2023,36,Male,Bowenton,High,High Spender,Email,14-12-2023,16,4544.18,284.01,Active,23-Nov,10551.14,646,4/7/2025,90,Healthcare,0.4,4,Debit Card,0.3,1,0.37,No,Gold,31.59,Gold
+843,23-08-2024,19,Male,New Steven,High,High Spender,Social Media,10/9/2024,29,2042.08,70.42,Active,24-Aug,3317.75,379,28-11-2024,42,Fashion,0.12,5,Wallet,0.16,2,0.59,Yes,Premium,35.71,Silver
+844,16-09-2023,63,Female,Lake Jon,Medium,Bargain Hunter,Ads,28-10-2023,1,189.82,189.82,Active,23-Sep,394.87,721,15-10-2023,59,Electronics,0.89,8,UPI,0.22,3,0.74,No,Free,43.93,Platinum
+845,27-10-2023,53,Female,Melissachester,Medium,Bargain Hunter,Ads,11/5/2023,13,933,71.77,Inactive,23-Oct,1268.01,680,18-03-2024,63,Healthcare,0.68,6,Net Banking,0.17,5,0.85,No,Premium,18.04,Bronze
+846,22-05-2025,44,Female,Lake Jeffery,High,Loyal,Referral,6/4/2025,5,1714.29,342.86,Inactive,25-May,4250.73,107,6/6/2025,33,Books,0.43,0,Net Banking,0.12,3,0.69,Yes,Premium,19.66,Platinum
+847,6/6/2025,52,Other,South Jill,Medium,High Spender,Referral,8/1/2025,46,566.86,12.32,Inactive,25-Jun,1252.67,92,18-08-2025,14,Books,0.95,10,Wallet,0.23,1,0.39,Yes,Free,21.7,Gold
+848,25-08-2025,20,Female,Jennifermouth,High,Loyal,Direct,26-09-2025,48,3615.84,75.33,Active,25-Aug,7615.83,12,9/2/2025,9,Books,0.13,10,Net Banking,0.03,2,0.34,Yes,Free,51.53,Silver
+849,11/2/2023,40,Female,Dariusmouth,Low,High Spender,Social Media,27-11-2023,40,2231.99,55.8,Active,23-Nov,3125.62,674,18-02-2024,21,Fashion,0.46,8,Debit Card,0.1,4,0.83,Yes,Premium,22.27,Platinum
+850,16-09-2024,24,Other,Roseland,Low,Occasional,Email,11/2/2024,27,3896.83,144.33,Inactive,24-Sep,8256.49,355,14-04-2025,53,Grocery,0.59,2,Debit Card,0.25,3,0.71,Yes,Free,17.18,Bronze
+851,4/10/2024,30,Other,Port Davidbury,Medium,Loyal,Direct,28-04-2024,43,2883.66,67.06,Inactive,24-Apr,5192.07,514,26-06-2024,20,Healthcare,0,5,Debit Card,0.19,4,0.75,No,Premium,40.51,Bronze
+852,18-05-2024,28,Female,Coryside,Medium,Occasional,Referral,7/10/2024,23,3058.7,132.99,Inactive,24-May,6131.27,476,28-11-2024,95,Travel,0.46,3,Debit Card,0.27,1,0.82,Yes,Free,23.85,Gold
+853,22-12-2024,21,Male,South Adrianchester,Medium,One-time,Direct,25-01-2025,32,4185.85,130.81,Inactive,24-Dec,6420.43,258,26-03-2025,12,Healthcare,0.73,6,Net Banking,0.03,3,0.58,No,Premium,7.86,Platinum
+854,23-08-2024,41,Male,Pattersonport,High,Bargain Hunter,Direct,29-09-2024,17,429.62,25.27,Inactive,24-Aug,728.47,379,24-03-2025,6,Books,0.89,9,Net Banking,0.28,3,0.62,Yes,Premium,5.17,Bronze
+855,11/5/2024,48,Other,Wendyview,High,Bargain Hunter,Direct,30-11-2024,9,2058.38,228.71,Active,24-Nov,4893.65,305,15-12-2024,98,Healthcare,0.73,8,Debit Card,0.08,1,0.82,Yes,Free,11.34,Platinum
+856,16-09-2024,54,Other,West Morganmouth,Low,Loyal,Email,10/7/2024,47,656.74,13.97,Active,24-Sep,924.45,355,5/3/2025,85,Grocery,0.92,3,Credit Card,0.13,4,0.68,Yes,Premium,34.52,Bronze
+857,17-01-2024,61,Other,North Emily,Low,Occasional,Social Media,30-01-2024,1,3734.77,3734.77,Inactive,24-Jan,9276.43,598,18-01-2024,47,Books,0.2,3,Debit Card,0.25,4,0.35,Yes,Premium,46.06,Gold
+858,12/10/2023,58,Male,Joshuaborough,Medium,Occasional,Social Media,1/7/2024,9,322.22,35.8,Inactive,23-Dec,667.87,636,3/1/2024,43,Healthcare,0.18,0,UPI,0.26,5,0.12,Yes,Free,6.17,Silver
+859,7/4/2024,53,Female,Mcculloughberg,Medium,Bargain Hunter,Referral,7/10/2024,26,3791.06,145.81,Inactive,24-Jul,6595.14,429,20-07-2025,83,Travel,0.93,6,UPI,0.24,1,0.68,Yes,Free,15.41,Platinum
+860,3/8/2025,40,Male,Cruztown,Medium,Occasional,Referral,28-04-2025,33,3016.27,91.4,Active,25-Mar,5815.46,182,6/12/2025,99,Electronics,0.65,8,Net Banking,0.06,1,0.45,No,Free,17.17,Platinum
+861,14-07-2025,20,Male,Port Timothy,Medium,One-time,Direct,29-07-2025,20,791.88,39.59,Active,25-Jul,1616.21,54,22-07-2025,21,Grocery,0.42,3,Wallet,0.29,4,0.76,Yes,Gold,48.81,Bronze
+862,27-06-2025,64,Male,Luceromouth,Medium,Loyal,Social Media,7/12/2025,38,3003.75,79.05,Active,25-Jun,4049.17,71,27-06-2025,50,Grocery,0.87,8,Wallet,0.06,5,0.71,Yes,Premium,38.52,Gold
+863,9/10/2023,59,Other,North Daniel,Low,Bargain Hunter,Email,18-09-2023,24,1843.97,76.83,Inactive,23-Sep,3963.25,727,16-12-2023,84,Electronics,0.9,9,UPI,0.03,1,0.8,Yes,Gold,54.71,Gold
+864,15-11-2024,37,Male,Lake Kristy,High,High Spender,Referral,27-12-2024,38,3012.78,79.28,Inactive,24-Nov,7300.94,295,8/3/2025,16,Fashion,0.99,8,Net Banking,0.2,4,0.44,Yes,Free,42.7,Bronze
+865,17-04-2025,30,Male,New Jacquelinemouth,High,Loyal,Referral,6/10/2025,38,492.55,12.96,Active,25-Apr,633.26,142,6/12/2025,32,Healthcare,0.58,9,Wallet,0.18,5,0.66,No,Gold,43.33,Platinum
+866,4/3/2025,62,Male,Shannonton,Low,Occasional,Social Media,5/10/2025,30,1653.73,55.12,Inactive,25-Apr,2959.4,156,15-08-2025,24,Grocery,0.38,0,Wallet,0.26,3,0.46,Yes,Premium,25.88,Silver
+867,30-01-2025,55,Other,Lake Thomas,Low,Bargain Hunter,Email,15-02-2025,14,2843.37,203.1,Inactive,25-Jan,7016.7,219,6/8/2025,50,Electronics,0.54,2,Net Banking,0.17,2,0.36,Yes,Gold,15.77,Bronze
+868,27-05-2025,51,Female,West Heather,Medium,Bargain Hunter,Referral,14-06-2025,27,2984.02,110.52,Active,25-May,4931.51,102,29-05-2025,85,Travel,0.11,0,Credit Card,0.19,4,0.38,Yes,Premium,48.54,Platinum
+869,29-10-2024,25,Male,South Kristina,High,High Spender,Social Media,27-11-2024,50,3049.43,60.99,Active,24-Oct,5179.88,312,7/7/2025,14,Grocery,0.16,8,Net Banking,0.11,2,0.53,No,Free,19.82,Bronze
+870,19-09-2024,56,Other,Langchester,High,Bargain Hunter,Direct,10/4/2024,16,4350.18,271.89,Active,24-Sep,5896.76,352,22-03-2025,100,Books,0.49,4,UPI,0.16,5,0.13,Yes,Gold,50.77,Gold
+871,3/1/2024,62,Other,Justinview,High,Occasional,Referral,20-04-2024,28,1690.84,60.39,Active,24-Mar,2151.01,554,19-04-2024,72,Grocery,0.92,8,Debit Card,0.26,3,0.51,No,Gold,52.11,Gold
+872,17-07-2024,41,Male,North Louis,Medium,Occasional,Referral,8/1/2024,16,4801.41,300.09,Inactive,24-Jul,9778.58,416,9/4/2025,73,Healthcare,0.94,9,Debit Card,0.25,4,0.42,Yes,Premium,55.63,Platinum
+873,13-01-2025,39,Other,East Johnland,Medium,Occasional,Email,3/2/2025,42,3523,83.88,Inactive,25-Jan,6488.14,236,8/11/2025,56,Travel,0.18,9,Credit Card,0.28,4,0.37,No,Gold,40.03,Silver
+874,11/12/2023,58,Female,Lake Hannah,Medium,High Spender,Direct,1/7/2024,1,2320,2320,Inactive,23-Nov,3262.15,664,18-04-2024,92,Travel,0.92,9,Debit Card,0.05,5,0.12,Yes,Premium,13.04,Platinum
+875,20-05-2024,45,Female,Martinfurt,Medium,One-time,Direct,22-05-2024,46,1167.12,25.37,Inactive,24-May,1846,474,7/11/2025,60,Books,0.65,5,Debit Card,0.18,1,0.52,Yes,Free,33.76,Gold
+876,1/8/2025,49,Female,Stephaniefurt,Medium,Occasional,Direct,23-02-2025,49,4417.97,90.16,Inactive,25-Jan,5612.08,241,22-04-2025,64,Healthcare,0.83,6,Credit Card,0.13,5,0.2,No,Free,45.66,Gold
+877,5/4/2025,63,Male,Melissashire,Medium,High Spender,Ads,15-05-2025,19,4740.7,249.51,Inactive,25-May,10113.57,125,7/11/2025,65,Electronics,0.62,5,Net Banking,0.24,4,0.25,No,Gold,29.07,Gold
+878,25-04-2025,28,Other,Marissahaven,High,High Spender,Direct,5/4/2025,19,3952.33,208.02,Inactive,25-Apr,6190.43,134,23-08-2025,47,Books,0.32,3,Debit Card,0.21,2,0.82,No,Free,19.84,Gold
+879,10/11/2023,24,Male,Crystalfort,Low,Bargain Hunter,Direct,30-10-2023,22,4030.85,183.22,Active,23-Oct,6185.54,696,16-04-2025,36,Books,0.88,6,Wallet,0.06,5,0.17,Yes,Free,55.13,Bronze
+880,22-04-2025,36,Other,Jessicaborough,High,Loyal,Social Media,23-04-2025,46,2685.57,58.38,Inactive,25-Apr,3939.26,137,8/11/2025,55,Grocery,0.37,6,UPI,0.17,5,0.56,Yes,Gold,37.35,Bronze
+881,19-06-2025,22,Other,Andersonfort,High,Occasional,Social Media,15-07-2025,13,1825.81,140.45,Active,25-Jun,2303.19,79,8/2/2025,78,Travel,0.35,8,UPI,0.13,1,0.7,Yes,Premium,42.74,Platinum
+882,3/11/2025,60,Other,Philipland,Low,High Spender,Email,28-03-2025,7,1505.33,215.05,Inactive,25-Mar,3345.55,179,24-05-2025,100,Fashion,0.94,5,Wallet,0.06,1,0.5,Yes,Premium,41.77,Platinum
+883,23-01-2024,38,Female,Ricechester,Medium,One-time,Direct,2/3/2024,42,4597.17,109.46,Active,24-Jan,5588.37,592,28-03-2025,63,Books,0.5,3,Net Banking,0.18,1,0.58,No,Gold,19.82,Platinum
+884,30-06-2024,45,Other,Colemanbury,Medium,Bargain Hunter,Social Media,7/10/2024,41,2363.51,57.65,Inactive,24-Jun,3959.53,433,13-08-2025,62,Travel,0.27,7,Net Banking,0.08,2,0.83,No,Premium,24.48,Silver
+885,19-02-2024,47,Female,Bartlettfort,Low,Occasional,Social Media,3/3/2024,21,759.34,36.16,Inactive,24-Feb,1788.41,565,4/6/2025,81,Grocery,0.67,5,Debit Card,0.16,1,0.83,Yes,Free,17.03,Platinum
+886,2/4/2025,20,Female,South Hunter,Medium,One-time,Social Media,3/6/2025,48,3569.83,74.37,Active,25-Feb,6116.25,214,25-07-2025,99,Healthcare,0.31,7,Net Banking,0.2,5,0.34,Yes,Gold,6.64,Silver
+887,25-01-2024,25,Male,Colemanberg,Low,Bargain Hunter,Direct,20-03-2024,38,1112.27,29.27,Active,24-Jan,1933.57,590,16-04-2025,28,Travel,0.68,0,Wallet,0.26,5,0.57,No,Free,41.17,Silver
+888,19-08-2024,47,Female,Sethville,Low,One-time,Email,10/3/2024,8,1637.47,204.68,Active,24-Aug,3789.32,383,26-07-2025,27,Electronics,0.72,6,Credit Card,0.14,4,0.36,No,Free,24.49,Silver
+889,18-08-2025,63,Other,South Rebecca,Low,Bargain Hunter,Email,16-10-2025,8,3816.44,477.06,Active,25-Aug,8523.59,19,24-08-2025,29,Grocery,0.46,8,Debit Card,0.07,2,0.56,No,Gold,44.3,Gold
+890,5/4/2025,46,Female,Howardburgh,Medium,Occasional,Email,5/6/2025,31,1262.02,40.71,Active,25-May,2602.13,125,8/10/2025,75,Fashion,0.45,4,Net Banking,0.13,2,0.63,No,Free,25.62,Silver
+891,26-10-2024,50,Female,Jonestown,Low,One-time,Social Media,11/1/2024,49,4768.61,97.32,Inactive,24-Oct,8963.28,315,12/7/2024,34,Electronics,0.4,7,Wallet,0.22,3,0.56,No,Free,32.97,Gold
+892,15-01-2024,34,Other,New Stephanie,High,Loyal,Referral,16-02-2024,42,4843.23,115.31,Active,24-Jan,7258.39,600,4/11/2024,44,Grocery,0.14,6,Debit Card,0.14,3,0.85,No,Gold,23.6,Bronze
+893,29-05-2024,63,Female,Lake Matthewchester,Medium,Occasional,Email,6/1/2024,30,2488.09,82.94,Active,24-May,5230.78,465,6/9/2025,53,Grocery,0.36,2,Debit Card,0.01,1,0.52,No,Premium,3.88,Bronze
+894,16-12-2023,46,Other,West Tyronetown,High,One-time,Email,13-01-2024,19,2054.85,108.15,Inactive,23-Dec,4262.78,630,1/5/2024,64,Fashion,0.61,6,Wallet,0.13,4,0.8,Yes,Premium,17.93,Silver
+895,13-09-2024,20,Female,East Michele,Medium,Occasional,Referral,11/8/2024,26,2946.9,113.34,Inactive,24-Sep,5198.06,358,2/12/2025,58,Books,0.41,2,Debit Card,0.01,1,0.8,Yes,Premium,29.24,Platinum
+896,14-02-2024,38,Female,South Robert,High,One-time,Social Media,25-03-2024,26,1763.28,67.82,Active,24-Feb,2411.02,570,2/4/2025,14,Books,0.58,4,Wallet,0.25,5,0.74,No,Premium,10.57,Platinum
+897,25-01-2025,49,Female,South Bryan,High,Loyal,Referral,2/1/2025,27,1626.52,60.24,Inactive,25-Jan,2811.57,224,28-07-2025,22,Electronics,0.32,9,Debit Card,0.05,2,0.77,No,Free,10,Silver
+898,5/9/2025,36,Female,Charlesside,Low,Bargain Hunter,Social Media,15-05-2025,24,282.11,11.75,Active,25-May,591.73,120,21-08-2025,25,Travel,0.73,10,Wallet,0.13,2,0.22,No,Gold,20.14,Platinum
+899,21-09-2023,55,Female,Evanston,High,Bargain Hunter,Referral,10/11/2023,42,1739.03,41.41,Active,23-Sep,3252.97,716,8/1/2025,96,Travel,0.97,9,Net Banking,0.3,4,0.38,Yes,Free,35.49,Gold
+900,8/5/2025,48,Male,New Jeromeberg,High,Loyal,Referral,18-08-2025,3,4184.89,1394.96,Inactive,25-Aug,7588.72,32,18-08-2025,30,Healthcare,0.22,5,Credit Card,0.05,2,0.65,Yes,Premium,29.69,Platinum
+901,12/11/2023,50,Male,South Kristi,Medium,Occasional,Direct,,0,0,0,Inactive,23-Dec,0,635,24-02-2024,11,Travel,0.44,5,UPI,0.22,2,0.65,No,Gold,32.86,Silver
+902,18-11-2024,49,Female,Savagefort,Medium,Loyal,Referral,25-12-2024,29,2235.13,77.07,Inactive,24-Nov,2886.95,292,21-12-2024,46,Books,0.61,4,UPI,0.05,4,0.43,Yes,Premium,21.23,Platinum
+903,13-02-2024,48,Male,Robertton,Low,High Spender,Direct,3/2/2024,29,3512,121.1,Active,24-Feb,5854.21,571,18-04-2024,24,Healthcare,0.56,8,UPI,0.1,1,0.43,No,Free,33.34,Bronze
+904,27-07-2025,52,Male,New Kerryside,Low,Occasional,Email,8/2/2025,27,2380.05,88.15,Inactive,25-Jul,3842.76,41,31-08-2025,15,Grocery,0.15,6,UPI,0.02,1,0.56,Yes,Premium,38.92,Bronze
+905,24-04-2024,28,Other,Sherryport,Low,Bargain Hunter,Direct,22-05-2024,10,410.03,41,Active,24-Apr,904.42,500,3/3/2025,65,Travel,0.27,7,Wallet,0.22,1,0.43,No,Premium,4.19,Platinum
+906,27-11-2024,33,Male,Zacharyburgh,High,High Spender,Email,12/3/2024,14,735.46,52.53,Inactive,24-Nov,1831.09,283,6/5/2025,73,Fashion,0.52,5,Credit Card,0.14,4,0.47,Yes,Gold,31.15,Bronze
+907,12/2/2023,21,Other,Josechester,Medium,Loyal,Social Media,1/1/2024,5,1270.77,254.15,Inactive,23-Dec,2391.36,644,30-03-2024,86,Healthcare,0.11,8,Debit Card,0.25,2,0.24,No,Gold,6.34,Platinum
+908,12/12/2023,38,Other,West Jeremy,Medium,Bargain Hunter,Ads,21-12-2023,6,3226.71,537.78,Inactive,23-Dec,7521.23,634,3/7/2024,48,Electronics,0.56,4,Credit Card,0.11,3,0.46,Yes,Free,55.16,Silver
+909,15-06-2024,39,Female,East Mikaylaville,Medium,High Spender,Social Media,24-07-2024,1,1865.39,1865.39,Active,24-Jun,2510.73,448,17-07-2025,38,Grocery,1,8,Wallet,0.26,3,0.74,No,Gold,10.85,Platinum
+910,21-07-2024,60,Other,Karenborough,Medium,Occasional,Email,26-08-2024,49,750.42,15.31,Inactive,24-Jul,1447.2,412,1/1/2025,90,Travel,0.59,5,Net Banking,0.27,1,0.83,Yes,Free,10.17,Silver
+911,9/2/2025,51,Male,Ashleyberg,High,Bargain Hunter,Social Media,14-09-2025,36,2306.41,64.07,Inactive,25-Sep,3330.6,4,9/3/2025,85,Healthcare,0.97,8,Net Banking,0.25,2,0.7,No,Premium,36.54,Silver
+912,9/2/2025,51,Female,East Brittany,High,High Spender,Email,24-09-2025,5,4283.25,856.65,Active,25-Sep,9094.79,4,9/4/2025,6,Travel,0.37,10,Credit Card,0.02,2,0.62,No,Free,57.28,Silver
+913,2/3/2024,38,Other,Jennifershire,Medium,Bargain Hunter,Referral,3/8/2024,37,620.76,16.78,Active,24-Feb,1084.63,581,18-02-2025,100,Grocery,0.65,5,UPI,0.09,1,0.28,No,Gold,58.15,Gold
+914,7/3/2024,44,Female,Port Lauriemouth,Medium,Bargain Hunter,Social Media,8/6/2024,10,3596.46,359.65,Active,24-Jul,6009.09,430,5/8/2025,76,Grocery,0.93,3,UPI,0.12,5,0.78,No,Premium,19.75,Platinum
+915,27-10-2024,49,Female,Lake Sara,High,Bargain Hunter,Direct,16-11-2024,28,272.74,9.74,Active,24-Oct,443.65,314,9/3/2025,56,Healthcare,0.3,1,Wallet,0.01,5,0.58,Yes,Premium,54.83,Gold
+916,27-01-2025,50,Other,South Katrinashire,High,Bargain Hunter,Direct,3/7/2025,43,4773.49,111.01,Inactive,25-Jan,8752.44,222,28-06-2025,44,Fashion,0.81,9,UPI,0.19,4,0.28,Yes,Gold,7.36,Gold
+917,28-08-2025,36,Male,New Kylefort,High,Loyal,Email,17-09-2025,5,2156.83,431.37,Inactive,25-Aug,4547.69,9,31-08-2025,12,Healthcare,0.64,5,Credit Card,0,1,0.81,Yes,Premium,7.73,Gold
+918,13-05-2025,42,Other,Port Dianeburgh,Medium,Bargain Hunter,Email,27-06-2025,15,3927.13,261.81,Inactive,25-May,8877.16,116,7/2/2025,49,Healthcare,0.79,9,Debit Card,0.18,2,0.57,No,Premium,41.42,Platinum
+919,14-10-2024,57,Other,Khanport,Low,Loyal,Referral,25-10-2024,44,4754.82,108.06,Inactive,24-Oct,7238.81,327,21-02-2025,85,Grocery,0.31,2,Wallet,0.07,3,0.39,No,Free,16.47,Gold
+920,28-01-2025,35,Other,Aaronberg,Medium,High Spender,Email,15-02-2025,12,3737.41,311.45,Inactive,25-Jan,7693.25,221,18-06-2025,95,Travel,0.16,8,Net Banking,0.19,4,0.29,No,Premium,47.21,Platinum
+921,25-09-2023,34,Female,Greenchester,Medium,Loyal,Referral,27-09-2023,16,303.91,18.99,Inactive,23-Sep,449.79,712,27-01-2025,44,Electronics,0.46,1,Wallet,0.21,4,0.83,Yes,Premium,5.17,Silver
+922,17-10-2024,21,Other,Clarkberg,High,Bargain Hunter,Direct,26-10-2024,10,811.55,81.16,Active,24-Oct,1458.57,324,23-11-2024,45,Fashion,0.34,1,UPI,0.08,3,0.1,No,Premium,2.2,Gold
+923,9/4/2025,36,Other,North John,High,High Spender,Direct,20-10-2025,16,1299.01,81.19,Inactive,25-Sep,1783.13,2,9/5/2025,46,Grocery,0.63,5,Net Banking,0.22,1,0.72,No,Free,35.87,Gold
+924,29-09-2023,35,Other,Abigailborough,High,One-time,Ads,14-10-2023,40,1421.85,35.55,Inactive,23-Sep,3429.21,708,25-04-2025,36,Electronics,0.42,5,Debit Card,0.08,2,0.46,No,Free,54.06,Bronze
+925,22-07-2025,27,Other,New Luke,High,One-time,Direct,18-08-2025,18,160.53,8.92,Inactive,25-Jul,325.15,46,27-07-2025,84,Healthcare,0.5,0,Debit Card,0.02,2,0.63,No,Premium,16.74,Gold
+926,23-12-2024,55,Female,South Michael,Low,One-time,Direct,19-02-2025,42,1340.42,31.91,Active,24-Dec,2587.27,257,5/10/2025,46,Electronics,0.54,4,Debit Card,0.24,4,0.4,Yes,Gold,27.04,Platinum
+927,4/12/2025,29,Female,Vangbury,Medium,High Spender,Email,20-04-2025,41,3442.61,83.97,Active,25-Apr,5455.78,147,15-08-2025,18,Healthcare,0.48,3,Credit Card,0.28,5,0.59,No,Gold,41.59,Gold
+928,29-11-2023,33,Male,Danielbury,High,Loyal,Referral,24-01-2024,2,4978.47,2489.24,Inactive,23-Nov,8927.6,647,12/6/2024,84,Healthcare,0.3,5,Net Banking,0.11,1,0.16,No,Premium,54.62,Gold
+929,25-04-2024,54,Other,Adrianaside,High,Bargain Hunter,Direct,24-05-2024,29,2607.23,89.9,Active,24-Apr,5066.96,499,5/6/2024,59,Books,0.45,2,Debit Card,0.03,1,0.52,Yes,Gold,37.61,Gold
+930,18-10-2024,22,Female,Jenniferton,High,One-time,Ads,21-10-2024,21,2479.75,118.08,Active,24-Oct,6090.82,323,1/7/2025,44,Electronics,0.55,7,Net Banking,0.01,3,0.6,Yes,Free,54.85,Silver
+931,6/9/2025,47,Other,North Kevin,Low,High Spender,Direct,14-06-2025,1,119.83,119.83,Active,25-Jun,232.98,89,15-06-2025,100,Books,0.71,7,Wallet,0.02,1,0.22,No,Premium,51.62,Gold
+932,21-05-2024,53,Other,Morrisonmouth,Low,High Spender,Social Media,14-06-2024,2,4539,2269.5,Active,24-May,9712.22,473,14-12-2024,26,Books,0.6,3,Wallet,0.17,3,0.3,No,Premium,50.94,Bronze
+933,8/8/2024,57,Male,Michaelfort,High,High Spender,Email,26-09-2024,19,2076.53,109.29,Inactive,24-Aug,4350.26,394,3/12/2025,67,Electronics,0.29,1,Wallet,0.12,4,0.22,No,Free,50.18,Bronze
+934,2/10/2025,18,Other,West Josephshire,Medium,Bargain Hunter,Referral,30-03-2025,35,53,1.51,Inactive,25-Feb,105.65,208,17-08-2025,6,Travel,0.6,4,Net Banking,0.01,2,0.31,Yes,Premium,36.77,Platinum
+935,23-11-2023,61,Male,Dianetown,High,Occasional,Ads,1/11/2024,38,3874.63,101.96,Inactive,23-Nov,4795.3,653,19-12-2024,74,Healthcare,0.02,9,Credit Card,0.13,4,0.38,No,Gold,57.7,Platinum
+936,18-01-2025,19,Female,Margaretfurt,High,High Spender,Direct,17-03-2025,41,696.52,16.99,Active,25-Jan,1086.33,231,20-06-2025,11,Electronics,0.02,9,UPI,0.3,1,0.42,Yes,Gold,45.65,Gold
+937,12/11/2023,58,Male,Port Anne,Low,Bargain Hunter,Referral,1/12/2024,22,1759.31,79.97,Inactive,23-Dec,3656.95,635,13-01-2025,43,Electronics,0.93,1,Credit Card,0.23,1,0.45,No,Gold,14.7,Bronze
+938,4/4/2024,61,Male,North Joseph,High,High Spender,Social Media,25-05-2024,37,946.3,25.58,Active,24-Apr,1192.61,520,22-03-2025,42,Travel,0.61,0,Debit Card,0.04,3,0.55,No,Free,12.53,Gold
+939,20-10-2023,65,Other,West Mitchellton,Low,High Spender,Referral,,0,0,0,Inactive,23-Oct,0,687,7/10/2024,77,Electronics,1,8,UPI,0.22,1,0.38,No,Free,36.4,Bronze
+940,15-06-2024,39,Male,East Brandontown,Medium,High Spender,Direct,25-06-2024,29,857.27,29.56,Inactive,24-Jun,1335.43,448,18-06-2024,30,Books,0.28,10,Debit Card,0.17,2,0.85,No,Gold,9.78,Platinum
+941,21-09-2024,42,Male,Bishopstad,High,Bargain Hunter,Direct,11/7/2024,40,1704.68,42.62,Active,24-Sep,2812.96,350,4/6/2025,55,Books,0.82,7,Net Banking,0.22,5,0.24,Yes,Free,40.49,Platinum
+942,11/7/2024,20,Other,Masonberg,High,Bargain Hunter,Referral,23-11-2024,23,674.56,29.33,Inactive,24-Nov,1302.64,303,11/10/2024,63,Fashion,0.48,7,Net Banking,0.18,5,0.43,Yes,Free,5,Platinum
+943,22-10-2024,35,Other,Lake Michaelstad,Medium,One-time,Referral,12/8/2024,25,1847.48,73.9,Inactive,24-Oct,3155.4,319,19-04-2025,8,Electronics,0.33,6,UPI,0.1,4,0.12,Yes,Free,46.8,Bronze
+944,27-06-2025,45,Male,Chrisside,Medium,Loyal,Ads,23-07-2025,19,1789.33,94.18,Inactive,25-Jun,3705.98,71,17-07-2025,85,Grocery,0.89,3,Wallet,0.28,3,0.42,No,Premium,16.52,Silver
+945,28-07-2025,50,Other,Port Paulafurt,Low,Bargain Hunter,Email,23-08-2025,39,4427.82,113.53,Active,25-Jul,7304.11,40,13-08-2025,49,Books,0.4,4,Debit Card,0.1,4,0.13,Yes,Gold,35.04,Platinum
+946,14-04-2025,38,Female,Michaelland,Low,Occasional,Social Media,17-04-2025,3,3277.6,1092.53,Inactive,25-Apr,3979.34,145,17-06-2025,37,Electronics,0.31,2,Debit Card,0.14,2,0.45,No,Gold,50.27,Gold
+947,12/1/2023,41,Female,East Joseph,High,Occasional,Referral,12/10/2023,22,4524.35,205.65,Active,23-Dec,7137.25,645,23-07-2025,66,Fashion,0.2,8,Credit Card,0.2,3,0.11,Yes,Premium,44.87,Gold
+948,11/1/2024,56,Male,Lake Charles,High,Occasional,Referral,23-11-2024,2,2441.96,1220.98,Active,24-Nov,3011.1,309,15-05-2025,30,Electronics,0.46,6,Wallet,0.29,3,0.56,Yes,Gold,9.26,Gold
+949,23-09-2024,19,Male,North Joshua,Medium,One-time,Social Media,16-11-2024,3,1335.26,445.09,Active,24-Sep,3102.63,348,12/11/2024,80,Travel,0.54,8,Net Banking,0.25,5,0.62,Yes,Gold,9.82,Gold
+950,14-06-2024,45,Male,North Jacob,Medium,One-time,Social Media,8/6/2024,30,3677.36,122.58,Inactive,24-Jun,5105.26,449,17-02-2025,9,Electronics,0.95,1,Net Banking,0.22,1,0.23,No,Premium,45.2,Gold
+951,28-09-2023,42,Male,North Adambury,Medium,One-time,Direct,21-10-2023,28,3435.66,122.7,Inactive,23-Sep,6891.97,709,13-12-2024,80,Grocery,0.53,2,Debit Card,0.09,5,0.25,Yes,Gold,28.08,Silver
+952,3/12/2024,33,Other,Port Elizabeth,High,One-time,Ads,5/3/2024,9,2589.02,287.67,Inactive,24-Mar,4784.63,543,15-10-2024,93,Travel,0.17,3,UPI,0.19,2,0.77,Yes,Gold,37.8,Silver
+953,20-08-2025,48,Female,Sherriburgh,Medium,Occasional,Direct,9/8/2025,15,1446.27,96.42,Inactive,25-Aug,3060.53,17,22-08-2025,64,Healthcare,0.86,4,Debit Card,0.24,2,0.38,Yes,Free,41.93,Platinum
+954,17-10-2023,36,Male,Scottberg,Low,Occasional,Social Media,12/9/2023,39,2322.48,59.55,Inactive,23-Oct,4479.1,690,27-02-2024,77,Travel,0.93,1,Credit Card,0.07,4,0.52,Yes,Gold,56.09,Platinum
+955,22-11-2024,44,Other,New Ashleybury,Low,High Spender,Direct,1/7/2025,6,2788.79,464.8,Inactive,24-Nov,6482.94,288,22-07-2025,22,Fashion,0.5,10,Net Banking,0.07,4,0.41,Yes,Premium,20.03,Silver
+956,3/1/2024,40,Male,New Misty,Medium,One-time,Direct,28-03-2024,9,524.16,58.24,Inactive,24-Mar,1269.36,554,6/3/2025,50,Fashion,0.85,10,Credit Card,0.03,4,0.3,No,Free,37.86,Gold
+957,17-02-2024,33,Male,North Bradley,High,Bargain Hunter,Email,4/12/2024,42,4262.67,101.49,Active,24-Feb,9028.26,567,26-07-2025,39,Healthcare,0.59,9,Debit Card,0.18,3,0.18,No,Gold,27.81,Silver
+958,26-01-2025,48,Male,Paulaland,Medium,Occasional,Referral,24-03-2025,39,2151.86,55.18,Active,25-Jan,4476.74,223,27-01-2025,96,Grocery,0.65,9,Credit Card,0.29,3,0.3,No,Premium,58.68,Bronze
+959,22-11-2024,39,Other,Michaelside,High,Bargain Hunter,Direct,19-12-2024,30,154.15,5.14,Inactive,24-Nov,237.72,288,19-01-2025,38,Grocery,0.04,6,UPI,0.29,1,0.61,Yes,Free,52.36,Bronze
+960,15-06-2025,59,Other,Bryanmouth,Low,Occasional,Email,22-06-2025,27,4875.38,180.57,Active,25-Jun,9909.46,83,28-06-2025,48,Travel,0.66,3,Debit Card,0.1,2,0.59,No,Premium,55.67,Platinum
+961,27-09-2023,30,Female,North Robertburgh,Medium,Bargain Hunter,Email,11/4/2023,46,603.1,13.11,Active,23-Sep,1018.11,710,3/9/2025,23,Travel,0.26,7,Net Banking,0,4,0.21,Yes,Gold,38.35,Platinum
+962,17-02-2025,38,Other,Port Melissachester,Medium,Occasional,Email,25-02-2025,28,933.07,33.32,Active,25-Feb,2043.89,201,22-08-2025,79,Books,0.85,5,Wallet,0.12,4,0.2,Yes,Free,17.38,Silver
+963,22-05-2025,57,Female,Conleyfurt,High,Occasional,Direct,29-06-2025,7,4011.95,573.14,Inactive,25-May,7269.94,107,13-06-2025,74,Grocery,0.18,9,Debit Card,0.05,3,0.76,Yes,Gold,34.02,Bronze
+964,1/6/2024,64,Male,Castroland,High,High Spender,Direct,31-01-2024,20,3991.22,199.56,Active,24-Jan,4897.24,609,5/6/2025,12,Books,0.85,10,Credit Card,0.28,1,0.88,Yes,Gold,6.11,Bronze
+965,1/6/2024,45,Male,Soniatown,High,Loyal,Social Media,29-02-2024,17,1600.53,94.15,Active,24-Jan,3749.55,609,4/4/2025,32,Fashion,0.16,6,Net Banking,0.14,2,0.32,Yes,Premium,26.63,Bronze
+966,19-10-2023,59,Female,Reedton,Medium,High Spender,Direct,28-11-2023,20,1347.91,67.4,Inactive,23-Oct,3347.22,688,12/12/2023,78,Fashion,0.84,4,Credit Card,0.05,3,0.9,No,Gold,22.84,Silver
+967,25-07-2025,28,Female,North Christinefort,High,Bargain Hunter,Direct,29-08-2025,14,4358.97,311.36,Inactive,25-Jul,10505.64,43,31-07-2025,92,Electronics,0.49,4,UPI,0.15,2,0.39,No,Premium,35.06,Platinum
+968,19-01-2025,41,Female,New Rachel,Low,Loyal,Social Media,2/1/2025,6,4070.46,678.41,Inactive,25-Jan,6386.3,230,24-03-2025,76,Travel,0.97,7,Debit Card,0.03,1,0.5,No,Premium,35.87,Bronze
+969,3/10/2025,23,Other,Vasquezton,Medium,Occasional,Email,4/7/2025,24,4552.25,189.68,Inactive,25-Mar,6082.02,180,14-03-2025,30,Healthcare,0.85,5,Net Banking,0.05,5,0.44,No,Premium,14.47,Bronze
+970,28-08-2025,26,Other,Lake Whitney,High,One-time,Social Media,13-09-2025,42,4200.43,100.01,Inactive,25-Aug,9455.95,9,9/2/2025,1,Books,0.6,0,Credit Card,0.14,2,0.35,No,Premium,13.33,Silver
+971,21-05-2024,54,Male,Thompsonhaven,High,Bargain Hunter,Ads,24-05-2024,7,2341.4,334.49,Active,24-May,2825.16,473,10/8/2024,50,Electronics,0.72,3,Wallet,0.26,1,0.87,No,Free,3.72,Bronze
+972,12/2/2024,49,Female,East Randallville,High,High Spender,Social Media,1/10/2025,36,3143.7,87.32,Active,24-Dec,5734.23,278,18-07-2025,31,Electronics,0.87,1,Credit Card,0.06,3,0.73,No,Free,13.34,Bronze
+973,7/10/2024,55,Other,West Franciscoside,Medium,High Spender,Direct,9/6/2024,37,2154.82,58.24,Active,24-Jul,3130.16,423,30-09-2024,20,Healthcare,0.32,4,Net Banking,0.01,5,0.57,Yes,Premium,28.63,Silver
+974,6/10/2024,39,Male,Smithview,Low,One-time,Direct,27-07-2024,35,2669.07,76.26,Active,24-Jun,6218,453,8/6/2025,12,Healthcare,0.58,6,Net Banking,0.27,3,0.32,Yes,Gold,7.22,Silver
+975,22-05-2024,54,Other,Zacharyville,Medium,Occasional,Referral,23-06-2024,28,4661.89,166.5,Active,24-May,10426.22,472,7/2/2025,55,Grocery,0.44,9,Credit Card,0.26,3,0.52,No,Premium,1.93,Silver
+976,20-12-2024,60,Other,Ramirezfort,Low,Loyal,Social Media,21-12-2024,33,2494.12,75.58,Inactive,24-Dec,4788.51,260,22-05-2025,76,Electronics,0.03,9,Wallet,0.24,2,0.57,Yes,Gold,38.06,Bronze
+977,16-12-2024,48,Other,North Tammy,High,High Spender,Referral,26-12-2024,8,3980.82,497.6,Active,24-Dec,8845.6,264,2/7/2025,8,Books,0.47,3,Net Banking,0.27,5,0.19,Yes,Premium,35.6,Gold
+978,25-02-2025,63,Male,Keithhaven,Medium,One-time,Social Media,24-04-2025,37,2866.74,77.48,Active,25-Feb,4410.54,193,25-06-2025,69,Grocery,0.92,7,Net Banking,0.08,4,0.17,No,Free,40.68,Gold
+979,23-02-2024,26,Other,North Natalie,Medium,Bargain Hunter,Social Media,4/10/2024,8,3957.09,494.64,Inactive,24-Feb,7480.77,561,10/3/2024,50,Electronics,0.26,1,Debit Card,0.09,3,0.79,Yes,Premium,44.95,Gold
+980,5/12/2025,29,Female,Shanemouth,Medium,High Spender,Direct,29-06-2025,37,4603.36,124.42,Inactive,25-May,7377.84,117,8/10/2025,86,Healthcare,0.87,1,Credit Card,0.19,2,0.33,No,Gold,3.43,Bronze
+981,28-06-2024,62,Other,South Jennifer,Medium,Bargain Hunter,Email,7/1/2024,31,2491.07,80.36,Inactive,24-Jun,3889.33,435,29-06-2025,96,Electronics,0.44,2,Credit Card,0.19,4,0.17,No,Premium,30.8,Silver
+982,24-02-2024,46,Other,Port Candace,High,Occasional,Referral,13-03-2024,50,1376.27,27.53,Active,24-Feb,2343.93,560,24-05-2024,84,Healthcare,0.71,1,Wallet,0.18,5,0.89,No,Gold,23.11,Gold
+983,5/8/2024,23,Male,West Jameschester,Medium,Occasional,Referral,6/12/2024,9,3176.4,352.93,Inactive,24-May,7478.84,486,28-02-2025,11,Books,0.65,10,Debit Card,0.22,4,0.26,Yes,Free,31.98,Bronze
+984,18-07-2024,61,Male,East Melinda,Medium,High Spender,Ads,31-08-2024,27,2646.71,98.03,Active,24-Jul,6297.56,415,14-09-2024,31,Travel,0.38,2,Wallet,0.11,2,0.1,Yes,Free,31.44,Bronze
+985,19-07-2024,31,Female,Lindsayside,Medium,Loyal,Referral,8/8/2024,50,1869.92,37.4,Inactive,24-Jul,2784.51,414,21-07-2025,57,Books,0.24,3,Debit Card,0.09,4,0.31,No,Premium,43.56,Bronze
+986,5/4/2025,43,Female,Gregoryport,Medium,Bargain Hunter,Direct,5/5/2025,2,1387.02,693.51,Active,25-May,1750.82,125,19-07-2025,79,Grocery,0.9,3,Debit Card,0.11,3,0.59,No,Premium,55.82,Silver
+987,27-12-2024,20,Other,Lake Michelefort,Low,One-time,Email,22-01-2025,18,1847.7,102.65,Inactive,24-Dec,4123.41,253,4/9/2025,58,Grocery,0.5,4,Credit Card,0.18,2,0.68,No,Gold,26.64,Platinum
+988,3/6/2024,40,Other,Nicoletown,High,High Spender,Referral,4/7/2024,34,662.6,19.49,Inactive,24-Mar,1280.54,549,5/4/2025,73,Grocery,0.27,1,Net Banking,0.18,5,0.57,Yes,Gold,36.35,Bronze
+989,19-04-2024,42,Other,South Shawn,High,Loyal,Ads,16-06-2024,35,198.29,5.67,Active,24-Apr,376.51,505,11/12/2024,52,Healthcare,0.33,8,Debit Card,0.29,5,0.7,Yes,Premium,56.85,Silver
+990,27-02-2025,39,Female,Port Sherryland,Low,Bargain Hunter,Direct,4/6/2025,22,757.23,34.42,Inactive,25-Feb,1799.11,191,30-07-2025,45,Fashion,0.98,0,Net Banking,0.14,1,0.82,No,Free,23.27,Silver
+991,25-03-2024,62,Male,New Robert,Medium,One-time,Ads,5/11/2024,40,1650.78,41.27,Inactive,24-Mar,2523.27,530,7/9/2025,20,Healthcare,0.73,8,Wallet,0.24,3,0.67,Yes,Gold,14.18,Bronze
+992,24-09-2023,45,Other,Robinsonport,Medium,One-time,Direct,10/9/2023,36,207.38,5.76,Inactive,23-Sep,451.31,713,26-08-2025,54,Travel,0.64,4,UPI,0.29,4,0.41,Yes,Free,56.07,Silver
+993,28-12-2023,24,Male,North Sherryfurt,Low,Occasional,Social Media,1/8/2024,16,1284.36,80.27,Active,23-Dec,2164.31,618,19-01-2024,16,Grocery,0.08,2,Debit Card,0.07,5,0.73,No,Gold,19.43,Silver
+994,24-05-2024,60,Male,Peterview,Medium,High Spender,Social Media,22-07-2024,8,4559.62,569.95,Inactive,24-May,10325.8,470,14-09-2024,40,Travel,0.63,10,Debit Card,0.26,2,0.12,Yes,Premium,33.45,Bronze
+995,9/8/2024,41,Male,Kellyshire,High,One-time,Referral,19-10-2024,31,87.67,2.83,Inactive,24-Sep,182.37,363,5/8/2025,87,Healthcare,0.06,7,Debit Card,0.1,1,0.63,No,Free,46.47,Bronze
+996,4/2/2025,36,Female,North Kenneth,High,One-time,Ads,4/6/2025,15,3689.18,245.95,Active,25-Apr,6719.41,157,20-05-2025,94,Fashion,0.09,2,Wallet,0.1,2,0.24,Yes,Gold,28.53,Bronze
+997,26-11-2024,65,Female,East Robinfurt,Medium,High Spender,Direct,12/4/2024,34,4678.02,137.59,Inactive,24-Nov,7472.53,284,15-02-2025,79,Grocery,0.69,2,UPI,0.22,2,0.35,Yes,Free,26.24,Gold
+998,4/8/2024,24,Other,South Caitlinmouth,Medium,High Spender,Social Media,30-05-2024,28,3696.84,132.03,Active,24-Apr,5153.28,516,22-04-2025,28,Books,0.13,10,Net Banking,0.08,2,0.8,Yes,Free,15.66,Silver
+999,30-11-2023,36,Male,Davidbury,Low,Bargain Hunter,Referral,1/3/2024,13,1081.92,83.22,Inactive,23-Nov,1980.13,646,13-02-2025,64,Fashion,0.89,4,Wallet,0.07,1,0.42,No,Gold,6.13,Silver
+1000,25-08-2025,22,Other,West Jamestown,Low,High Spender,Social Media,28-09-2025,3,2054.73,684.91,Active,25-Aug,4813.03,12,9/2/2025,93,Fashion,0.12,0,Debit Card,0.18,4,0.13,Yes,Free,40.35,Bronze
