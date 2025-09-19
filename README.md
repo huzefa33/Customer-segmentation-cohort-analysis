@@ -1,5 +1,6 @@
 # Customer-segmentation-cohort-analysis
 Project Overview :-
+
 Designed and developed an interactive Tableau dashboard to analyze customer behavior, retention patterns, and spending insights for an e-commerce business. The project provided stakeholders with a 360° customer analytics view, combining KPIs, cohort analysis, and advanced visualizations to track churn, acquisition, and lifetime value across different segments.
 
 Key Contributions & Insights :- 
@@ -15,6 +16,7 @@ Transaction & Payment Trends: Implemented a waterfall chart to break down spendi
 Filters & Interactivity: Incorporated slicers for Income Level, Acquisition Channel, and Customer Segment. Allowed stakeholders to drill down into customer behavior across demographics, acquisition channels, and spending levels.
 
 Impact :- 
+
 This Tableau dashboard delivered deep customer insights, enabling decision-makers to:
 Optimize acquisition strategies by focusing on high-performing channels.
 Retain high-value customers by understanding churn and lifetime value patterns.
