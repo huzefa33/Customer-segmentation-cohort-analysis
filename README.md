@@ -15,6 +15,14 @@ Transaction & Payment Trends: Implemented a waterfall chart to break down spendi
 
 Filters & Interactivity: Incorporated slicers for Income Level, Acquisition Channel, and Customer Segment. Allowed stakeholders to drill down into customer behavior across demographics, acquisition channels, and spending levels.
 
+Dataset Overview:- 
+
+The dataset includes customer-level details such as:
+Demographics: Gender, Income Level, Location
+Behavioral Data: Acquisition Channel, Churn Status, Customer Segment, Subscription Type
+Transactions: Orders, Quantity, Payment Method, Purchase Dates
+KPIs: Customer Lifetime Value (CLV), Average Spend, Active Customers, Cohorts
+
 Impact :- 
 
 This Tableau dashboard delivered deep customer insights, enabling decision-makers to:
