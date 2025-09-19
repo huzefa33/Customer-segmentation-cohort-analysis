@@ -18,9 +18,13 @@ Filters & Interactivity: Incorporated slicers for Income Level, Acquisition Chan
 Dataset Overview:- 
 
 The dataset includes customer-level details such as:
+
 Demographics: Gender, Income Level, Location
+
 Behavioral Data: Acquisition Channel, Churn Status, Customer Segment, Subscription Type
+
 Transactions: Orders, Quantity, Payment Method, Purchase Dates
+
 KPIs: Customer Lifetime Value (CLV), Average Spend, Active Customers, Cohorts
 
 Impact :- 
